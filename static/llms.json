@@ -34,56 +34,72 @@
           "title": "Agile Software Development",
           "slug": "agile-software-development",
           "path": "locales/en-001/topics/agile-software-development/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/agile-software-development/index.md"
+          }
         },
         {
           "number": "1.4",
           "title": "Scrum",
           "slug": "scrum",
           "path": "locales/en-001/topics/scrum/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/scrum/index.md"
+          }
         },
         {
           "number": "1.5",
           "title": "Kanban",
           "slug": "kanban",
           "path": "locales/en-001/topics/kanban/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/kanban/index.md"
+          }
         },
         {
           "number": "1.6",
           "title": "Extreme Programming",
           "slug": "extreme-programming",
           "path": "locales/en-001/topics/extreme-programming/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/extreme-programming/index.md"
+          }
         },
         {
           "number": "1.7",
           "title": "Lean Software Development",
           "slug": "lean-software-development",
           "path": "locales/en-001/topics/lean-software-development/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/lean-software-development/index.md"
+          }
         },
         {
           "number": "1.8",
           "title": "Scaling Agile",
           "slug": "scaling-agile",
           "path": "locales/en-001/topics/scaling-agile/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/scaling-agile/index.md"
+          }
         },
         {
           "number": "1.9",
           "title": "Agile Management",
           "slug": "agile-management",
           "path": "locales/en-001/topics/agile-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/agile-management/index.md"
+          }
         },
         {
           "number": "1.10",
           "title": "Agile Learning",
           "slug": "agile-learning",
           "path": "locales/en-001/topics/agile-learning/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/agile-learning/index.md"
+          }
         }
       ]
     },
