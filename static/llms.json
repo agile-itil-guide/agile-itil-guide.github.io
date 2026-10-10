@@ -16,7 +16,9 @@
           "title": "Agile Manifesto",
           "slug": "agile-manifesto",
           "path": "locales/en-001/topics/agile-manifesto/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/agile-manifesto/index.md"
+          }
         },
         {
           "number": "1.2",

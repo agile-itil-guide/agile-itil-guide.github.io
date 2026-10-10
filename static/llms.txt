@@ -6,6 +6,7 @@ Each topic follows one 15-section template: thesis, why it matters, core concept
 
 ## Part 1 — Agile foundations
 
+- [Topic 1.1 — Agile Manifesto](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/agile-manifesto/index.md)
 
 ## Part 2 — ITIL and IT service management foundations
 
