@@ -25,7 +25,9 @@
           "title": "Agile Principles",
           "slug": "agile-principles",
           "path": "locales/en-001/topics/agile-principles/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/agile-principles/index.md"
+          }
         },
         {
           "number": "1.3",
