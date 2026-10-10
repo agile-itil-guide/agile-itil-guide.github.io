@@ -8,7 +8,7 @@ export type TopicRef = {
   slug: string;
   /** Topic number such as `3.4`. */
   number: string;
-  /** Title from the manifest, e.g. `Change Enablement`. */
+  /** Title from the topic's first headline, e.g. `Change Enablement`. */
   title: string;
   /** Part number, 1-6. */
   part: number;

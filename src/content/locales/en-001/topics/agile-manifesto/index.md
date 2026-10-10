@@ -172,7 +172,7 @@ Here are the four values as written:
 
 Context about our team and work: [paste 3-5 sentences about what you build, what you run, who your customers are, and any rules you must follow, such as audit or safety rules].
 
-For each value, write two or three sentences on what it could mean for us, and one example drawn only from the context above. Mark clearly any point where you are guessing. Ask me up to three clarifying questions first if the context is too thin. Do not invent statistics or quote sources.
+For each value, write two or three sentences on what it could mean for us, and one example drawn only from the context above. Mark clearly any point where you are guessing. Ask me up to three clarifying questions first if the context is too thin. Do not invent statistics or quote sources. List what you are unsure of.
 ```
 
 **Purpose: review a recent event against the values.**
@@ -192,7 +192,7 @@ I need to explain to an auditor how our agile team keeps adequate records. The a
 
 Our current practice is: [describe what you do now: tools, reviews, approvals, where records are kept].
 
-List what evidence our current practice already produces, what gaps the auditor might notice, and three lightweight ways to close each gap without adding a heavy manual process. Do not state that any law, standard, or regulation requires something unless I have pasted its text above. List your assumptions at the end.
+List what evidence our current practice already produces, what gaps the auditor might notice, and three lightweight ways to close each gap without adding a heavy manual process. Do not state that any law, standard, or regulation requires something unless I have pasted its text above. List your assumptions and what you are unsure of at the end.
 ```
 
 **Purpose: design a one-hour team session on the Manifesto.**
@@ -204,7 +204,7 @@ Include: a five-minute opening, a 20-minute activity where the team matches rece
 
 Questions available: [paste the questions you want to use from the "Questions to discuss" section].
 
-Give a timed agenda, what the facilitator says, and what to watch for. Keep it practical and do not assume any tool.
+Give a timed agenda, what the facilitator says, and what to watch for. Keep it practical and do not assume any tool. Ask clarifying questions if information is missing, and list what you are unsure of.
 ```
 
 ## AI skills

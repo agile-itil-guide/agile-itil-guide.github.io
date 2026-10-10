@@ -38,7 +38,7 @@ const indexFile = import.meta.glob('../../content/INDEX.md', {
 
 type ManifestRow = { part: number; number: string; slug: string; title: string; partTitle: string };
 
-/** The manifest (spec/topics.tsv): the single source of order, numbers, and titles. */
+/** The manifest (spec/topics.tsv): order, numbers, and parts. Its title column is a fallback copied by the sync script from each topic's first headline. */
 const manifest: ManifestRow[] = Object.values(manifestFile)[0]
   .trim()
   .split('\n')
@@ -62,7 +62,8 @@ export function toc(locale: string): TopicRef[] {
   return manifest.map(({ slug, number, title, part }) => ({
     slug,
     number,
-    title,
+    // The topic's own first headline is its title; the manifest copy is for unwritten topics.
+    title: have[slug]?.match(/^# (.+)$/m)?.[1].trim() ?? title,
     part,
     written: slug in have
   }));

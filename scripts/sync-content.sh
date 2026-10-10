@@ -13,7 +13,7 @@
 #
 # Copied:
 #   locales/<locale>/topics/<slug>/index.md   written topics only (stubs are skipped)
-#   spec/topics.tsv                           -> src/content/topics.tsv
+#   spec/topics.tsv                           -> src/content/topics.tsv (plus a title column read from each topic's first headline)
 #   GLOSSARY.md, INDEX.md                     -> src/content/
 #   skills/<name>/SKILL.md                    -> src/content/skills/<name>/SKILL.md
 #   llms.txt, llms.json                       -> static/
@@ -34,7 +34,13 @@ fi
 rm -rf "$destination"
 mkdir -p "$destination/locales" "$destination/skills"
 
-cp "$source_repo/spec/topics.tsv" "$destination/topics.tsv"
+# The monorepo manifest has no titles: a topic's first headline is its title.
+# Add a title column (from the canonical locale) so the site can list unwritten topics too.
+printf 'part\tnumber\tslug\ttitle\tpart_title\n' > "$destination/topics.tsv"
+tail -n +2 "$source_repo/spec/topics.tsv" | while IFS="$(printf '\t')" read -r part number slug part_title; do
+    title=$(head -n 1 "$source_repo/locales/en-001/topics/$slug/index.md" | sed 's/^# *//')
+    printf '%s\t%s\t%s\t%s\t%s\n' "$part" "$number" "$slug" "$title" "$part_title" >> "$destination/topics.tsv"
+done
 cp "$source_repo/GLOSSARY.md" "$destination/GLOSSARY.md"
 cp "$source_repo/INDEX.md" "$destination/INDEX.md"
 cp "$source_repo/llms.txt" "$here/static/llms.txt"
