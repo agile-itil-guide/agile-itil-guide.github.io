@@ -22,9 +22,13 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 ## C
 
+**COBIT** — A framework from ISACA for IT governance and management that links business goals to IT goals. *[Wikipedia](https://en.wikipedia.org/wiki/COBIT)* — See Topic 2.7 — ITSM Frameworks and Standards.
+
 **Collective code ownership** — An Extreme Programming practice in which anyone on the team may change any part of the code. *[Wikipedia](https://en.wikipedia.org/wiki/Extreme_programming_practices)* — See Topic 1.6 — Extreme Programming.
 
 **Continuous integration (CI)** — Merging work into a shared repository frequently, with an automatic build and test on each merge. *[Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)* — See Topic 1.6 — Extreme Programming.
+
+**Customer and user (ITSM)** — A customer pays for or commissions a service; a user uses it. They may be different people with different needs. *[Wikipedia](https://en.wikipedia.org/wiki/IT_service_management)* — See Topic 2.1 — IT Service Management.
 
 **Cycle time** — In Kanban, the time from the start to the finish of a completed work item. *[Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))* — See Topic 1.5 — Kanban.
 
@@ -40,17 +44,33 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 ## E
 
+**Enterprise service management (ESM)** — Applying ITSM tools and ideas to other business areas such as human resources or facilities. *[Wikipedia](https://en.wikipedia.org/wiki/Enterprise_service_management)* — See Topic 2.1 — IT Service Management.
+
 **Extreme Programming (XP)** — An agile method that emphasizes engineering practices such as pair programming, test-driven development, and continuous integration. *[Wikipedia](https://en.wikipedia.org/wiki/Extreme_programming)* — See Topic 1.6 — Extreme Programming.
 
 ## F
 
+**FitSM** — A family of lightweight, freely licensed ITSM standards that grew out of the EU-funded FedSM project; organizations cannot be certified as conformant. *[Wikipedia](https://en.wikipedia.org/wiki/FitSM)* — See Topic 2.7 — ITSM Frameworks and Standards.
+
+**Four dimensions of service management** — ITIL 4's checklist of organizations and people; information and technology; partners and suppliers; and value streams and processes. — See Topic 2.5 — Four Dimensions of Service Management.
+
 ## G
+
+**Guiding principles (ITIL)** — Seven recommendations: focus on value; start where you are; progress iteratively with feedback; collaborate and promote visibility; think and work holistically; keep it simple and practical; optimize and automate. — See Topic 2.4 — ITIL Guiding Principles.
 
 ## H
 
 ## I
 
+**Incident** — A disruption or potential disruption in service availability or quality. *[Wikipedia](https://en.wikipedia.org/wiki/IT_service_management)* — See Topic 2.1 — IT Service Management.
+
 **Increment** — In Scrum, a usable, verified step toward the Product Goal that adds to all earlier Increments. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Scrum.
+
+**ISO/IEC 20000** — An international standard for IT service management systems, against which an organization can be certified. *[Wikipedia](https://en.wikipedia.org/wiki/ISO/IEC_20000)* — See Topic 2.7 — ITSM Frameworks and Standards.
+
+**IT service management (ITSM)** — The activities an organization performs to design, build, deliver, operate, and control IT services offered to customers. *[Wikipedia](https://en.wikipedia.org/wiki/IT_service_management)* — See Topic 2.1 — IT Service Management.
+
+**ITIL** — A framework of practices for IT service management and IT asset management; certification is for individuals, not organizations. *[Wikipedia](https://en.wikipedia.org/wiki/ITIL)* — See Topic 2.2 — ITIL.
 
 ## J
 
@@ -78,6 +98,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Pair programming** — Two programmers working on one task at one workstation, one writing and one reviewing, swapping partners often. *[Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)* — See Topic 1.6 — Extreme Programming.
 
+**PESTLE** — A scan of political, economic, social, technological, legal, and environmental factors that affect all four dimensions. *[Wikipedia](https://en.wikipedia.org/wiki/PEST_analysis)* — See Topic 2.5 — Four Dimensions of Service Management.
+
 **Product Backlog** — In Scrum, an ordered, evolving list of what the product needs; its commitment is the Product Goal. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Scrum.
 
 **Product Owner** — In Scrum, the one person accountable for maximizing the value of the product and for ordering the Product Backlog. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Scrum.
@@ -104,6 +126,12 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Service level expectation (SLE)** — In Kanban, a forecast of how long a work item should take to flow through the workflow, based on past cycle times; not an agreement. *[Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))* — See Topic 1.5 — Kanban.
 
+**Service request** — A routine request for something a service normally provides. *[Wikipedia](https://en.wikipedia.org/wiki/IT_service_management)* — See Topic 2.1 — IT Service Management.
+
+**Service value chain** — The operating model at the center of the ITIL 4 service value system: plan, improve, engage, design and transition, obtain/build, and deliver and support. — See Topic 2.6 — The Service Value Chain.
+
+**Service value system (SVS)** — The ITIL 4 model of how guiding principles, governance, the service value chain, practices, and continual improvement turn demand and opportunity into value. — See Topic 2.3 — The ITIL Service Value System.
+
 **Sprint** — In Scrum, a fixed timebox of one month or less in which all other events happen. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Scrum.
 
 **Sprint Goal** — The single objective for a Scrum Sprint; the commitment of the Sprint Backlog. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Scrum.
@@ -125,6 +153,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 ## U
 
 ## V
+
+**Value stream** — A specific set of activities that create and deliver a particular service or product to customers; a path through the service value chain. — See Topic 2.6 — The Service Value Chain.
 
 **Value stream mapping** — A technique that shows each step from request to delivered value with working time and waiting time, used to find waste. *[Wikipedia](https://en.wikipedia.org/wiki/Value-stream_mapping)* — See Topic 1.7 — Lean Software Development.
 

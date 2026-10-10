@@ -20,9 +20,15 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 ## C
 
+**Certification (ITIL and ISO/IEC)** — 2.2, 2.7
+
+**COBIT** — 2.7
+
 **Continuous integration** — 1.6, 1.3, 1.8
 
 **Customer collaboration** — 1.1, 1.2
+
+**Customers and users (ITSM)** — 2.1
 
 ## D
 
@@ -34,13 +40,35 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 ## E
 
+**Enterprise service management** — 2.1
+
 **Extreme Programming** — 1.6, 1.3
 
 ## F
 
+**FitSM** — 2.7
+
 **Flow metrics** — 1.5
 
+**Four dimensions** — 2.5, 2.3
+
 **Funding teams and services** — 1.9
+
+## G
+
+**Guiding principles (ITIL)** — 2.4, 2.2, 2.3
+
+## I
+
+**ISO/IEC 20000** — 2.7, 2.2
+
+**IT service management** — 2.1, 2.2, 2.7
+
+**ITIL** — 2.2, 2.3, 2.4, 2.7
+
+**ITIL 4** — 2.2, 2.3, 2.4, 2.5, 2.6
+
+**ITIL 5** — 2.2, 2.3, 2.4
 
 ## K
 
@@ -53,6 +81,10 @@ Entries are added by each topic's author in the same commit as the topic. The re
 **Large-Scale Scrum (LeSS)** — 1.8
 
 **Lean** — 1.7, 1.5, 1.9
+
+## P
+
+**PESTLE** — 2.5
 
 ## R
 
@@ -68,6 +100,10 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Scrumban** — 1.4, 1.5
 
+**Service value chain** — 2.6, 2.3
+
+**Service value system** — 2.3, 2.5, 2.6
+
 **Sustainable pace** — 1.2, 1.6
 
 ## T
@@ -75,6 +111,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 **Technical debt** — 1.2
 
 ## V
+
+**Value stream** — 2.6, 2.3, 2.5
 
 **Value stream mapping** — 1.7
 

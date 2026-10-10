@@ -19,6 +19,12 @@ Each topic follows one 15-section template: thesis, why it matters, core concept
 
 ## Part 2 — ITIL and IT service management foundations
 
+- [Topic 2.1 — IT Service Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/it-service-management/index.md)
+- [Topic 2.2 — ITIL](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/itil/index.md)
+- [Topic 2.3 — The ITIL Service Value System](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/service-value-system/index.md)
+- [Topic 2.4 — ITIL Guiding Principles](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/itil-guiding-principles/index.md)
+- [Topic 2.5 — Four Dimensions of Service Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/four-dimensions-of-service-management/index.md)
+- [Topic 2.6 — The Service Value Chain](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/service-value-chain/index.md)
 
 ## Part 3 — Service practices, the agile way
 

@@ -111,42 +111,54 @@
           "title": "IT Service Management",
           "slug": "it-service-management",
           "path": "locales/en-001/topics/it-service-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/it-service-management/index.md"
+          }
         },
         {
           "number": "2.2",
           "title": "ITIL",
           "slug": "itil",
           "path": "locales/en-001/topics/itil/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/itil/index.md"
+          }
         },
         {
           "number": "2.3",
           "title": "The ITIL Service Value System",
           "slug": "service-value-system",
           "path": "locales/en-001/topics/service-value-system/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/service-value-system/index.md"
+          }
         },
         {
           "number": "2.4",
           "title": "ITIL Guiding Principles",
           "slug": "itil-guiding-principles",
           "path": "locales/en-001/topics/itil-guiding-principles/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/itil-guiding-principles/index.md"
+          }
         },
         {
           "number": "2.5",
           "title": "Four Dimensions of Service Management",
           "slug": "four-dimensions-of-service-management",
           "path": "locales/en-001/topics/four-dimensions-of-service-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/four-dimensions-of-service-management/index.md"
+          }
         },
         {
           "number": "2.6",
           "title": "The Service Value Chain",
           "slug": "service-value-chain",
           "path": "locales/en-001/topics/service-value-chain/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/service-value-chain/index.md"
+          }
         },
         {
           "number": "2.7",
