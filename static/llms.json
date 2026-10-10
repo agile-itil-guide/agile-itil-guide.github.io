@@ -305,7 +305,9 @@
           "title": "Continual Improvement",
           "slug": "continual-improvement",
           "path": "locales/en-001/topics/continual-improvement/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/continual-improvement/index.md"
+          }
         }
       ]
     },
@@ -317,28 +319,36 @@
           "title": "IT Asset Management",
           "slug": "it-asset-management",
           "path": "locales/en-001/topics/it-asset-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/it-asset-management/index.md"
+          }
         },
         {
           "number": "4.2",
           "title": "Software Asset Management",
           "slug": "software-asset-management",
           "path": "locales/en-001/topics/software-asset-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/software-asset-management/index.md"
+          }
         },
         {
           "number": "4.3",
           "title": "Hardware Asset Management",
           "slug": "hardware-asset-management",
           "path": "locales/en-001/topics/hardware-asset-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/hardware-asset-management/index.md"
+          }
         },
         {
           "number": "4.4",
           "title": "Configuration Management",
           "slug": "configuration-management",
           "path": "locales/en-001/topics/configuration-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/configuration-management/index.md"
+          }
         },
         {
           "number": "4.5",

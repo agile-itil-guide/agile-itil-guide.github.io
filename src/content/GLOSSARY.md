@@ -20,9 +20,13 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Alert** — A notification for a human, delivered as a ticket, email, or page. — See Topic 3.10 — Monitoring and Event Management.
 
+**Asset tag** — A unique identifier attached to or recorded for a device so that it can be tracked through its life cycle. — See Topic 4.3 — Hardware Asset Management.
+
 **Availability** — The ability of a service to do what users need when they need it, often expressed as a percentage over a period. *[Wikipedia](https://en.wikipedia.org/wiki/High_availability)* — See Topic 3.11 — Availability, Capacity, and Performance.
 
 ## B
+
+**Baseline (configuration)** — An agreed reference configuration; once baselined, changes go through formal control. *[Wikipedia](https://en.wikipedia.org/wiki/Configuration_management)* — See Topic 4.4 — Configuration Management.
 
 **Blameless postmortem** — A review that records an incident, its impact, causes, and actions without blaming individuals or teams. — See Topic 3.2 — Incident Management.
 
@@ -38,15 +42,23 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Change lead time** — The time for a change to go from committed to version control to deployed in production (DORA). — See Topic 3.4 — Change Enablement.
 
+**Chargeback** — Billing consumers, or moving cost to their budget, for the services they use. — See Topic 4.5 — IT Financial Management and FinOps.
+
 **COBIT** — A framework from ISACA for IT governance and management that links business goals to IT goals. *[Wikipedia](https://en.wikipedia.org/wiki/COBIT)* — See Topic 2.7 — ITSM Frameworks and Standards.
 
 **Collective code ownership** — An Extreme Programming practice in which anyone on the team may change any part of the code. *[Wikipedia](https://en.wikipedia.org/wiki/Extreme_programming_practices)* — See Topic 1.6 — Extreme Programming.
+
+**Configuration item (CI)** — A component whose configuration is tracked, with attributes and relationships to other items. *[Wikipedia](https://en.wikipedia.org/wiki/Configuration_management_database)* — See Topic 4.4 — Configuration Management.
+
+**Configuration management database (CMDB)** — An ITIL term for a database storing configuration items and their relationships. *[Wikipedia](https://en.wikipedia.org/wiki/Configuration_management_database)* — See Topic 4.4 — Configuration Management.
 
 **Continual improvement** — An ongoing effort to improve products, services, or processes, in small steps or breakthroughs. *[Wikipedia](https://en.wikipedia.org/wiki/Continual_improvement_process)* — See Topic 3.15 — Continual Improvement.
 
 **Continuous delivery** — The ability to release changes of all kinds on demand quickly, safely, and sustainably (DORA). *[Wikipedia](https://en.wikipedia.org/wiki/Continuous_delivery)* — See Topic 3.5 — Release and Deployment Management.
 
 **Continuous integration (CI)** — Merging work into a shared repository frequently, with an automatic build and test on each merge. *[Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)* — See Topic 1.6 — Extreme Programming.
+
+**Copyleft** — A family of open-source licenses that require recipients to use the same license for at least some parts of what they distribute. *[Wikipedia](https://en.wikipedia.org/wiki/Copyleft)* — See Topic 4.2 — Software Asset Management.
 
 **Customer and user (ITSM)** — A customer pays for or commissions a service; a user uses it. They may be different people with different needs. *[Wikipedia](https://en.wikipedia.org/wiki/IT_service_management)* — See Topic 2.1 — IT Service Management.
 
@@ -55,6 +67,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 ## D
 
 **Daily Scrum** — A 15-minute daily event in which the Developers inspect progress toward the Sprint Goal and plan the next day. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Scrum.
+
+**Data erasure** — A method that overwrites every sector of a storage device so the data cannot be recovered; ordinary deletion removes only pointers. *[Wikipedia](https://en.wikipedia.org/wiki/Data_erasure)* — See Topic 4.3 — Hardware Asset Management.
 
 **Defense in depth** — Layering overlapping administrative, logical, and physical controls so that one failure is not enough. *[Wikipedia](https://en.wikipedia.org/wiki/Defense_in_depth_(computing))* — See Topic 3.13 — Information Security Management.
 
@@ -66,11 +80,17 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Disciplined Agile (DA)** — A toolkit of process goals and options, owned by the Project Management Institute since August 2019, that helps a team choose its way of working. *[Wikipedia](https://en.wikipedia.org/wiki/Disciplined_agile_delivery)* — See Topic 1.8 — Scaling Agile.
 
+**Drift (configuration)** — The difference between the intended (declared) state of a system and its actual (discovered) state. — See Topic 4.4 — Configuration Management.
+
 ## E
+
+**Electronic waste (e-waste)** — Discarded electrical or electronic devices, including items destined for reuse, resale, recycling, or disposal. *[Wikipedia](https://en.wikipedia.org/wiki/Electronic_waste)* — See Topic 4.3 — Hardware Asset Management.
 
 **Emergency change** — A change that must be made urgently, for example to restore service, with expedited authorization. — See Topic 3.4 — Change Enablement.
 
 **Enterprise service management (ESM)** — Applying ITSM tools and ideas to other business areas such as human resources or facilities. *[Wikipedia](https://en.wikipedia.org/wiki/Enterprise_service_management)* — See Topic 2.1 — IT Service Management.
+
+**Entitlement** — What an organization is allowed to use under its contracts and licenses. — See Topic 4.2 — Software Asset Management.
 
 **Error budget** — The rate at which a service level objective may be missed, used to guide release decisions. — See Topic 3.7 — Service Level Management.
 
@@ -79,6 +99,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 **Extreme Programming (XP)** — An agile method that emphasizes engineering practices such as pair programming, test-driven development, and continuous integration. *[Wikipedia](https://en.wikipedia.org/wiki/Extreme_programming)* — See Topic 1.6 — Extreme Programming.
 
 ## F
+
+**FinOps** — An operational framework and cultural practice that maximizes the business value of technology through collaboration between engineering, finance, and business teams. — See Topic 4.5 — IT Financial Management and FinOps.
 
 **FitSM** — A family of lightweight, freely licensed ITSM standards that grew out of the EU-funded FedSM project; organizations cannot be certified as conformant. *[Wikipedia](https://en.wikipedia.org/wiki/FitSM)* — See Topic 2.7 — ITSM Frameworks and Standards.
 
@@ -102,9 +124,13 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Information security** — Protecting information by mitigating information risks; its core goals are confidentiality, integrity, and availability. *[Wikipedia](https://en.wikipedia.org/wiki/Information_security)* — See Topic 3.13 — Information Security Management.
 
+**Infrastructure as code (IaC)** — Managing and provisioning resources through machine-readable definition files, often kept in version control. *[Wikipedia](https://en.wikipedia.org/wiki/Infrastructure_as_code)* — See Topic 4.4 — Configuration Management.
+
 **ISO/IEC 20000** — An international standard for IT service management systems, against which an organization can be certified. *[Wikipedia](https://en.wikipedia.org/wiki/ISO/IEC_20000)* — See Topic 2.7 — ITSM Frameworks and Standards.
 
 **ISO/IEC 27001** — The standard for information security management systems; organizations can be certified against it. *[Wikipedia](https://en.wikipedia.org/wiki/ISO/IEC_27001)* — See Topic 3.13 — Information Security Management.
+
+**IT asset management (ITAM)** — Business practices that join financial, contractual, and inventory functions to support life cycle management and IT decisions. *[Wikipedia](https://en.wikipedia.org/wiki/IT_asset_management)* — See Topic 4.1 — IT Asset Management.
 
 **IT service management (ITSM)** — The activities an organization performs to design, build, deliver, operate, and control IT services offered to customers. *[Wikipedia](https://en.wikipedia.org/wiki/IT_service_management)* — See Topic 2.1 — IT Service Management.
 
@@ -138,11 +164,15 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 ## O
 
+**Open-source software** — Software whose source code is publicly available and may be used, studied, modified, and distributed under an open license. *[Wikipedia](https://en.wikipedia.org/wiki/Open-source_software)* — See Topic 4.2 — Software Asset Management.
+
 ## P
 
 **Pair programming** — Two programmers working on one task at one workstation, one writing and one reviewing, swapping partners often. *[Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)* — See Topic 1.6 — Extreme Programming.
 
 **PDCA** — Plan, do, check, act: an iterative method for controlling and continually improving processes and products. *[Wikipedia](https://en.wikipedia.org/wiki/PDCA)* — See Topic 3.15 — Continual Improvement.
+
+**Permissive license** — An open-source license that does not require derivative works to use the same license; examples are BSD, MIT, and Apache. *[Wikipedia](https://en.wikipedia.org/wiki/Permissive_software_license)* — See Topic 4.2 — Software Asset Management.
 
 **PESTLE** — A scan of political, economic, social, technological, legal, and environmental factors that affect all four dimensions. *[Wikipedia](https://en.wikipedia.org/wiki/PEST_analysis)* — See Topic 2.5 — Four Dimensions of Service Management.
 
@@ -200,6 +230,14 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Service value system (SVS)** — The ITIL 4 model of how guiding principles, governance, the service value chain, practices, and continual improvement turn demand and opportunity into value. — See Topic 2.3 — The ITIL Service Value System.
 
+**Showback** — Showing consumers what they use and what it costs without billing them. — See Topic 4.5 — IT Financial Management and FinOps.
+
+**Software asset management (SAM)** — A business practice for managing and optimizing the purchase, deployment, maintenance, use, and disposal of software. *[Wikipedia](https://en.wikipedia.org/wiki/Software_asset_management)* — See Topic 4.2 — Software Asset Management.
+
+**Software bill of materials (SBOM)** — An inventory of the components used to build a software artifact, including open-source and proprietary parts. *[Wikipedia](https://en.wikipedia.org/wiki/Software_supply_chain)* — See Topic 4.2 — Software Asset Management.
+
+**Software supply chain** — The components, libraries, tools, and processes used to develop, build, and publish a software artifact. *[Wikipedia](https://en.wikipedia.org/wiki/Software_supply_chain)* — See Topic 4.2 — Software Asset Management.
+
 **Sprint** — In Scrum, a fixed timebox of one month or less in which all other events happen. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Scrum.
 
 **Sprint Goal** — The single objective for a Scrum Sprint; the commitment of the Sprint Backlog. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Scrum.
@@ -229,6 +267,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 ## U
 
 **Underpinning contract** — In ITIL vocabulary, an agreement with an outside supplier that supports a service level agreement. — See Topic 3.14 — Supplier Management.
+
+**Unit cost** — Cost divided by a business measure such as transactions, users, or services. — See Topic 4.5 — IT Financial Management and FinOps.
 
 ## V
 

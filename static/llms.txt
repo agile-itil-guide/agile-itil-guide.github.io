@@ -43,9 +43,14 @@ Each topic follows one 15-section template: thesis, why it matters, core concept
 - [Topic 3.12 — Service Continuity Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/service-continuity-management/index.md)
 - [Topic 3.13 — Information Security Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/information-security-management/index.md)
 - [Topic 3.14 — Supplier Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/supplier-management/index.md)
+- [Topic 3.15 — Continual Improvement](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/continual-improvement/index.md)
 
 ## Part 4 — IT asset and configuration management
 
+- [Topic 4.1 — IT Asset Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/it-asset-management/index.md)
+- [Topic 4.2 — Software Asset Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/software-asset-management/index.md)
+- [Topic 4.3 — Hardware Asset Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/hardware-asset-management/index.md)
+- [Topic 4.4 — Configuration Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/configuration-management/index.md)
 
 ## Part 5 — Bringing agile and ITIL together
 
