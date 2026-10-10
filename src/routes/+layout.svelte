@@ -96,8 +96,8 @@
   // to the house-style default on locale-neutral pages.
   const siteLinks = $derived([
     { href: `/${currentLocale ?? pickerLocale ?? DEFAULT_LOCALE}/contents/`, label: _('nav.contents') },
-    { href: '/glossary/', label: _('nav.glossary') },
-    { href: '/index/', label: _('nav.index') },
+    { href: `/${currentLocale ?? pickerLocale ?? DEFAULT_LOCALE}/glossary/`, label: _('nav.glossary') },
+    { href: `/${currentLocale ?? pickerLocale ?? DEFAULT_LOCALE}/index/`, label: _('nav.index') },
     { href: '/skills/', label: _('nav.skills') }
   ]);
 
@@ -153,8 +153,16 @@
       href: `/${currentLocale ?? pickerLocale ?? DEFAULT_LOCALE}/contents/`,
       current: page.url.pathname.endsWith('/contents/')
     },
-    { label: _('nav.glossary'), href: '/glossary/', current: page.url.pathname === '/glossary/' },
-    { label: _('nav.index'), href: '/index/', current: page.url.pathname === '/index/' },
+    {
+      label: _('nav.glossary'),
+      href: `/${currentLocale ?? pickerLocale ?? DEFAULT_LOCALE}/glossary/`,
+      current: page.url.pathname.endsWith('/glossary/')
+    },
+    {
+      label: _('nav.index'),
+      href: `/${currentLocale ?? pickerLocale ?? DEFAULT_LOCALE}/index/`,
+      current: page.url.pathname.endsWith('/index/')
+    },
     { label: _('nav.skills'), href: '/skills/', current: page.url.pathname.startsWith('/skills/') },
     { label: _('links.llms'), href: '/llms.txt', newTab: true },
     { label: `${_('nav.source')} — GitHub`, href: SOURCE_REPO, newTab: true },

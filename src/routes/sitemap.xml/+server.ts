@@ -21,8 +21,8 @@ function hreflang(locale: string): string {
  * Every locale's topics are listed with `xhtml:link` alternates pointing at
  * the same topic in every other locale (and `x-default` at the default
  * locale), so a search engine serves each reader the language they read.
- * The glossary and index are not localized upstream, so each gets one shared
- * entry with no alternates.
+ * The unprefixed glossary and index are the English root copies; each locale
+ * also has its own glossary and index page, with alternates for the others.
  */
 export function GET() {
   const slugMap = localeSlugMap();
@@ -44,6 +44,9 @@ export function GET() {
     return Object.fromEntries(Object.entries(group).map(([l, s]) => [l, `/${l}/topics/${s}/`]));
   };
 
+  const referenceGroups = (page: string): Record<string, string> =>
+    Object.fromEntries(LOCALE_SLUGS.map((l) => [l, `/${l}/${page}/`]));
+
   const entries = [
     url('/'),
     url('/glossary/'),
@@ -51,6 +54,8 @@ export function GET() {
     url('/skills/'),
     ...LOCALE_SLUGS.flatMap((locale) => [
       url(`/${locale}/contents/`),
+      url(`/${locale}/glossary/`, referenceGroups('glossary')),
+      url(`/${locale}/index/`, referenceGroups('index')),
       ...slugs(locale).map((slug) => url(`/${locale}/topics/${slug}/`, topicGroups(locale, slug)))
     ])
   ];

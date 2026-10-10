@@ -15,6 +15,7 @@
 #   locales/<locale>/topics/<slug>/index.md   written topics only (stubs are skipped)
 #   spec/topics.tsv                           -> src/content/topics.tsv (plus a title column read from each topic's first headline)
 #   GLOSSARY.md, INDEX.md                     -> src/content/
+#   locales/<locale>/GLOSSARY.md, INDEX.md    -> src/content/locales/<locale>/   where a locale has translations
 #   skills/<name>/SKILL.md                    -> src/content/skills/<name>/SKILL.md
 #   llms.txt, llms.json                       -> static/
 
@@ -50,6 +51,12 @@ total=0
 for locale_path in "$source_repo"/locales/*/; do
     locale=$(basename "$locale_path")
     count=0
+    for reference_file in GLOSSARY.md INDEX.md; do
+        if [ -f "${locale_path}${reference_file}" ]; then
+            mkdir -p "$destination/locales/$locale"
+            cp "${locale_path}${reference_file}" "$destination/locales/$locale/$reference_file"
+        fi
+    done
     for topic_path in "${locale_path}topics"/*/; do
         [ -f "${topic_path}index.md" ] || continue
         if grep -q "$STUB" "${topic_path}index.md"; then continue; fi

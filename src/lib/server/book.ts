@@ -36,6 +36,18 @@ const indexFile = import.meta.glob('../../content/INDEX.md', {
   eager: true
 }) as Record<string, string>;
 
+/** Translated reference files, `content/locales/<locale>/GLOSSARY.md` and `INDEX.md`, where a locale has them. */
+const localeReferenceFiles = import.meta.glob('../../content/locales/*/{GLOSSARY,INDEX}.md', {
+  query: '?raw',
+  import: 'default',
+  eager: true
+}) as Record<string, string>;
+
+function localeReference(locale: string | undefined, file: 'GLOSSARY' | 'INDEX'): string | undefined {
+  if (!locale) return undefined;
+  return localeReferenceFiles[`../../content/locales/${locale}/${file}.md`];
+}
+
 type ManifestRow = { part: number; number: string; slug: string; title: string; partTitle: string };
 
 /** The manifest (spec/topics.tsv): order, numbers, and parts. Its title column is a fallback copied by the sync script from each topic's first headline. */
@@ -135,12 +147,12 @@ function reference(markdown: string): Document & { letters: Heading[] } {
   return { ...doc, letters: doc.headings.filter((heading) => heading.depth === 2) };
 }
 
-/** The A–Z glossary: one shared copy, served at an unprefixed URL. */
-export function glossary() {
-  return reference(Object.values(glossaryFile)[0]);
+/** The A–Z glossary: the locale's translation when it has one, else the English root copy. */
+export function glossary(locale?: string) {
+  return reference(localeReference(locale, 'GLOSSARY') ?? Object.values(glossaryFile)[0]);
 }
 
-/** The concept index. */
-export function conceptIndex() {
-  return reference(Object.values(indexFile)[0]);
+/** The concept index: the locale's translation when it has one, else the English root copy. */
+export function conceptIndex(locale?: string) {
+  return reference(localeReference(locale, 'INDEX') ?? Object.values(indexFile)[0]);
 }
