@@ -62,9 +62,14 @@ Each topic follows one 15-section template: thesis, why it matters, core concept
 - [Topic 5.5 — Product and Service Ownership](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/product-and-service-ownership/index.md)
 - [Topic 5.6 — Metrics and Measurement](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/metrics-and-measurement/index.md)
 - [Topic 5.7 — Governance, Risk, and Compliance](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/governance-risk-and-compliance/index.md)
+- [Topic 5.8 — Organizational Change and Adoption](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/organizational-change-and-adoption/index.md)
 
 ## Part 6 — People, conversations, and AI
 
+- [Topic 6.1 — Team Conversations](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/team-conversations/index.md)
+- [Topic 6.2 — AI in IT Service Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/ai-in-it-service-management/index.md)
+- [Topic 6.3 — AI Skills and Prompts](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/ai-skills-and-prompts/index.md)
+- [Topic 6.4 — Learning Paths and Certification](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/learning-paths-and-certification/index.md)
 
 ## Reference
 

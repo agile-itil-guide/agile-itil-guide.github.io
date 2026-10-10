@@ -20,6 +20,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Agile principles** — The twelve principles behind the Agile Manifesto that spell out its values in daily work. — See Topic 1.2 — Agile Principles.
 
+**AIOps** — Using AI, machine learning, and big data analytics to automate and improve IT operations; defined by Gartner in 2016. *[Wikipedia](https://en.wikipedia.org/wiki/AIOps)* — See Topic 6.2 — AI in IT Service Management.
+
 **Alert** — A notification for a human, delivered as a ticket, email, or page. — See Topic 3.10 — Monitoring and Event Management.
 
 **Asset tag** — A unique identifier attached to or recorded for a device so that it can be tracked through its life cycle. — See Topic 4.3 — Hardware Asset Management.
@@ -116,6 +118,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Four golden signals** — Latency, traffic, errors, and saturation: the signals to watch for a user-facing system. — See Topic 3.10 — Monitoring and Event Management.
 
+**Futurespective** — A forward-looking group exercise that imagines possible futures to inform current decisions; the counterpart of a retrospective. — See Topic 6.1 — Team Conversations.
+
 ## G
 
 **Goodhart's law** — The adage that when a measure becomes a target, it ceases to be a good measure. *[Wikipedia](https://en.wikipedia.org/wiki/Goodhart%27s_law)* — See Topic 5.6 — Metrics and Measurement.
@@ -127,6 +131,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 **Guiding principles (ITIL)** — Seven recommendations: focus on value; start where you are; progress iteratively with feedback; collaborate and promote visibility; think and work holistically; keep it simple and practical; optimize and automate. — See Topic 2.4 — ITIL Guiding Principles.
 
 ## H
+
+**Hallucination (AI)** — An AI response that contains false or misleading information presented as fact. *[Wikipedia](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))* — See Topic 6.2 — AI in IT Service Management.
 
 ## I
 
@@ -166,7 +172,11 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Large-Scale Scrum (LeSS)** — A framework by Craig Larman and Bas Vodde that applies Scrum to many teams working on one product with one Product Owner and one Product Backlog. — See Topic 1.8 — Scaling Agile.
 
+**Lean coffee** — An agenda-less, structured meeting in which participants build an agenda and vote on topics; created in Seattle in 2009 by Jim Benson and Jeremy Lightsmith. — See Topic 6.1 — Team Conversations.
+
 **Lean software development** — An adaptation of lean manufacturing to software, stated as seven principles by Mary and Tom Poppendieck in 2003. *[Wikipedia](https://en.wikipedia.org/wiki/Lean_software_development)* — See Topic 1.7 — Lean Software Development.
+
+**Liftoff** — The initial stage of an agile project in which a team aligns on vision, objectives, stakeholders, and an initial plan. — See Topic 6.1 — Team Conversations.
 
 ## M
 
@@ -175,6 +185,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 ## N
 
 **Net promoter score (NPS)** — A measure based on one question about likelihood to recommend: percentage of promoters minus percentage of detractors. *[Wikipedia](https://en.wikipedia.org/wiki/Net_promoter_score)* — See Topic 5.6 — Metrics and Measurement.
+
+**NIST AI Risk Management Framework** — A voluntary framework, released 26 January 2023, for managing risks from AI to individuals, organizations, and society. — See Topic 6.2 — AI in IT Service Management.
 
 **Normal change** — A change that needs assessment and authorization before it proceeds. — See Topic 3.4 — Change Enablement.
 
@@ -202,6 +214,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Product owner (service owner)** — The person accountable for the value of a product or service and for ordering its backlog. — See Topic 5.5 — Product and Service Ownership.
 
+**Prompt** — The instruction and material given to an AI assistant for one task. *[Wikipedia](https://en.wikipedia.org/wiki/Prompt_engineering)* — See Topic 6.3 — AI Skills and Prompts.
+
 **Pull system** — A way of working in which new work starts only when there is capacity for it, produced by limiting work in progress. *[Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))* — See Topic 1.5 — Kanban.
 
 ## Q
@@ -215,6 +229,10 @@ Entries are added by each topic's author in the same commit as the topic. The re
 **Refactoring** — Improving the design of code without changing what it does. *[Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)* — See Topic 1.6 — Extreme Programming.
 
 **Request model** — A repeatable pattern for a type of service request: information needed, approval, steps, and expected time. — See Topic 3.6 — Service Request Management.
+
+**Retrieval-augmented generation (RAG)** — Letting a language model consult external sources before answering, to ground its output. *[Wikipedia](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)* — See Topic 6.2 — AI in IT Service Management.
+
+**Retrospective** — A team meeting, often at the end of an iteration, that looks at what went well, what could be improved, and how to apply the lessons. *[Wikipedia](https://en.wikipedia.org/wiki/Retrospective)* — See Topic 6.1 — Team Conversations.
 
 **Risk register** — A record of identified risks with description, assessment, owner, treatment, and status. — See Topic 5.7 — Governance, Risk, and Compliance.
 
@@ -255,6 +273,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 **Showback** — Showing consumers what they use and what it costs without billing them. — See Topic 4.5 — IT Financial Management and FinOps.
 
 **Site reliability engineering (SRE)** — A discipline that applies software engineering to operations to improve the availability and performance of large services. *[Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)* — See Topic 5.3 — Site Reliability Engineering.
+
+**Skill (AI)** — A reusable package of know-how for a kind of task: a directory with a SKILL.md file whose description says when to use it. — See Topic 6.3 — AI Skills and Prompts.
 
 **Software asset management (SAM)** — A business practice for managing and optimizing the purchase, deployment, maintenance, use, and disposal of software. *[Wikipedia](https://en.wikipedia.org/wiki/Software_asset_management)* — See Topic 4.2 — Software Asset Management.
 
@@ -319,6 +339,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 **Work-in-process limit** — A cap on how many items can be in a stage of a workflow at one time. — See Topic 5.4 — Value Stream Management.
 
 **Workaround** — A way to reduce or avoid the impact of an incident or problem without removing its cause. — See Topic 3.3 — Problem Management.
+
+**Working agreement** — A short set of rules a team writes for itself about how it will work together. — See Topic 6.1 — Team Conversations.
 
 ## X
 

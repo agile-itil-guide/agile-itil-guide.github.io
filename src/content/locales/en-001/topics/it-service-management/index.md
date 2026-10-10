@@ -70,7 +70,7 @@ The ITIL article describes ITIL as covering both ITSM and IT asset management (I
 
 ## Best practices
 
-1. **Define your services from the customer's side.** List what customers and users actually use, in their words, such as "log in," "book an appointment," and "send an invoice." Group the technology behind each. This is the start of a service catalog (see Topic 3.8 — Service Catalog Management).
+1. **Define your services from the customer's side.** List what customers and users actually use, in their words, such as "log in," "book an appointment," and "send an invoice." Group the technology behind each. This is the start of a service catalog (ITIL spells it "service catalogue"; see Topic 3.8 — Service Catalog Management).
 2. **Name who the customers and users are.** For each service, write down who pays or commissions it and who uses it. If they are different people, check that both groups have a voice.
 3. **Give every service an owner.** Name one person accountable for how the service performs and improves over time. Without an owner, issues with the service are no one's job.
 4. **Start with the activities that hurt most.** If outages are the pain, strengthen incident handling first. If nobody knows what changed, start with change records. Do not roll out every ITSM practice at once.

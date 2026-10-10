@@ -56,7 +56,7 @@ A **gate** is a checkpoint, usually manual, where work waits for approval. A **g
 
 ### Evidence as a by-product
 
-Auditors need evidence that controls operate. A pipeline that records who reviewed, what tested, and what was deployed gives evidence for every change. A service catalog with owners gives evidence of accountability. Postmortems give evidence of learning. This is much stronger than a quarterly document written for an audit. Discuss early with auditors what they will accept (see Topic 5.1 — Agile Service Management).
+Auditors need evidence that controls operate. A pipeline that records who reviewed, what tested, and what was deployed gives evidence for every change. A service catalog (ITIL spells it "service catalogue") with owners gives evidence of accountability. Postmortems give evidence of learning. This is much stronger than a quarterly document written for an audit. Discuss early with auditors what they will accept (see Topic 5.1 — Agile Service Management).
 
 ### Regulated environments
 

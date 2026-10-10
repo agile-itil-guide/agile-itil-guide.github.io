@@ -18,6 +18,14 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Agile software development** — 1.3, 1.1, 1.2, 1.9
 
+**AI in service management** — 6.2, 6.3
+
+**AI prompts** — 6.3
+
+**AI skills** — 6.3
+
+**AIOps** — 6.2, 3.10
+
 **Alerting** — 3.10, 3.2
 
 **Asset register** — 4.1, 4.3
@@ -33,6 +41,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 ## C
 
 **Capacity** — 3.11
+
+**Certification** — 6.4, 2.2, 2.7
 
 **Certification (ITIL and ISO/IEC)** — 2.2, 2.7
 
@@ -94,6 +104,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 ## F
 
+**Facilitation** — 6.1
+
 **FinOps** — 4.5
 
 **FitSM** — 2.7
@@ -103,6 +115,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 **Four dimensions** — 2.5, 2.3
 
 **Funding teams and services** — 1.9
+
+**Futurespective** — 6.1
 
 ## G
 
@@ -115,6 +129,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 **Guiding principles (ITIL)** — 2.4, 2.2, 2.3
 
 ## H
+
+**Hallucination** — 6.2, 6.3
 
 **Hardware asset management** — 4.3, 4.1
 
@@ -156,7 +172,13 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Lean** — 1.7, 1.5, 1.9
 
+**Lean coffee** — 6.1
+
+**Learning paths** — 6.4
+
 **Licenses and entitlement** — 4.2, 4.1
+
+**Liftoff** — 6.1
 
 ## M
 
@@ -192,7 +214,7 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Release and deployment** — 3.5, 3.4
 
-**Retrospective** — 1.4, 1.10, 1.3
+**Retrospective** — 1.3, 1.4, 1.10, 6.1
 
 **Risk register** — 5.7, 3.13, 3.14
 
@@ -261,3 +283,5 @@ Entries are added by each topic's author in the same commit as the topic. The re
 **Work in process limits** — 5.4, 1.5
 
 **Work in progress limits** — 1.5, 1.7
+
+**Working agreement** — 6.1

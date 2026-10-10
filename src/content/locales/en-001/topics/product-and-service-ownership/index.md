@@ -69,7 +69,7 @@ The sources read for this guide do not offer evidence on how well ownership mode
 
 ## Best practices
 
-1. **Name one accountable person for each product or service.** Write the name in the service catalog. Make sure they have authority over priorities and a say in funding.
+1. **Name one accountable person for each product or service.** Write the name in the service catalog (ITIL spells it "service catalogue"). Make sure they have authority over priorities and a say in funding.
 2. **Define what the owner decides.** State which decisions the owner makes alone, which with the team, and which need escalation. Without this, ownership is a title.
 3. **Give the owner time.** Do not make owners of several large products, or owners with a full delivery job as well. Ownership is real work.
 4. **Fund the team for the life of the service.** Avoid disbanding teams when projects end. Review funding on a regular cycle against outcomes.
@@ -221,7 +221,7 @@ Write a one-page case with the problem, the proposal, risks (including the risk 
 - [product-roadmap](../../../../skills/product-roadmap/SKILL.md): use to describe direction and near-term plans for a product or service.
 - [agile-charter](../../../../skills/agile-charter/SKILL.md): use to set a team's purpose, outcomes, and limits at the start.
 - [feature-prioritization](../../../../skills/feature-prioritization/SKILL.md): use to help an owner order the backlog by value and cost.
-- [stakeholder-analysis](../../../../skills/stakeholder-analysis/SKILL.md): use to understand who depends on a product or service and what they need.
+- [agile-discovery](../../../../skills/agile-discovery/SKILL.md): use to validate what a product or service should do next before building it.
 
 ## Key sources
 

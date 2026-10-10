@@ -71,7 +71,7 @@ The article says KM is similar to organizational learning but gives more emphasi
 3. **Keep articles short and structured.** Use a consistent form: symptom, cause if known, steps, when to escalate, owner, last review date. People under pressure read headings and numbered steps.
 4. **Give every article an owner and a review date.** Content without an owner decays. Show the review date on the article so that readers can judge trust.
 5. **Delete and merge.** Retire articles nobody uses and merge duplicates. A smaller, current base is better than a large, stale one.
-6. **Make it easy to find.** Put knowledge where people already work, test search with real queries, and link articles from tickets, the service catalog, and runbooks.
+6. **Make it easy to find.** Put knowledge where people already work, test search with real queries, and link articles from tickets, the service catalog (ITIL spells it "service catalogue"), and runbooks.
 7. **Test runbooks by using them.** Ask the person who will use a runbook to follow it on a test case. Fix what is unclear. This turns a document into working knowledge.
 8. **Pair and shadow for the tacit.** Have less experienced people work with experienced ones on real incidents and changes. Plan the pairing, since it will not happen when everyone is busy.
 9. **Support communities of practice.** Give people time and a place to meet across teams. Let the topics come from the members.

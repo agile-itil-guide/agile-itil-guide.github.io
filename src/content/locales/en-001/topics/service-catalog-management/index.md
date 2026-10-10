@@ -1,6 +1,6 @@
 # Service Catalog Management
 
-**A service catalog is a curated list of what an organization offers, with an owner and a plain description for each service, and its worth depends on whether users find it useful and the owners keep it true.**
+**A service catalog (ITIL spells it "service catalogue") is a curated list of what an organization offers, with an owner and a plain description for each service, and its worth depends on whether users find it useful and the owners keep it true.**
 
 ## Why this matters
 

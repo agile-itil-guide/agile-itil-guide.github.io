@@ -220,7 +220,7 @@ Propose: which change types to include, safeguards, what to measure and how ofte
 - [change-request](../../../../skills/change-request/SKILL.md): use to draft change records that carry what operations and auditors need.
 - [enterprise-change-management](../../../../skills/enterprise-change-management/SKILL.md): use when a change is organizational and needs planning for people as well as systems.
 - [release-notes](../../../../skills/release-notes/SKILL.md): use to tell users and the service desk what a change does.
-- [changelog](../../../../skills/changelog/SKILL.md): use to keep a readable record of changes over time.
+- [two-way-door-decisions](../../../../skills/two-way-door-decisions/SKILL.md): use to tell reversible decisions that can be made fast from irreversible ones that need more care.
 - [risk-register](../../../../skills/risk-register/SKILL.md): use to record and review the risks that change introduces and how they are controlled.
 
 ## Key sources

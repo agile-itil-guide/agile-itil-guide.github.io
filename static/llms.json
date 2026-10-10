@@ -432,7 +432,9 @@
           "title": "Organizational Change and Adoption",
           "slug": "organizational-change-and-adoption",
           "path": "locales/en-001/topics/organizational-change-and-adoption/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/organizational-change-and-adoption/index.md"
+          }
         }
       ]
     },
@@ -444,28 +446,36 @@
           "title": "Team Conversations",
           "slug": "team-conversations",
           "path": "locales/en-001/topics/team-conversations/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/team-conversations/index.md"
+          }
         },
         {
           "number": "6.2",
           "title": "AI in IT Service Management",
           "slug": "ai-in-it-service-management",
           "path": "locales/en-001/topics/ai-in-it-service-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/ai-in-it-service-management/index.md"
+          }
         },
         {
           "number": "6.3",
           "title": "AI Skills and Prompts",
           "slug": "ai-skills-and-prompts",
           "path": "locales/en-001/topics/ai-skills-and-prompts/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/ai-skills-and-prompts/index.md"
+          }
         },
         {
           "number": "6.4",
           "title": "Learning Paths and Certification",
           "slug": "learning-paths-and-certification",
           "path": "locales/en-001/topics/learning-paths-and-certification/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/learning-paths-and-certification/index.md"
+          }
         }
       ]
     }
@@ -475,11 +485,11 @@
     "agile-coaching",
     "agile-delivery",
     "agile-discovery",
+    "agile-itil-guide-maintainer-skill",
+    "agile-itil-guide-skill",
     "agile-liftoff",
     "agile-principles",
     "agile-reflection",
-    "agile-showcase",
-    "agile-standown",
     "agile-standup",
     "architecture-decision-record",
     "brainstorming",
@@ -493,7 +503,6 @@
     "compliance-testing",
     "configuration-management",
     "crisis-communication-plan",
-    "critical-incident-technique",
     "data-governance",
     "decision-records",
     "demand-analysis",
@@ -510,7 +519,6 @@
     "fishbone-diagram",
     "futurespective",
     "getting-feedback",
-    "giving-feedback",
     "incident-response-plan",
     "kaizen",
     "kanban",
@@ -542,7 +550,6 @@
     "service-level-agreement",
     "shift-left-testing",
     "six-sigma",
-    "software-engineering-body-of-knowledge",
     "software-engineering-metrics",
     "stakeholder-analysis",
     "survey-design",

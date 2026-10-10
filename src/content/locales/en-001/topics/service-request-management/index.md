@@ -8,7 +8,7 @@ Much of the work that reaches a service desk is not a failure at all. It is a us
 
 Request handling is also where automation and self-service pay off most. A request that follows the same steps every time can be designed once, tested, and mostly automated. The [Wikipedia article on IT service management](https://en.wikipedia.org/wiki/IT_service_management) defines a service request as a routine request for a service and lists IT process automation, which replaces routine manual steps with automated ones so staff can focus on higher-priority work. That is the aim of this practice in a sentence.
 
-The article gives little more on requests. This topic therefore combines that definition with practical guidance drawn from widely used service management practice, offered as such, and with the guide's other topics on the service desk, the service catalog, and knowledge. Where something is a common practice and not a finding from a source, the text says so.
+The article gives little more on requests. This topic therefore combines that definition with practical guidance drawn from widely used service management practice, offered as such, and with the guide's other topics on the service desk, the service catalog (ITIL spells it "service catalogue"), and knowledge. Where something is a common practice and not a finding from a source, the text says so.
 
 ## Core concepts
 
