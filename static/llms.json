@@ -165,7 +165,9 @@
           "title": "ITSM Frameworks and Standards",
           "slug": "itsm-frameworks-and-standards",
           "path": "locales/en-001/topics/itsm-frameworks-and-standards/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/itsm-frameworks-and-standards/index.md"
+          }
         }
       ]
     },
@@ -177,98 +179,126 @@
           "title": "Service Desk",
           "slug": "service-desk",
           "path": "locales/en-001/topics/service-desk/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/service-desk/index.md"
+          }
         },
         {
           "number": "3.2",
           "title": "Incident Management",
           "slug": "incident-management",
           "path": "locales/en-001/topics/incident-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/incident-management/index.md"
+          }
         },
         {
           "number": "3.3",
           "title": "Problem Management",
           "slug": "problem-management",
           "path": "locales/en-001/topics/problem-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/problem-management/index.md"
+          }
         },
         {
           "number": "3.4",
           "title": "Change Enablement",
           "slug": "change-enablement",
           "path": "locales/en-001/topics/change-enablement/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/change-enablement/index.md"
+          }
         },
         {
           "number": "3.5",
           "title": "Release and Deployment Management",
           "slug": "release-and-deployment-management",
           "path": "locales/en-001/topics/release-and-deployment-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/release-and-deployment-management/index.md"
+          }
         },
         {
           "number": "3.6",
           "title": "Service Request Management",
           "slug": "service-request-management",
           "path": "locales/en-001/topics/service-request-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/service-request-management/index.md"
+          }
         },
         {
           "number": "3.7",
           "title": "Service Level Management",
           "slug": "service-level-management",
           "path": "locales/en-001/topics/service-level-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/service-level-management/index.md"
+          }
         },
         {
           "number": "3.8",
           "title": "Service Catalog Management",
           "slug": "service-catalog-management",
           "path": "locales/en-001/topics/service-catalog-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/service-catalog-management/index.md"
+          }
         },
         {
           "number": "3.9",
           "title": "Knowledge Management",
           "slug": "knowledge-management",
           "path": "locales/en-001/topics/knowledge-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/knowledge-management/index.md"
+          }
         },
         {
           "number": "3.10",
           "title": "Monitoring and Event Management",
           "slug": "monitoring-and-event-management",
           "path": "locales/en-001/topics/monitoring-and-event-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/monitoring-and-event-management/index.md"
+          }
         },
         {
           "number": "3.11",
           "title": "Availability, Capacity, and Performance",
           "slug": "availability-capacity-and-performance",
           "path": "locales/en-001/topics/availability-capacity-and-performance/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/availability-capacity-and-performance/index.md"
+          }
         },
         {
           "number": "3.12",
           "title": "Service Continuity Management",
           "slug": "service-continuity-management",
           "path": "locales/en-001/topics/service-continuity-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/service-continuity-management/index.md"
+          }
         },
         {
           "number": "3.13",
           "title": "Information Security Management",
           "slug": "information-security-management",
           "path": "locales/en-001/topics/information-security-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/information-security-management/index.md"
+          }
         },
         {
           "number": "3.14",
           "title": "Supplier Management",
           "slug": "supplier-management",
           "path": "locales/en-001/topics/supplier-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/supplier-management/index.md"
+          }
         },
         {
           "number": "3.15",

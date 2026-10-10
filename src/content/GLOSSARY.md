@@ -18,13 +18,33 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Agile principles** — The twelve principles behind the Agile Manifesto that spell out its values in daily work. — See Topic 1.2 — Agile Principles.
 
+**Alert** — A notification for a human, delivered as a ticket, email, or page. — See Topic 3.10 — Monitoring and Event Management.
+
+**Availability** — The ability of a service to do what users need when they need it, often expressed as a percentage over a period. *[Wikipedia](https://en.wikipedia.org/wiki/High_availability)* — See Topic 3.11 — Availability, Capacity, and Performance.
+
 ## B
 
+**Blameless postmortem** — A review that records an incident, its impact, causes, and actions without blaming individuals or teams. — See Topic 3.2 — Incident Management.
+
+**Business impact analysis (BIA)** — A method of identifying and evaluating how disruptions affect operations and of setting recovery priorities. *[Wikipedia](https://en.wikipedia.org/wiki/Business_continuity_planning)* — See Topic 3.12 — Service Continuity Management.
+
 ## C
+
+**Capacity planning** — Determining the capacity an organization needs to meet changing demand; in IT, a synonym for capacity management. *[Wikipedia](https://en.wikipedia.org/wiki/Capacity_planning)* — See Topic 3.11 — Availability, Capacity, and Performance.
+
+**Change enablement** — The ITIL 4 practice of making sure changes are assessed, authorized, and scheduled so that beneficial changes proceed safely. — See Topic 3.4 — Change Enablement.
+
+**Change fail rate** — The share of deployments that need immediate intervention, such as a rollback or hotfix (DORA). — See Topic 3.4 — Change Enablement.
+
+**Change lead time** — The time for a change to go from committed to version control to deployed in production (DORA). — See Topic 3.4 — Change Enablement.
 
 **COBIT** — A framework from ISACA for IT governance and management that links business goals to IT goals. *[Wikipedia](https://en.wikipedia.org/wiki/COBIT)* — See Topic 2.7 — ITSM Frameworks and Standards.
 
 **Collective code ownership** — An Extreme Programming practice in which anyone on the team may change any part of the code. *[Wikipedia](https://en.wikipedia.org/wiki/Extreme_programming_practices)* — See Topic 1.6 — Extreme Programming.
+
+**Continual improvement** — An ongoing effort to improve products, services, or processes, in small steps or breakthroughs. *[Wikipedia](https://en.wikipedia.org/wiki/Continual_improvement_process)* — See Topic 3.15 — Continual Improvement.
+
+**Continuous delivery** — The ability to release changes of all kinds on demand quickly, safely, and sustainably (DORA). *[Wikipedia](https://en.wikipedia.org/wiki/Continuous_delivery)* — See Topic 3.5 — Release and Deployment Management.
 
 **Continuous integration (CI)** — Merging work into a shared repository frequently, with an automatic build and test on each merge. *[Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)* — See Topic 1.6 — Extreme Programming.
 
@@ -36,15 +56,25 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Daily Scrum** — A 15-minute daily event in which the Developers inspect progress toward the Sprint Goal and plan the next day. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Scrum.
 
+**Defense in depth** — Layering overlapping administrative, logical, and physical controls so that one failure is not enough. *[Wikipedia](https://en.wikipedia.org/wiki/Defense_in_depth_(computing))* — See Topic 3.13 — Information Security Management.
+
 **Definition of Done** — The quality standard that work must meet to count as part of a Scrum Increment. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Scrum.
 
 **Definition of Workflow (DoW)** — In the Kanban Guide, the team's agreed description of its work items, workflow states, work in progress control, policies, and service level expectation. *[Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))* — See Topic 1.5 — Kanban.
+
+**Deployment frequency** — How often deployments occur (DORA). — See Topic 3.4 — Change Enablement.
 
 **Disciplined Agile (DA)** — A toolkit of process goals and options, owned by the Project Management Institute since August 2019, that helps a team choose its way of working. *[Wikipedia](https://en.wikipedia.org/wiki/Disciplined_agile_delivery)* — See Topic 1.8 — Scaling Agile.
 
 ## E
 
+**Emergency change** — A change that must be made urgently, for example to restore service, with expedited authorization. — See Topic 3.4 — Change Enablement.
+
 **Enterprise service management (ESM)** — Applying ITSM tools and ideas to other business areas such as human resources or facilities. *[Wikipedia](https://en.wikipedia.org/wiki/Enterprise_service_management)* — See Topic 2.1 — IT Service Management.
+
+**Error budget** — The rate at which a service level objective may be missed, used to guide release decisions. — See Topic 3.7 — Service Level Management.
+
+**Event (ITSM)** — A change of state that has significance for the management of a service. — See Topic 3.10 — Monitoring and Event Management.
 
 **Extreme Programming (XP)** — An agile method that emphasizes engineering practices such as pair programming, test-driven development, and continuous integration. *[Wikipedia](https://en.wikipedia.org/wiki/Extreme_programming)* — See Topic 1.6 — Extreme Programming.
 
@@ -53,6 +83,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 **FitSM** — A family of lightweight, freely licensed ITSM standards that grew out of the EU-funded FedSM project; organizations cannot be certified as conformant. *[Wikipedia](https://en.wikipedia.org/wiki/FitSM)* — See Topic 2.7 — ITSM Frameworks and Standards.
 
 **Four dimensions of service management** — ITIL 4's checklist of organizations and people; information and technology; partners and suppliers; and value streams and processes. — See Topic 2.5 — Four Dimensions of Service Management.
+
+**Four golden signals** — Latency, traffic, errors, and saturation: the signals to watch for a user-facing system. — See Topic 3.10 — Monitoring and Event Management.
 
 ## G
 
@@ -64,9 +96,15 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Incident** — A disruption or potential disruption in service availability or quality. *[Wikipedia](https://en.wikipedia.org/wiki/IT_service_management)* — See Topic 2.1 — IT Service Management.
 
+**Incident commander** — The person who holds the high-level state of an incident and coordinates the response. — See Topic 3.2 — Incident Management.
+
 **Increment** — In Scrum, a usable, verified step toward the Product Goal that adds to all earlier Increments. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Scrum.
 
+**Information security** — Protecting information by mitigating information risks; its core goals are confidentiality, integrity, and availability. *[Wikipedia](https://en.wikipedia.org/wiki/Information_security)* — See Topic 3.13 — Information Security Management.
+
 **ISO/IEC 20000** — An international standard for IT service management systems, against which an organization can be certified. *[Wikipedia](https://en.wikipedia.org/wiki/ISO/IEC_20000)* — See Topic 2.7 — ITSM Frameworks and Standards.
+
+**ISO/IEC 27001** — The standard for information security management systems; organizations can be certified against it. *[Wikipedia](https://en.wikipedia.org/wiki/ISO/IEC_27001)* — See Topic 3.13 — Information Security Management.
 
 **IT service management (ITSM)** — The activities an organization performs to design, build, deliver, operate, and control IT services offered to customers. *[Wikipedia](https://en.wikipedia.org/wiki/IT_service_management)* — See Topic 2.1 — IT Service Management.
 
@@ -80,6 +118,10 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Kanban** — A strategy for optimizing the flow of value by visualizing the workflow, limiting work in progress, and improving the workflow. *[Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))* — See Topic 1.5 — Kanban.
 
+**Knowledge management** — Processing knowledge to accomplish organizational goals: awareness, learning, collaboration, and innovation. *[Wikipedia](https://en.wikipedia.org/wiki/Knowledge_management)* — See Topic 3.9 — Knowledge Management.
+
+**Known error** — A problem whose cause has been identified, usually with a workaround recorded. — See Topic 3.3 — Problem Management.
+
 ## L
 
 **Large-Scale Scrum (LeSS)** — A framework by Craig Larman and Bas Vodde that applies Scrum to many teams working on one product with one Product Owner and one Product Backlog. — See Topic 1.8 — Scaling Agile.
@@ -92,13 +134,19 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 ## N
 
+**Normal change** — A change that needs assessment and authorization before it proceeds. — See Topic 3.4 — Change Enablement.
+
 ## O
 
 ## P
 
 **Pair programming** — Two programmers working on one task at one workstation, one writing and one reviewing, swapping partners often. *[Wikipedia](https://en.wikipedia.org/wiki/Pair_programming)* — See Topic 1.6 — Extreme Programming.
 
+**PDCA** — Plan, do, check, act: an iterative method for controlling and continually improving processes and products. *[Wikipedia](https://en.wikipedia.org/wiki/PDCA)* — See Topic 3.15 — Continual Improvement.
+
 **PESTLE** — A scan of political, economic, social, technological, legal, and environmental factors that affect all four dimensions. *[Wikipedia](https://en.wikipedia.org/wiki/PEST_analysis)* — See Topic 2.5 — Four Dimensions of Service Management.
+
+**Problem** — The underlying cause, or suspected cause, of one or more incidents. — See Topic 3.3 — Problem Management.
 
 **Product Backlog** — In Scrum, an ordered, evolving list of what the product needs; its commitment is the Product Goal. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Scrum.
 
@@ -110,7 +158,15 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 ## R
 
+**Recovery point objective (RPO)** — The acceptable amount of data latency: how much data loss is tolerable. *[Wikipedia](https://en.wikipedia.org/wiki/Business_continuity_planning)* — See Topic 3.12 — Service Continuity Management.
+
+**Recovery time objective (RTO)** — The acceptable time to restore a function after a disruption. *[Wikipedia](https://en.wikipedia.org/wiki/Business_continuity_planning)* — See Topic 3.12 — Service Continuity Management.
+
 **Refactoring** — Improving the design of code without changing what it does. *[Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)* — See Topic 1.6 — Extreme Programming.
+
+**Request model** — A repeatable pattern for a type of service request: information needed, approval, steps, and expected time. — See Topic 3.6 — Service Request Management.
+
+**Root cause analysis (RCA)** — A problem-solving method for finding the fundamental causes of faults; a factor is a root cause if removing it prevents the problem recurring. *[Wikipedia](https://en.wikipedia.org/wiki/Root_cause_analysis)* — See Topic 3.3 — Problem Management.
 
 ## S
 
@@ -124,7 +180,19 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Scrumban** — A mix of Scrum events and Kanban flow. *[Wikipedia](https://en.wikipedia.org/wiki/Scrumban)* — See Topic 1.4 — Scrum.
 
+**Service catalog** — A curated collection of the services an organization offers, each with an owner, a description, and how to get help. *[Wikipedia](https://en.wikipedia.org/wiki/Service_catalog)* — See Topic 3.8 — Service Catalog Management.
+
+**Service desk** — The single point of contact between users or customers and the service provider, handling incidents and service requests. *[Wikipedia](https://en.wikipedia.org/wiki/Help_desk)* — See Topic 3.1 — Service Desk.
+
+**Service integration and management (SIAM)** — An approach for managing several suppliers and integrating them into a single, business-facing service. *[Wikipedia](https://en.wikipedia.org/wiki/Service_integration_and_management)* — See Topic 3.14 — Supplier Management.
+
+**Service level agreement (SLA)** — An agreement, typically a binding contract, between a provider and a customer that defines the service, its quality, and responsibilities. *[Wikipedia](https://en.wikipedia.org/wiki/Service-level_agreement)* — See Topic 3.7 — Service Level Management.
+
 **Service level expectation (SLE)** — In Kanban, a forecast of how long a work item should take to flow through the workflow, based on past cycle times; not an agreement. *[Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))* — See Topic 1.5 — Kanban.
+
+**Service level indicator (SLI)** — A carefully defined quantitative measure of some aspect of the level of service provided. — See Topic 3.7 — Service Level Management.
+
+**Service level objective (SLO)** — A target value or range for a service level measured by an SLI. *[Wikipedia](https://en.wikipedia.org/wiki/Service-level_objective)* — See Topic 3.7 — Service Level Management.
 
 **Service request** — A routine request for something a service normally provides. *[Wikipedia](https://en.wikipedia.org/wiki/IT_service_management)* — See Topic 2.1 — IT Service Management.
 
@@ -140,9 +208,17 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Sprint Review** — The Scrum event in which the team shows the Increment to stakeholders and adjusts the Product Backlog. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Scrum.
 
+**Standard change** — A low-risk, well-understood change that follows a documented procedure and is pre-authorized. — See Topic 3.4 — Change Enablement.
+
+**Statement of Applicability** — In ISO/IEC 27001, the document that justifies which Annex A controls an organization includes and excludes. *[Wikipedia](https://en.wikipedia.org/wiki/ISO/IEC_27001)* — See Topic 3.13 — Information Security Management.
+
+**Supplier relationship management (SRM)** — Systematic assessment of suppliers' strengths, performance, and capabilities, coordinating interactions across the relationship life cycle. *[Wikipedia](https://en.wikipedia.org/wiki/Supplier_relationship_management)* — See Topic 3.14 — Supplier Management.
+
 **Sustainable pace** — An Extreme Programming practice (also an agile principle) of avoiding regular overtime so that people stay effective over years. *[Wikipedia](https://en.wikipedia.org/wiki/Extreme_programming_practices)* — See Topic 1.6 — Extreme Programming.
 
 ## T
+
+**Tacit knowledge** — Knowledge that is internalized and often not consciously known, so hard to write down. *[Wikipedia](https://en.wikipedia.org/wiki/Tacit_knowledge)* — See Topic 3.9 — Knowledge Management.
 
 **Technical debt** — The future cost of rework caused by choosing a quick solution now instead of a better one. *[Wikipedia](https://en.wikipedia.org/wiki/Technical_debt)* — See Topic 1.2 — Agile Principles.
 
@@ -151,6 +227,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 **Throughput** — In Kanban, the number of work items finished in a period. *[Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))* — See Topic 1.5 — Kanban.
 
 ## U
+
+**Underpinning contract** — In ITIL vocabulary, an agreement with an outside supplier that supports a service level agreement. — See Topic 3.14 — Supplier Management.
 
 ## V
 
@@ -165,6 +243,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 **Work in progress (WIP)** — The number of items started but not yet finished; limiting it creates a pull system. *[Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))* — See Topic 1.5 — Kanban.
 
 **Work item age** — In Kanban, the time elapsed since an unfinished item started. *[Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))* — See Topic 1.5 — Kanban.
+
+**Workaround** — A way to reduce or avoid the impact of an incident or problem without removing its cause. — See Topic 3.3 — Problem Management.
 
 ## X
 

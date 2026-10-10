@@ -18,11 +18,31 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Agile software development** — 1.3, 1.1, 1.2, 1.9
 
+**Alerting** — 3.10, 3.2
+
+**Availability** — 3.11, 3.7, 3.12, 3.13
+
+## B
+
+**Backup and restore** — 3.12
+
+**Business continuity** — 3.12
+
 ## C
+
+**Capacity** — 3.11
 
 **Certification (ITIL and ISO/IEC)** — 2.2, 2.7
 
+**Change enablement** — 3.4, 3.5, 3.13
+
+**Change types (standard, normal, emergency)** — 3.4
+
 **COBIT** — 2.7
+
+**Continual improvement** — 3.15, 1.4, 1.7
+
+**Continuous delivery** — 3.5, 3.4, 1.6
 
 **Continuous integration** — 1.6, 1.3, 1.8
 
@@ -34,13 +54,19 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Definition of Done** — 1.4, 1.3, 1.6
 
+**Disaster recovery** — 3.12
+
 **Disciplined Agile** — 1.8, 1.9
 
 **Documentation (agile view)** — 1.1, 1.3
 
+**DORA metrics** — 3.4, 3.5, 3.7
+
 ## E
 
 **Enterprise service management** — 2.1
+
+**Error budget** — 3.7, 3.11
 
 **Extreme Programming** — 1.6, 1.3
 
@@ -60,6 +86,12 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 ## I
 
+**Incident** — 3.2, 2.1, 3.1, 3.3
+
+**Incident response** — 3.2, 3.13, 3.12
+
+**Information security** — 3.13
+
 **ISO/IEC 20000** — 2.7, 2.2
 
 **IT service management** — 2.1, 2.2, 2.7
@@ -76,19 +108,35 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Kanban** — 1.5, 1.7, 1.3
 
+**Knowledge base** — 3.9, 3.1
+
 ## L
 
 **Large-Scale Scrum (LeSS)** — 1.8
 
 **Lean** — 1.7, 1.5, 1.9
 
+## M
+
+**Monitoring** — 3.10, 3.11
+
 ## P
 
 **PESTLE** — 2.5
 
+**Postmortem** — 3.2, 3.3, 3.9
+
+**Problem** — 3.3, 3.2
+
 ## R
 
+**Recovery objectives (RTO, RPO)** — 3.12
+
+**Release and deployment** — 3.5, 3.4
+
 **Retrospective** — 1.4, 1.10, 1.3
+
+**Root cause analysis** — 3.3
 
 ## S
 
@@ -100,13 +148,25 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Scrumban** — 1.4, 1.5
 
+**Service catalog** — 3.8, 3.6, 3.1
+
+**Service desk** — 3.1, 2.1
+
+**Service level agreement** — 3.7, 3.14
+
+**Service request** — 3.6, 2.1, 3.8
+
 **Service value chain** — 2.6, 2.3
 
 **Service value system** — 2.3, 2.5, 2.6
 
+**Supplier** — 3.14, 2.5
+
 **Sustainable pace** — 1.2, 1.6
 
 ## T
+
+**Tacit knowledge** — 3.9, 1.10
 
 **Technical debt** — 1.2
 
