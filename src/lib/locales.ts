@@ -10,6 +10,7 @@ export const DEFAULT_LOCALE = 'en-001';
 export const LOCALES: Locale[] = [
   { slug: 'en-001', label: 'English (World)' },
   { slug: 'cy-gb', label: 'Cymraeg (Cymru)' },
+  { slug: 'zh-cn', label: '简体中文（中国）' },
 ];
 
 export const LOCALE_SLUGS: string[] = LOCALES.map((locale) => locale.slug);
