@@ -7,7 +7,10 @@ export type Locale = { slug: string; label: string };
 export const DEFAULT_LOCALE = 'en-001';
 
 /** Canonical locale first. Labels are the locale's name in its own language. */
-export const LOCALES: Locale[] = [{ slug: 'en-001', label: 'English (World)' }];
+export const LOCALES: Locale[] = [
+  { slug: 'en-001', label: 'English (World)' },
+  { slug: 'cy-gb', label: 'Cymraeg (Cymru)' },
+];
 
 export const LOCALE_SLUGS: string[] = LOCALES.map((locale) => locale.slug);
 
