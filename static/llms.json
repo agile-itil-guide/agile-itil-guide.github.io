@@ -355,7 +355,9 @@
           "title": "IT Financial Management and FinOps",
           "slug": "it-financial-management-and-finops",
           "path": "locales/en-001/topics/it-financial-management-and-finops/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/it-financial-management-and-finops/index.md"
+          }
         }
       ]
     },
@@ -367,49 +369,63 @@
           "title": "Agile Service Management",
           "slug": "agile-service-management",
           "path": "locales/en-001/topics/agile-service-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/agile-service-management/index.md"
+          }
         },
         {
           "number": "5.2",
           "title": "DevOps",
           "slug": "devops",
           "path": "locales/en-001/topics/devops/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/devops/index.md"
+          }
         },
         {
           "number": "5.3",
           "title": "Site Reliability Engineering",
           "slug": "site-reliability-engineering",
           "path": "locales/en-001/topics/site-reliability-engineering/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/site-reliability-engineering/index.md"
+          }
         },
         {
           "number": "5.4",
           "title": "Value Stream Management",
           "slug": "value-stream-management",
           "path": "locales/en-001/topics/value-stream-management/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/value-stream-management/index.md"
+          }
         },
         {
           "number": "5.5",
           "title": "Product and Service Ownership",
           "slug": "product-and-service-ownership",
           "path": "locales/en-001/topics/product-and-service-ownership/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/product-and-service-ownership/index.md"
+          }
         },
         {
           "number": "5.6",
           "title": "Metrics and Measurement",
           "slug": "metrics-and-measurement",
           "path": "locales/en-001/topics/metrics-and-measurement/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/metrics-and-measurement/index.md"
+          }
         },
         {
           "number": "5.7",
           "title": "Governance, Risk, and Compliance",
           "slug": "governance-risk-and-compliance",
           "path": "locales/en-001/topics/governance-risk-and-compliance/index.md",
-          "locales": {}
+          "locales": {
+            "en-001": "locales/en-001/topics/governance-risk-and-compliance/index.md"
+          }
         },
         {
           "number": "5.8",

@@ -38,6 +38,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Change enablement** — 3.4, 3.5, 3.13
 
+**Change management (organizational)** — 5.8, 3.4
+
 **Change types (standard, normal, emergency)** — 3.4
 
 **Cloud cost** — 4.5, 4.1
@@ -45,6 +47,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 **CMDB** — 4.4, 4.1
 
 **COBIT** — 2.7
+
+**Communities of practice** — 5.8, 3.9
 
 **Configuration item** — 4.4
 
@@ -63,6 +67,10 @@ Entries are added by each topic's author in the same commit as the topic. The re
 **Data erasure** — 4.3, 3.13
 
 **Definition of Done** — 1.4, 1.3, 1.6
+
+**DevOps** — 5.2, 5.3, 3.5, 5.1
+
+**Diffusion of innovations** — 5.8
 
 **Disaster recovery** — 3.12
 
@@ -97,6 +105,12 @@ Entries are added by each topic's author in the same commit as the topic. The re
 **Funding teams and services** — 1.9
 
 ## G
+
+**Goodhart's law** — 5.6
+
+**GRC (governance, risk, compliance)** — 5.7
+
+**Guardrails** — 5.7, 3.4
 
 **Guiding principles (ITIL)** — 2.4, 2.2, 2.3
 
@@ -146,11 +160,21 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 ## M
 
+**Metrics** — 5.6, 3.4, 3.7
+
 **Monitoring** — 3.10, 3.11
+
+## N
+
+**NPS and surveys** — 5.6
 
 ## O
 
+**OKRs** — 5.6
+
 **Open source** — 4.2, 3.13
+
+**Ownership** — 5.5, 5.4
 
 ## P
 
@@ -160,6 +184,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Problem** — 3.3, 3.2
 
+**Product owner** — 5.5, 1.4
+
 ## R
 
 **Recovery objectives (RTO, RPO)** — 3.12
@@ -167,6 +193,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 **Release and deployment** — 3.5, 3.4
 
 **Retrospective** — 1.4, 1.10, 1.3
+
+**Risk register** — 5.7, 3.13, 3.14
 
 **Root cause analysis** — 3.3
 
@@ -196,6 +224,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Showback and chargeback** — 4.5
 
+**Site reliability engineering** — 5.3, 3.2, 3.7
+
 **Software asset management** — 4.2, 4.1
 
 **Supplier** — 3.14, 2.5
@@ -210,18 +240,24 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Technical debt** — 1.2
 
+**Three Ways** — 5.2
+
+**Toil** — 5.3
+
 ## U
 
 **Unit cost** — 4.5, 3.11
 
 ## V
 
-**Value stream** — 2.6, 2.3, 2.5
+**Value stream** — 1.7, 2.3, 2.5, 2.6, 5.4
 
-**Value stream mapping** — 1.7
+**Value stream mapping** — 1.7, 5.4
 
 ## W
 
 **Waste (muda)** — 1.7
+
+**Work in process limits** — 5.4, 1.5
 
 **Work in progress limits** — 1.5, 1.7

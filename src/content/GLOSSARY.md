@@ -8,6 +8,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 ## A
 
+**ADKAR** — A change model of awareness, desire, knowledge, ability, and reinforcement developed by Jeff Hiatt for Prosci. *[Wikipedia](https://en.wikipedia.org/wiki/ADKAR)* — See Topic 5.8 — Organizational Change and Adoption.
+
 **Agile (agile software development)** — An umbrella term for iterative approaches that deliver in small steps and learn from feedback, based on the values and principles agreed in 2001. *[Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development)* — See Topic 1.3 — Agile Software Development.
 
 **Agile learning** — Applying agile project methods, especially Scrum, to learning: short cycles that alternate learning and doing, with a sponsor, a coach, and a team. *[Wikipedia](https://en.wikipedia.org/wiki/Agile_learning)* — See Topic 1.10 — Agile Learning.
@@ -48,6 +50,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Collective code ownership** — An Extreme Programming practice in which anyone on the team may change any part of the code. *[Wikipedia](https://en.wikipedia.org/wiki/Extreme_programming_practices)* — See Topic 1.6 — Extreme Programming.
 
+**Community of practice** — A group that shares a concern or passion for something and learns to do it better by interacting regularly. *[Wikipedia](https://en.wikipedia.org/wiki/Community_of_practice)* — See Topic 5.8 — Organizational Change and Adoption.
+
 **Configuration item (CI)** — A component whose configuration is tracked, with attributes and relationships to other items. *[Wikipedia](https://en.wikipedia.org/wiki/Configuration_management_database)* — See Topic 4.4 — Configuration Management.
 
 **Configuration management database (CMDB)** — An ITIL term for a database storing configuration items and their relationships. *[Wikipedia](https://en.wikipedia.org/wiki/Configuration_management_database)* — See Topic 4.4 — Configuration Management.
@@ -77,6 +81,10 @@ Entries are added by each topic's author in the same commit as the topic. The re
 **Definition of Workflow (DoW)** — In the Kanban Guide, the team's agreed description of its work items, workflow states, work in progress control, policies, and service level expectation. *[Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))* — See Topic 1.5 — Kanban.
 
 **Deployment frequency** — How often deployments occur (DORA). — See Topic 3.4 — Change Enablement.
+
+**DevOps** — The integration and automation of software development and IT operations, characterized by shared ownership, workflow automation, and rapid feedback. *[Wikipedia](https://en.wikipedia.org/wiki/DevOps)* — See Topic 5.2 — DevOps.
+
+**Diffusion of innovations** — Everett Rogers's theory of how new ideas spread, with five adopter categories and five attributes that affect the speed of adoption. *[Wikipedia](https://en.wikipedia.org/wiki/Diffusion_of_innovations)* — See Topic 5.8 — Organizational Change and Adoption.
 
 **Disciplined Agile (DA)** — A toolkit of process goals and options, owned by the Project Management Institute since August 2019, that helps a team choose its way of working. *[Wikipedia](https://en.wikipedia.org/wiki/Disciplined_agile_delivery)* — See Topic 1.8 — Scaling Agile.
 
@@ -109,6 +117,12 @@ Entries are added by each topic's author in the same commit as the topic. The re
 **Four golden signals** — Latency, traffic, errors, and saturation: the signals to watch for a user-facing system. — See Topic 3.10 — Monitoring and Event Management.
 
 ## G
+
+**Goodhart's law** — The adage that when a measure becomes a target, it ceases to be a good measure. *[Wikipedia](https://en.wikipedia.org/wiki/Goodhart%27s_law)* — See Topic 5.6 — Metrics and Measurement.
+
+**Governance, risk, and compliance (GRC)** — A holistic approach to corporate governance, risk management, and regulatory compliance. *[Wikipedia](https://en.wikipedia.org/wiki/Governance,_risk_management,_and_compliance)* — See Topic 5.7 — Governance, Risk, and Compliance.
+
+**Guardrail** — A limit built into the path of work that keeps it on course without stopping it, such as an automated policy check. — See Topic 5.7 — Governance, Risk, and Compliance.
 
 **Guiding principles (ITIL)** — Seven recommendations: focus on value; start where you are; progress iteratively with feedback; collaborate and promote visibility; think and work holistically; keep it simple and practical; optimize and automate. — See Topic 2.4 — ITIL Guiding Principles.
 
@@ -160,9 +174,13 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 ## N
 
+**Net promoter score (NPS)** — A measure based on one question about likelihood to recommend: percentage of promoters minus percentage of detractors. *[Wikipedia](https://en.wikipedia.org/wiki/Net_promoter_score)* — See Topic 5.6 — Metrics and Measurement.
+
 **Normal change** — A change that needs assessment and authorization before it proceeds. — See Topic 3.4 — Change Enablement.
 
 ## O
+
+**Objectives and key results (OKRs)** — A goal-setting framework that pairs an objective with three to five measurable key results. *[Wikipedia](https://en.wikipedia.org/wiki/Objectives_and_key_results)* — See Topic 5.6 — Metrics and Measurement.
 
 **Open-source software** — Software whose source code is publicly available and may be used, studied, modified, and distributed under an open license. *[Wikipedia](https://en.wikipedia.org/wiki/Open-source_software)* — See Topic 4.2 — Software Asset Management.
 
@@ -182,6 +200,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Product Owner** — In Scrum, the one person accountable for maximizing the value of the product and for ordering the Product Backlog. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Scrum.
 
+**Product owner (service owner)** — The person accountable for the value of a product or service and for ordering its backlog. — See Topic 5.5 — Product and Service Ownership.
+
 **Pull system** — A way of working in which new work starts only when there is capacity for it, produced by limiting work in progress. *[Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))* — See Topic 1.5 — Kanban.
 
 ## Q
@@ -195,6 +215,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 **Refactoring** — Improving the design of code without changing what it does. *[Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)* — See Topic 1.6 — Extreme Programming.
 
 **Request model** — A repeatable pattern for a type of service request: information needed, approval, steps, and expected time. — See Topic 3.6 — Service Request Management.
+
+**Risk register** — A record of identified risks with description, assessment, owner, treatment, and status. — See Topic 5.7 — Governance, Risk, and Compliance.
 
 **Root cause analysis (RCA)** — A problem-solving method for finding the fundamental causes of faults; a factor is a root cause if removing it prevents the problem recurring. *[Wikipedia](https://en.wikipedia.org/wiki/Root_cause_analysis)* — See Topic 3.3 — Problem Management.
 
@@ -232,6 +254,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Showback** — Showing consumers what they use and what it costs without billing them. — See Topic 4.5 — IT Financial Management and FinOps.
 
+**Site reliability engineering (SRE)** — A discipline that applies software engineering to operations to improve the availability and performance of large services. *[Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)* — See Topic 5.3 — Site Reliability Engineering.
+
 **Software asset management (SAM)** — A business practice for managing and optimizing the purchase, deployment, maintenance, use, and disposal of software. *[Wikipedia](https://en.wikipedia.org/wiki/Software_asset_management)* — See Topic 4.2 — Software Asset Management.
 
 **Software bill of materials (SBOM)** — An inventory of the components used to build a software artifact, including open-source and proprietary parts. *[Wikipedia](https://en.wikipedia.org/wiki/Software_supply_chain)* — See Topic 4.2 — Software Asset Management.
@@ -262,7 +286,11 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Test-driven development (TDD)** — Writing a failing test first, then just enough code to make it pass. *[Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)* — See Topic 1.6 — Extreme Programming.
 
+**The Three Ways** — Gene Kim's three principles of DevOps: flow, feedback, and continual learning and experimentation. — See Topic 5.2 — DevOps.
+
 **Throughput** — In Kanban, the number of work items finished in a period. *[Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))* — See Topic 1.5 — Kanban.
+
+**Toil** — Operational work that is manual, repetitive, automatable, tactical, without enduring value, and growing linearly with the service (SRE usage). — See Topic 5.3 — Site Reliability Engineering.
 
 ## U
 
@@ -272,9 +300,13 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 ## V
 
-**Value stream** — A specific set of activities that create and deliver a particular service or product to customers; a path through the service value chain. — See Topic 2.6 — The Service Value Chain.
+**Value stream** — A specific set of activities that create and deliver a particular service or product to customers; a path through the service value chain. — See Topic 5.4 — Value Stream Management; also Topic 2.6 — The Service Value Chain.
+
+**Value stream management** — Managing the flow of work across all the teams in a value stream using shared measures, a named owner, and regular review. *[Wikipedia](https://en.wikipedia.org/wiki/Value-stream_mapping)* — See Topic 5.4 — Value Stream Management.
 
 **Value stream mapping** — A technique that shows each step from request to delivered value with working time and waiting time, used to find waste. *[Wikipedia](https://en.wikipedia.org/wiki/Value-stream_mapping)* — See Topic 1.7 — Lean Software Development.
+
+**Value-stream mapping** — A lean technique that maps current and future states of the steps taking a product or service to the customer, with time and volume at each stage. *[Wikipedia](https://en.wikipedia.org/wiki/Value-stream_mapping)* — See Topic 5.4 — Value Stream Management.
 
 ## W
 
@@ -283,6 +315,8 @@ Entries are added by each topic's author in the same commit as the topic. The re
 **Work in progress (WIP)** — The number of items started but not yet finished; limiting it creates a pull system. *[Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))* — See Topic 1.5 — Kanban.
 
 **Work item age** — In Kanban, the time elapsed since an unfinished item started. *[Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))* — See Topic 1.5 — Kanban.
+
+**Work-in-process limit** — A cap on how many items can be in a stage of a workflow at one time. — See Topic 5.4 — Value Stream Management.
 
 **Workaround** — A way to reduce or avoid the impact of an incident or problem without removing its cause. — See Topic 3.3 — Problem Management.
 

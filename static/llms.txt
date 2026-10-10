@@ -51,9 +51,17 @@ Each topic follows one 15-section template: thesis, why it matters, core concept
 - [Topic 4.2 — Software Asset Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/software-asset-management/index.md)
 - [Topic 4.3 — Hardware Asset Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/hardware-asset-management/index.md)
 - [Topic 4.4 — Configuration Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/configuration-management/index.md)
+- [Topic 4.5 — IT Financial Management and FinOps](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/it-financial-management-and-finops/index.md)
 
 ## Part 5 — Bringing agile and ITIL together
 
+- [Topic 5.1 — Agile Service Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/agile-service-management/index.md)
+- [Topic 5.2 — DevOps](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/devops/index.md)
+- [Topic 5.3 — Site Reliability Engineering](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/site-reliability-engineering/index.md)
+- [Topic 5.4 — Value Stream Management](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/value-stream-management/index.md)
+- [Topic 5.5 — Product and Service Ownership](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/product-and-service-ownership/index.md)
+- [Topic 5.6 — Metrics and Measurement](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/metrics-and-measurement/index.md)
+- [Topic 5.7 — Governance, Risk, and Compliance](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/locales/en-001/topics/governance-risk-and-compliance/index.md)
 
 ## Part 6 — People, conversations, and AI
 
