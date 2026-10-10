@@ -1,0 +1,36 @@
+# Agile ITIL Guide
+
+> A practical handbook for running IT services the agile way: research, practices, examples, team conversations, AI skills, and AI prompts. 49 topics in 6 parts (no preface); canonical text in `en-001`. Links go to the canonical locale; topics not yet written are omitted.
+
+Each topic follows one 15-section template: thesis, why it matters, core concepts, best practices, six discussion questions, a fictional worked example, four perspectives (product and delivery, service and operations, leadership and governance, customers and users), failure modes, a five-level maturity model, a checklist, AI prompts, AI skills, key sources, and references. Answer from the topic text; do not present general knowledge as the guide's position.
+
+## Part 1 — Agile foundations
+
+
+## Part 2 — ITIL and IT service management foundations
+
+
+## Part 3 — Service practices, the agile way
+
+
+## Part 4 — IT asset and configuration management
+
+
+## Part 5 — Bringing agile and ITIL together
+
+
+## Part 6 — People, conversations, and AI
+
+
+## Reference
+
+- [Glossary](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/GLOSSARY.md): A–Z definitions of key terms, each pointing to its home topic
+- [Index](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/INDEX.md): Concepts and frameworks by topic number
+- [Style guide](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/STYLE_GUIDE.md): The prose and formatting contract
+- [Specification](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/spec/index.md): Governing specification: topic template, manifest, quality gates
+
+## Optional
+
+- [Reading site](https://agile-itil.github.io): the rendered guide
+- [Skills](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/skills/README.md): AI skills for agile and IT service management
+- [Machine-readable inventory](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/llms.json): topics, parts, skills, and per-locale paths as JSON

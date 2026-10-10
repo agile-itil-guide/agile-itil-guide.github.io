@@ -1,0 +1,493 @@
+{
+  "name": "Agile ITIL Guide",
+  "description": "A practical handbook for running IT services the agile way: research, practices, examples, team conversations, AI skills, and AI prompts.",
+  "canonical_locale": "en-001",
+  "locales": [
+    "en-001"
+  ],
+  "site": "https://agile-itil.github.io",
+  "raw_base": "https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/",
+  "parts": [
+    {
+      "part": "Part 1 — Agile foundations",
+      "topics": [
+        {
+          "number": "1.1",
+          "title": "Agile Manifesto",
+          "slug": "agile-manifesto",
+          "path": "locales/en-001/topics/agile-manifesto/index.md",
+          "locales": {}
+        },
+        {
+          "number": "1.2",
+          "title": "Agile Principles",
+          "slug": "agile-principles",
+          "path": "locales/en-001/topics/agile-principles/index.md",
+          "locales": {}
+        },
+        {
+          "number": "1.3",
+          "title": "Agile Software Development",
+          "slug": "agile-software-development",
+          "path": "locales/en-001/topics/agile-software-development/index.md",
+          "locales": {}
+        },
+        {
+          "number": "1.4",
+          "title": "Scrum",
+          "slug": "scrum",
+          "path": "locales/en-001/topics/scrum/index.md",
+          "locales": {}
+        },
+        {
+          "number": "1.5",
+          "title": "Kanban",
+          "slug": "kanban",
+          "path": "locales/en-001/topics/kanban/index.md",
+          "locales": {}
+        },
+        {
+          "number": "1.6",
+          "title": "Extreme Programming",
+          "slug": "extreme-programming",
+          "path": "locales/en-001/topics/extreme-programming/index.md",
+          "locales": {}
+        },
+        {
+          "number": "1.7",
+          "title": "Lean Software Development",
+          "slug": "lean-software-development",
+          "path": "locales/en-001/topics/lean-software-development/index.md",
+          "locales": {}
+        },
+        {
+          "number": "1.8",
+          "title": "Scaling Agile",
+          "slug": "scaling-agile",
+          "path": "locales/en-001/topics/scaling-agile/index.md",
+          "locales": {}
+        },
+        {
+          "number": "1.9",
+          "title": "Agile Management",
+          "slug": "agile-management",
+          "path": "locales/en-001/topics/agile-management/index.md",
+          "locales": {}
+        },
+        {
+          "number": "1.10",
+          "title": "Agile Learning",
+          "slug": "agile-learning",
+          "path": "locales/en-001/topics/agile-learning/index.md",
+          "locales": {}
+        }
+      ]
+    },
+    {
+      "part": "Part 2 — ITIL and IT service management foundations",
+      "topics": [
+        {
+          "number": "2.1",
+          "title": "IT Service Management",
+          "slug": "it-service-management",
+          "path": "locales/en-001/topics/it-service-management/index.md",
+          "locales": {}
+        },
+        {
+          "number": "2.2",
+          "title": "ITIL",
+          "slug": "itil",
+          "path": "locales/en-001/topics/itil/index.md",
+          "locales": {}
+        },
+        {
+          "number": "2.3",
+          "title": "The ITIL Service Value System",
+          "slug": "service-value-system",
+          "path": "locales/en-001/topics/service-value-system/index.md",
+          "locales": {}
+        },
+        {
+          "number": "2.4",
+          "title": "ITIL Guiding Principles",
+          "slug": "itil-guiding-principles",
+          "path": "locales/en-001/topics/itil-guiding-principles/index.md",
+          "locales": {}
+        },
+        {
+          "number": "2.5",
+          "title": "Four Dimensions of Service Management",
+          "slug": "four-dimensions-of-service-management",
+          "path": "locales/en-001/topics/four-dimensions-of-service-management/index.md",
+          "locales": {}
+        },
+        {
+          "number": "2.6",
+          "title": "The Service Value Chain",
+          "slug": "service-value-chain",
+          "path": "locales/en-001/topics/service-value-chain/index.md",
+          "locales": {}
+        },
+        {
+          "number": "2.7",
+          "title": "ITSM Frameworks and Standards",
+          "slug": "itsm-frameworks-and-standards",
+          "path": "locales/en-001/topics/itsm-frameworks-and-standards/index.md",
+          "locales": {}
+        }
+      ]
+    },
+    {
+      "part": "Part 3 — Service practices, the agile way",
+      "topics": [
+        {
+          "number": "3.1",
+          "title": "Service Desk",
+          "slug": "service-desk",
+          "path": "locales/en-001/topics/service-desk/index.md",
+          "locales": {}
+        },
+        {
+          "number": "3.2",
+          "title": "Incident Management",
+          "slug": "incident-management",
+          "path": "locales/en-001/topics/incident-management/index.md",
+          "locales": {}
+        },
+        {
+          "number": "3.3",
+          "title": "Problem Management",
+          "slug": "problem-management",
+          "path": "locales/en-001/topics/problem-management/index.md",
+          "locales": {}
+        },
+        {
+          "number": "3.4",
+          "title": "Change Enablement",
+          "slug": "change-enablement",
+          "path": "locales/en-001/topics/change-enablement/index.md",
+          "locales": {}
+        },
+        {
+          "number": "3.5",
+          "title": "Release and Deployment Management",
+          "slug": "release-and-deployment-management",
+          "path": "locales/en-001/topics/release-and-deployment-management/index.md",
+          "locales": {}
+        },
+        {
+          "number": "3.6",
+          "title": "Service Request Management",
+          "slug": "service-request-management",
+          "path": "locales/en-001/topics/service-request-management/index.md",
+          "locales": {}
+        },
+        {
+          "number": "3.7",
+          "title": "Service Level Management",
+          "slug": "service-level-management",
+          "path": "locales/en-001/topics/service-level-management/index.md",
+          "locales": {}
+        },
+        {
+          "number": "3.8",
+          "title": "Service Catalog Management",
+          "slug": "service-catalog-management",
+          "path": "locales/en-001/topics/service-catalog-management/index.md",
+          "locales": {}
+        },
+        {
+          "number": "3.9",
+          "title": "Knowledge Management",
+          "slug": "knowledge-management",
+          "path": "locales/en-001/topics/knowledge-management/index.md",
+          "locales": {}
+        },
+        {
+          "number": "3.10",
+          "title": "Monitoring and Event Management",
+          "slug": "monitoring-and-event-management",
+          "path": "locales/en-001/topics/monitoring-and-event-management/index.md",
+          "locales": {}
+        },
+        {
+          "number": "3.11",
+          "title": "Availability, Capacity, and Performance",
+          "slug": "availability-capacity-and-performance",
+          "path": "locales/en-001/topics/availability-capacity-and-performance/index.md",
+          "locales": {}
+        },
+        {
+          "number": "3.12",
+          "title": "Service Continuity Management",
+          "slug": "service-continuity-management",
+          "path": "locales/en-001/topics/service-continuity-management/index.md",
+          "locales": {}
+        },
+        {
+          "number": "3.13",
+          "title": "Information Security Management",
+          "slug": "information-security-management",
+          "path": "locales/en-001/topics/information-security-management/index.md",
+          "locales": {}
+        },
+        {
+          "number": "3.14",
+          "title": "Supplier Management",
+          "slug": "supplier-management",
+          "path": "locales/en-001/topics/supplier-management/index.md",
+          "locales": {}
+        },
+        {
+          "number": "3.15",
+          "title": "Continual Improvement",
+          "slug": "continual-improvement",
+          "path": "locales/en-001/topics/continual-improvement/index.md",
+          "locales": {}
+        }
+      ]
+    },
+    {
+      "part": "Part 4 — IT asset and configuration management",
+      "topics": [
+        {
+          "number": "4.1",
+          "title": "IT Asset Management",
+          "slug": "it-asset-management",
+          "path": "locales/en-001/topics/it-asset-management/index.md",
+          "locales": {}
+        },
+        {
+          "number": "4.2",
+          "title": "Software Asset Management",
+          "slug": "software-asset-management",
+          "path": "locales/en-001/topics/software-asset-management/index.md",
+          "locales": {}
+        },
+        {
+          "number": "4.3",
+          "title": "Hardware Asset Management",
+          "slug": "hardware-asset-management",
+          "path": "locales/en-001/topics/hardware-asset-management/index.md",
+          "locales": {}
+        },
+        {
+          "number": "4.4",
+          "title": "Configuration Management",
+          "slug": "configuration-management",
+          "path": "locales/en-001/topics/configuration-management/index.md",
+          "locales": {}
+        },
+        {
+          "number": "4.5",
+          "title": "IT Financial Management and FinOps",
+          "slug": "it-financial-management-and-finops",
+          "path": "locales/en-001/topics/it-financial-management-and-finops/index.md",
+          "locales": {}
+        }
+      ]
+    },
+    {
+      "part": "Part 5 — Bringing agile and ITIL together",
+      "topics": [
+        {
+          "number": "5.1",
+          "title": "Agile Service Management",
+          "slug": "agile-service-management",
+          "path": "locales/en-001/topics/agile-service-management/index.md",
+          "locales": {}
+        },
+        {
+          "number": "5.2",
+          "title": "DevOps",
+          "slug": "devops",
+          "path": "locales/en-001/topics/devops/index.md",
+          "locales": {}
+        },
+        {
+          "number": "5.3",
+          "title": "Site Reliability Engineering",
+          "slug": "site-reliability-engineering",
+          "path": "locales/en-001/topics/site-reliability-engineering/index.md",
+          "locales": {}
+        },
+        {
+          "number": "5.4",
+          "title": "Value Stream Management",
+          "slug": "value-stream-management",
+          "path": "locales/en-001/topics/value-stream-management/index.md",
+          "locales": {}
+        },
+        {
+          "number": "5.5",
+          "title": "Product and Service Ownership",
+          "slug": "product-and-service-ownership",
+          "path": "locales/en-001/topics/product-and-service-ownership/index.md",
+          "locales": {}
+        },
+        {
+          "number": "5.6",
+          "title": "Metrics and Measurement",
+          "slug": "metrics-and-measurement",
+          "path": "locales/en-001/topics/metrics-and-measurement/index.md",
+          "locales": {}
+        },
+        {
+          "number": "5.7",
+          "title": "Governance, Risk, and Compliance",
+          "slug": "governance-risk-and-compliance",
+          "path": "locales/en-001/topics/governance-risk-and-compliance/index.md",
+          "locales": {}
+        },
+        {
+          "number": "5.8",
+          "title": "Organizational Change and Adoption",
+          "slug": "organizational-change-and-adoption",
+          "path": "locales/en-001/topics/organizational-change-and-adoption/index.md",
+          "locales": {}
+        }
+      ]
+    },
+    {
+      "part": "Part 6 — People, conversations, and AI",
+      "topics": [
+        {
+          "number": "6.1",
+          "title": "Team Conversations",
+          "slug": "team-conversations",
+          "path": "locales/en-001/topics/team-conversations/index.md",
+          "locales": {}
+        },
+        {
+          "number": "6.2",
+          "title": "AI in IT Service Management",
+          "slug": "ai-in-it-service-management",
+          "path": "locales/en-001/topics/ai-in-it-service-management/index.md",
+          "locales": {}
+        },
+        {
+          "number": "6.3",
+          "title": "AI Skills and Prompts",
+          "slug": "ai-skills-and-prompts",
+          "path": "locales/en-001/topics/ai-skills-and-prompts/index.md",
+          "locales": {}
+        },
+        {
+          "number": "6.4",
+          "title": "Learning Paths and Certification",
+          "slug": "learning-paths-and-certification",
+          "path": "locales/en-001/topics/learning-paths-and-certification/index.md",
+          "locales": {}
+        }
+      ]
+    }
+  ],
+  "skills": [
+    "agile-charter",
+    "agile-coaching",
+    "agile-delivery",
+    "agile-discovery",
+    "agile-liftoff",
+    "agile-principles",
+    "agile-reflection",
+    "agile-showcase",
+    "agile-standown",
+    "agile-standup",
+    "architecture-decision-record",
+    "brainstorming",
+    "budget-forecasting",
+    "business-continuity-plan",
+    "capacity-planning",
+    "cause-and-effect-diagram",
+    "change-request",
+    "changelog",
+    "chaos-testing",
+    "compliance-testing",
+    "configuration-management",
+    "crisis-communication-plan",
+    "critical-incident-technique",
+    "data-governance",
+    "decision-records",
+    "demand-analysis",
+    "demand-forecasting",
+    "disaster-recovery-plan",
+    "disaster-recovery-testing",
+    "disciplined-agile",
+    "dmaic",
+    "enterprise-architecture",
+    "enterprise-change-management",
+    "evolutionary-architecture",
+    "extreme-programming",
+    "feature-prioritization",
+    "fishbone-diagram",
+    "futurespective",
+    "getting-feedback",
+    "giving-feedback",
+    "incident-response-plan",
+    "kaizen",
+    "kanban",
+    "key-risk-indicators",
+    "large-scale-scrum",
+    "legal-compliance-audit",
+    "legal-data-privacy-compliance",
+    "load-testing",
+    "machine-learning-model-card",
+    "on-call-rotation",
+    "performance-testing",
+    "portfolio-management",
+    "postmortem",
+    "product-roadmap",
+    "project-management-body-of-knowledge",
+    "prompt-engineering",
+    "raci-matrix",
+    "release-notes",
+    "risk-register",
+    "risks-actions-issues-decisions",
+    "root-cause-analysis",
+    "runbook",
+    "scaled-agile-framework",
+    "scrum",
+    "scrum-of-scrums",
+    "scrumban",
+    "security-testing",
+    "service-catalog",
+    "service-level-agreement",
+    "shift-left-testing",
+    "six-sigma",
+    "software-engineering-body-of-knowledge",
+    "software-engineering-metrics",
+    "stakeholder-analysis",
+    "survey-design",
+    "swot-analysis",
+    "team-focus",
+    "test-driven-development",
+    "training-needs-analysis",
+    "two-way-door-decisions",
+    "user-story",
+    "value-stream-map",
+    "vendor-management",
+    "workflow-analysis"
+  ],
+  "reference": [
+    {
+      "title": "Glossary",
+      "path": "GLOSSARY.md",
+      "note": "A–Z definitions of key terms, each pointing to its home topic"
+    },
+    {
+      "title": "Index",
+      "path": "INDEX.md",
+      "note": "Concepts and frameworks by topic number"
+    },
+    {
+      "title": "Style guide",
+      "path": "STYLE_GUIDE.md",
+      "note": "The prose and formatting contract"
+    },
+    {
+      "title": "Specification",
+      "path": "spec/index.md",
+      "note": "Governing specification: topic template, manifest, quality gates"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+part	number	slug	title	part_title
+1	1.1	agile-manifesto	Agile Manifesto	Agile foundations
+1	1.2	agile-principles	Agile Principles	Agile foundations
+1	1.3	agile-software-development	Agile Software Development	Agile foundations
+1	1.4	scrum	Scrum	Agile foundations
+1	1.5	kanban	Kanban	Agile foundations
+1	1.6	extreme-programming	Extreme Programming	Agile foundations
+1	1.7	lean-software-development	Lean Software Development	Agile foundations
+1	1.8	scaling-agile	Scaling Agile	Agile foundations
+1	1.9	agile-management	Agile Management	Agile foundations
+1	1.10	agile-learning	Agile Learning	Agile foundations
+2	2.1	it-service-management	IT Service Management	ITIL and IT service management foundations
+2	2.2	itil	ITIL	ITIL and IT service management foundations
+2	2.3	service-value-system	The ITIL Service Value System	ITIL and IT service management foundations
+2	2.4	itil-guiding-principles	ITIL Guiding Principles	ITIL and IT service management foundations
+2	2.5	four-dimensions-of-service-management	Four Dimensions of Service Management	ITIL and IT service management foundations
+2	2.6	service-value-chain	The Service Value Chain	ITIL and IT service management foundations
+2	2.7	itsm-frameworks-and-standards	ITSM Frameworks and Standards	ITIL and IT service management foundations
+3	3.1	service-desk	Service Desk	Service practices, the agile way
+3	3.2	incident-management	Incident Management	Service practices, the agile way
+3	3.3	problem-management	Problem Management	Service practices, the agile way
+3	3.4	change-enablement	Change Enablement	Service practices, the agile way
+3	3.5	release-and-deployment-management	Release and Deployment Management	Service practices, the agile way
+3	3.6	service-request-management	Service Request Management	Service practices, the agile way
+3	3.7	service-level-management	Service Level Management	Service practices, the agile way
+3	3.8	service-catalog-management	Service Catalog Management	Service practices, the agile way
+3	3.9	knowledge-management	Knowledge Management	Service practices, the agile way
+3	3.10	monitoring-and-event-management	Monitoring and Event Management	Service practices, the agile way
+3	3.11	availability-capacity-and-performance	Availability, Capacity, and Performance	Service practices, the agile way
+3	3.12	service-continuity-management	Service Continuity Management	Service practices, the agile way
+3	3.13	information-security-management	Information Security Management	Service practices, the agile way
+3	3.14	supplier-management	Supplier Management	Service practices, the agile way
+3	3.15	continual-improvement	Continual Improvement	Service practices, the agile way
+4	4.1	it-asset-management	IT Asset Management	IT asset and configuration management
+4	4.2	software-asset-management	Software Asset Management	IT asset and configuration management
+4	4.3	hardware-asset-management	Hardware Asset Management	IT asset and configuration management
+4	4.4	configuration-management	Configuration Management	IT asset and configuration management
+4	4.5	it-financial-management-and-finops	IT Financial Management and FinOps	IT asset and configuration management
+5	5.1	agile-service-management	Agile Service Management	Bringing agile and ITIL together
+5	5.2	devops	DevOps	Bringing agile and ITIL together
+5	5.3	site-reliability-engineering	Site Reliability Engineering	Bringing agile and ITIL together
+5	5.4	value-stream-management	Value Stream Management	Bringing agile and ITIL together
+5	5.5	product-and-service-ownership	Product and Service Ownership	Bringing agile and ITIL together
+5	5.6	metrics-and-measurement	Metrics and Measurement	Bringing agile and ITIL together
+5	5.7	governance-risk-and-compliance	Governance, Risk, and Compliance	Bringing agile and ITIL together
+5	5.8	organizational-change-and-adoption	Organizational Change and Adoption	Bringing agile and ITIL together
+6	6.1	team-conversations	Team Conversations	People, conversations, and AI
+6	6.2	ai-in-it-service-management	AI in IT Service Management	People, conversations, and AI
+6	6.3	ai-skills-and-prompts	AI Skills and Prompts	People, conversations, and AI
+6	6.4	learning-paths-and-certification	Learning Paths and Certification	People, conversations, and AI

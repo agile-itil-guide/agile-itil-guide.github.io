@@ -1,0 +1,16 @@
+// The locales the site offers. Plain data with no Vite-only imports, because
+// `src/params.ts` loads it directly in Node. To add a locale: add its message
+// file `./locales/<slug>.json`, add a line here, and sync its content.
+
+export type Locale = { slug: string; label: string };
+
+export const DEFAULT_LOCALE = 'en-001';
+
+/** Canonical locale first. Labels are the locale's name in its own language. */
+export const LOCALES: Locale[] = [{ slug: 'en-001', label: 'English (World)' }];
+
+export const LOCALE_SLUGS: string[] = LOCALES.map((locale) => locale.slug);
+
+export function isLocale(value: string): boolean {
+  return LOCALE_SLUGS.includes(value);
+}
