@@ -34,6 +34,6 @@ export function localeForLanguageTag(tag: string): string | undefined {
   return LOCALE_SLUGS.find((slug) => slug.split('-')[0] === language);
 }
 
-export const SITE_URL = 'https://agile-itil.github.io';
+export const SITE_URL = 'https://agile-itil-guide.github.io';
 export const SOURCE_REPO = 'https://github.com/agile-itil/agile-itil-guide';
 export const SKILLS_REPO = `${SOURCE_REPO}/tree/main/skills`;

@@ -1,6 +1,6 @@
 # agile-itil.github.io
 
-The website for the [Agile ITIL Guide](https://github.com/agile-itil/agile-itil-guide), at <https://agile-itil.github.io>.
+The website for the [Agile ITIL Guide](https://github.com/agile-itil/agile-itil-guide), at <https://agile-itil-guide.github.io>.
 
 This directory is part of the guide's monorepo (`agile-itil.github.io/`) and is published to its own repository with `git subtree`. Make all changes in the monorepo; never push to the site repository directly. See `../spec/index.md` §9 for the governing specification.
 

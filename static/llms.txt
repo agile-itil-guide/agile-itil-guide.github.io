@@ -80,6 +80,6 @@ Each topic follows one 15-section template: thesis, why it matters, core concept
 
 ## Optional
 
-- [Reading site](https://agile-itil.github.io): the rendered guide
+- [Reading site](https://agile-itil-guide.github.io): the rendered guide
 - [Skills](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/skills/README.md): AI skills for agile and IT service management
 - [Machine-readable inventory](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/llms.json): topics, parts, skills, and per-locale paths as JSON
