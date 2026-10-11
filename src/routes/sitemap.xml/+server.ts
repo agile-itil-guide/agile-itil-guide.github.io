@@ -29,13 +29,13 @@ export function GET() {
   const url = (path: string, alternates: Record<string, string> = {}) => {
     const links = Object.entries(alternates).map(([locale, alternate]) => [
       hreflang(locale),
-      `${SITE_URL}${alternate}`
+      `${SITE_URL}${encodeURI(alternate)}`
     ]);
     if (alternates[DEFAULT_LOCALE]) links.push(['x-default', `${SITE_URL}${alternates[DEFAULT_LOCALE]}`]);
     const alts = links
       .map(([lang, href]) => `\n    <xhtml:link rel="alternate" hreflang="${lang}" href="${href}"/>`)
       .join('');
-    return `  <url><loc>${SITE_URL}${path}</loc>${alts}${alts ? '\n  ' : ''}</url>`;
+    return `  <url><loc>${SITE_URL}${encodeURI(path)}</loc>${alts}${alts ? '\n  ' : ''}</url>`;
   };
 
   const topicGroups = (locale: string, slug: string): Record<string, string> => {

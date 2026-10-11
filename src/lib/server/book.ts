@@ -49,6 +49,22 @@ function localeReference(locale: string | undefined, file: 'GLOSSARY' | 'INDEX')
   return localeReferenceFiles[`../../content/locales/${locale}/${name}.md`];
 }
 
+/** `locale -> canonical slug -> that locale's directory name`, from the sync script's slugs.tsv. Absent means the slugs are the canonical ones. */
+const slugFiles = import.meta.glob('../../content/locales/*/slugs.tsv', {
+  query: '?raw',
+  import: 'default',
+  eager: true
+}) as Record<string, string>;
+const localSlug: Record<string, Record<string, string>> = {};
+for (const [path, tsv] of Object.entries(slugFiles)) {
+  const locale = path.match(/\/locales\/([^/]+)\/slugs\.tsv$/)?.[1];
+  if (!locale) continue;
+  for (const line of tsv.trim().split('\n')) {
+    const [canonical, local] = line.split('\t');
+    (localSlug[locale] ??= {})[canonical] = local;
+  }
+}
+
 type ManifestRow = { part: number; number: string; slug: string; title: string; partTitle: string };
 
 /** The manifest (spec/topics.tsv): order, numbers, and parts. Its title column is a fallback copied by the sync script from each topic's first headline. */
@@ -72,14 +88,17 @@ for (const [path, markdown] of Object.entries(topicFiles)) {
 /** Table-of-contents entries for one locale, in manifest order, written or not. */
 export function toc(locale: string): TopicRef[] {
   const have = written[locale] ?? {};
-  return manifest.map(({ slug, number, title, part }) => ({
-    slug,
-    number,
-    // The topic's own first headline is its title; the manifest copy is for unwritten topics.
-    title: have[slug]?.match(/^# (.+)$/m)?.[1].trim() ?? title,
-    part,
-    written: slug in have
-  }));
+  return manifest.map(({ slug: canonical, number, title, part }) => {
+    const slug = localSlug[locale]?.[canonical] ?? canonical;
+    return {
+      slug,
+      number,
+      // The topic's own first headline is its title; the manifest copy is for unwritten topics.
+      title: have[slug]?.match(/^# (.+)$/m)?.[1].trim() ?? title,
+      part,
+      written: slug in have
+    };
+  });
 }
 
 /** The parts, in order, from the manifest. */

@@ -13,6 +13,7 @@
 #
 # Copied:
 #   locales/<locale>/topics/<slug>/index.md   written topics only (stubs are skipped)
+#   locales/<locale>/slugs.tsv                canonical slug -> this locale's directory name, matched by .locale-peer-id
 #   spec/topics.tsv                           -> src/content/topics.tsv (plus a title column read from each topic's first headline)
 #   glossary/index.md, index/index.md         -> src/content/glossary/index.md, src/content/index/index.md
 #   locales/<locale>/glossary/index.md, index/index.md -> src/content/locales/<locale>/   where a locale has translations
@@ -49,6 +50,15 @@ cp "$source_repo/index/index.md" "$destination/index/index.md"
 cp "$source_repo/llms.txt" "$here/static/llms.txt"
 cp "$source_repo/llms.json" "$here/static/llms.json"
 
+# A locale may name a topic directory in its own language. Its .locale-peer-id
+# matches the canonical (en-001) topic's, so write canonical-slug<TAB>local-slug
+# pairs per locale (slugs.tsv) for the site to map between them.
+ids_file=$(mktemp)
+for topic_path in "$source_repo"/locales/en-001/topics/*/; do
+    [ -f "${topic_path}.locale-peer-id" ] || continue
+    printf '%s\t%s\n' "$(cat "${topic_path}.locale-peer-id")" "$(basename "$topic_path")" >> "$ids_file"
+done
+
 total=0
 for locale_path in "$source_repo"/locales/*/; do
     locale=$(basename "$locale_path")
@@ -65,6 +75,13 @@ for locale_path in "$source_repo"/locales/*/; do
         [ -f "${topic_path}index.md" ] || continue
         if grep -q "$STUB" "${topic_path}index.md"; then continue; fi
         slug=$(basename "$topic_path")
+        if [ -f "${topic_path}.locale-peer-id" ]; then
+            canonical=$(grep "^$(cat "${topic_path}.locale-peer-id")	" "$ids_file" | cut -f2 || true)
+            if [ -n "$canonical" ]; then
+                mkdir -p "$destination/locales/$locale"
+                printf '%s\t%s\n' "$canonical" "$slug" >> "$destination/locales/$locale/slugs.tsv"
+            fi
+        fi
         mkdir -p "$destination/locales/$locale/topics/$slug"
         cp "${topic_path}index.md" "$destination/locales/$locale/topics/$slug/index.md"
         count=$((count + 1))
@@ -73,6 +90,7 @@ for locale_path in "$source_repo"/locales/*/; do
     total=$((total + count))
 done
 
+rm -f "$ids_file"
 skills=0
 for skill_path in "$source_repo"/skills/*/; do
     [ -f "${skill_path}SKILL.md" ] || continue

@@ -4,7 +4,7 @@
 
 /** One entry in the table of contents. */
 export type TopicRef = {
-  /** URL slug, identical to the topic's directory name. */
+  /** URL slug, identical to the topic's directory name in that locale (translated in some locales). */
   slug: string;
   /** Topic number such as `3.4`. */
   number: string;
