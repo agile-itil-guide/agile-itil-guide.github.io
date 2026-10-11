@@ -16,7 +16,7 @@ Mae angen darllen y dystiolaeth yn ofalus. Mae [erthygl Wikipedia ar ddatblygu m
 
 Term ymbarél yw "datblygu meddalwedd ystwyth". Mae erthygl Wikipedia yn ei ddisgrifio fel un sy'n cwmpasu dulliau a dyfodd o'r gwerthoedd a'r egwyddorion y cytunodd 17 o ymarferwyr arnynt yn 2001 (gweler Pwnc 1.1 — Maniffesto Ystwyth a Phwnc 1.2 — Egwyddorion Ystwyth). Defnyddir "Agile" â phrif lythyren yn aml ar gyfer yr arferion a dyfodd o'r meddylfryd hwnnw, a "ystwyth" â llythyren fach ar gyfer y gallu i addasu. Nid yw'r gwahaniaeth yn llym, a byddwch yn clywed y ddau.
 
-Nod dulliau ystwyth yw cyflawni meddalwedd yn barhaus. Maent yn croesawu gofynion sy'n newid, hyd yn oed yn hwyr yn y datblygu, ac yn rhyddhau meddalwedd sy'n gweithio yn aml. Maent yn pwysleisio cydweithio agos bob dydd rhwng rhanddeiliaid a datblygwyr, yn adeiladu prosiectau o amgylch unigolion cymhellol, ac yn gwerthfawrogi cyfathrebu wyneb yn wyneb. Maent yn cadw'r ddolen adborth yn fyr ac yn gofalu am ansawdd. Maent yn wahanol yn yr hyn y maent yn ei bwysleisio. Mae rhai, fel Rhaglennu Eithafol, yn canolbwyntio ar arferion peirianneg, ac eraill, fel Scrum a Kanban, yn canolbwyntio ar sut y rheolir gwaith.
+Nod dulliau ystwyth yw cyflawni meddalwedd yn barhaus. Maent yn dibynnu ar gydweithio parhaus rhwng rhanddeiliaid a datblygwyr, yn adeiladu prosiectau o amgylch unigolion cymhellol, ac yn ceisio gwelliant parhaus trwy adborth, gan ofalu am ansawdd. Maent yn wahanol yn yr hyn y maent yn ei bwysleisio. Mae rhai, fel Rhaglennu Eithafol, yn canolbwyntio ar arferion peirianneg, ac eraill, fel Scrum a Kanban, yn canolbwyntio ar sut y rheolir gwaith.
 
 ### Hanes byr
 
@@ -36,7 +36,7 @@ Mae'r erthygl yn rhestru llawer o ddulliau. Y rhai y byddwch yn debygol o'u cyfa
 
 | Dull | Prif bwyslais | Wedi'i drafod ym |
 |---|---|---|
-| Scrum | Cyflawni meddalwedd yn barhaus mewn sbrintiau â therfyn amser, rolau diffiniedig a digwyddiadau rheolaidd | Pwnc 1.4 — Scrum |
+| Scrum | Rolau diffiniedig, digwyddiadau rheolaidd a rhythm sefydlog | Pwnc 1.4 — Scrum |
 | Kanban | Gwneud gwaith yn weladwy a chyfyngu faint sydd ar y gweill | Pwnc 1.5 — Kanban |
 | Rhaglennu Eithafol (XP) | Arferion peirianneg fel rhaglennu mewn parau a datblygu a yrrir gan brofion | Pwnc 1.6 — Rhaglennu Eithafol |
 | Datblygu meddalwedd main | Cymhwyso syniadau main, fel dileu gwastraff, at feddalwedd | Pwnc 1.7 — Datblygu Meddalwedd Main |

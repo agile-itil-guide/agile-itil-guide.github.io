@@ -16,7 +16,7 @@ The evidence needs a careful reading. The [Wikipedia article on agile software d
 
 "Agile software development" is an umbrella term. The Wikipedia article describes it as covering approaches that grew from the values and principles agreed in 2001 by 17 practitioners (see Topic 1.1 — Agile Manifesto and Topic 1.2 — Agile Principles). A capital-A "Agile" is often used for the practices that grew from that mindset, and a lowercase "agile" for the quality of being able to adapt. The distinction is not strict, and you will hear both.
 
-Agile methods aim for continuous software delivery. They welcome changing requirements, even late in development, and they release working software frequently. They emphasize close daily collaboration between stakeholders and developers, build projects around motivated individuals, and value face-to-face communication. They keep the feedback loop short and care about quality. They differ in what they emphasize. Some, such as Extreme Programming, focus on engineering practices, and others, such as Scrum and Kanban, focus on how work is managed.
+Agile methods aim for continuous software delivery. They rely on continuous collaboration among stakeholders and developers, build projects around motivated individuals, and pursue continuous improvement through feedback, with attention to quality. They differ in what they emphasize. Some, such as Extreme Programming, focus on engineering practices, and others, such as Scrum and Kanban, focus on how work is managed.
 
 ### A short history
 
@@ -36,7 +36,7 @@ The article lists many methods. Those you are most likely to meet:
 
 | Method | Main emphasis | Covered in |
 |---|---|---|
-| Scrum | Continuous software delivery in time-boxed sprints, defined roles, and regular events | Topic 1.4 — Scrum |
+| Scrum | Defined roles, regular events, and a fixed cadence | Topic 1.4 — Scrum |
 | Kanban | Visualising work and limiting how much is in progress | Topic 1.5 — Kanban |
 | Extreme Programming (XP) | Engineering practices such as pair programming and test-driven development | Topic 1.6 — Extreme Programming |
 | Lean software development | Applying lean ideas, such as removing waste, to software | Topic 1.7 — Lean Software Development |
