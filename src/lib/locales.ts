@@ -6,15 +6,15 @@ export type Locale = { slug: string; label: string };
 
 export const DEFAULT_LOCALE = 'en-001';
 
-/** Canonical locale first. Labels are the locale's name in its own language. */
+/** Sorted by locale code (the picker lists them in this order). Labels are "<language> - <region>", in the locale's own language. */
 export const LOCALES: Locale[] = [
-  { slug: 'en-001', label: 'English (World)' },
-  { slug: 'cy-gb', label: 'Cymraeg (Cymru)' },
-  { slug: 'zh-cn', label: '简体中文（中国）' },
-  { slug: 'zh-001', label: '简体中文（世界）' },
-  { slug: 'en-us', label: 'English (United States)' },
-  { slug: 'en-gb', label: 'English (United Kingdom)' },
-  { slug: 'cy-001', label: 'Cymraeg (Byd)' },
+  { slug: 'cy-001', label: 'Cymraeg - Byd' },
+  { slug: 'cy-gb', label: 'Cymraeg - Cymru' },
+  { slug: 'en-001', label: 'English - World' },
+  { slug: 'en-gb', label: 'English - United Kingdom' },
+  { slug: 'en-us', label: 'English - United States' },
+  { slug: 'zh-001', label: '简体中文 - 世界' },
+  { slug: 'zh-cn', label: '简体中文 - 中国' },
 ];
 
 export const LOCALE_SLUGS: string[] = LOCALES.map((locale) => locale.slug);
