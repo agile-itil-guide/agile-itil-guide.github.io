@@ -1,0 +1,121 @@
+{
+  "locale": {
+    "label": "Bahasa Indonesia (dunia)"
+  },
+  "siteTitle": "Panduan ITIL Agile",
+  "skipToContent": "Lompat ke konten",
+  "nav": {
+    "contents": "Daftar isi",
+    "glossary": "Glosarium",
+    "index": "Indeks",
+    "skills": "Keterampilan",
+    "source": "Kode sumber"
+  },
+  "picker": {
+    "theme": "Tema",
+    "locale": "Bahasa",
+    "textSize": "Ukuran teks",
+    "share": "Bagikan",
+    "search": "Cari",
+    "searchInput": "Cari di panduan ini",
+    "searchSubmit": "Cari"
+  },
+  "share": {
+    "emailLink": "Kirim tautan lewat email",
+    "shareOnLinkedIn": "Bagikan di LinkedIn",
+    "shareOnReddit": "Bagikan di Reddit",
+    "shareOnBluesky": "Bagikan di Bluesky",
+    "shareOnMastodon": "Bagikan di Mastodon",
+    "copyLink": "Salin tautan",
+    "copied": "Tersalin",
+    "copyFailed": "Gagal menyalin"
+  },
+  "links": {
+    "label": "Tautan",
+    "llms": "llms.txt (untuk agen AI)",
+    "skills": "Keterampilan AI di GitHub",
+    "issues": "Pelacak isu"
+  },
+  "footer": {
+    "tagline": "Menjalankan layanan TI dengan cara agile.",
+    "sourceAndContributions": "Kode sumber dan kontribusi:",
+    "builtWith": "Dibangun dengan",
+    "ledBy": "Dipimpin oleh"
+  },
+  "breadcrumb": {
+    "home": "Beranda",
+    "contents": "Daftar isi",
+    "skills": "Keterampilan",
+    "label": "Jejak navigasi"
+  },
+  "contents": {
+    "pageTitle": "Daftar isi",
+    "lead": "49 topik dalam enam bagian tentang agile, ITIL, manajemen layanan TI, dan manajemen aset TI, dengan pertanyaan diskusi, prompt AI, dan keterampilan.",
+    "readingIn": "Anda membaca dalam bahasa {$language}",
+    "part": "Bagian {$number}",
+    "reference": "Referensi",
+    "comingSoon": "Segera hadir"
+  },
+  "topic": {
+    "eyebrow": "Topik {$number}",
+    "paginationLabel": "Navigasi antartopik",
+    "previous": "Sebelumnya",
+    "next": "Berikutnya"
+  },
+  "parts": {
+    "1": {
+      "tagline": "Nilai, prinsip, dan metode agile."
+    },
+    "2": {
+      "tagline": "Apa itu manajemen layanan TI dan bagaimana ITIL menyusunnya."
+    },
+    "3": {
+      "tagline": "Praktik ITIL, dijalankan dengan cara agile, iteratif, dan kolaboratif."
+    },
+    "4": {
+      "tagline": "Mengetahui apa yang Anda miliki, berapa biayanya, dan bagaimana semuanya terhubung."
+    },
+    "5": {
+      "tagline": "Merancang integrasi, model operasi, dan pengukuran."
+    },
+    "6": {
+      "tagline": "Sisi manusia dan AI dari manajemen layanan agile."
+    }
+  },
+  "results": {
+    "button": "Cari",
+    "label": "Hasil pencarian",
+    "heading": "Hasil untuk \"{$query}\"",
+    "failed": "Indeks pencarian tidak dapat dimuat. Coba lagi nanti.",
+    "searching": "Mencari…",
+    "none": "Tidak ada yang cocok dengan \"{$query}\".",
+    "browse": "Jelajahi daftar isi sebagai gantinya.",
+    "count": "{$count} hasil.",
+    "limited": "Menampilkan {$count} hasil teratas."
+  },
+  "glossary": {
+    "title": "Glosarium",
+    "lead": "Definisi istilah utama dalam bahasa sederhana, masing-masing menunjuk ke topik asalnya."
+  },
+  "indexPage": {
+    "title": "Indeks",
+    "lead": "Konsep dan kerangka kerja, serta topik yang membahasnya."
+  },
+  "jumpToLetter": "Lompat ke huruf",
+  "skillsPage": {
+    "title": "Keterampilan AI",
+    "lead": "Keterampilan dalam bentuk Claude Code, dirujuk dari topik. Masing-masing adalah berkas SKILL.md yang dapat Anda salin ke folder keterampilan Anda.",
+    "viewSource": "Lihat di GitHub",
+    "backToList": "Semua keterampilan"
+  },
+  "error": {
+    "label": "Kesalahan {$status}",
+    "notFound": "Halaman ini tidak ditemukan",
+    "generic": "Terjadi kesalahan",
+    "unknown": "Kesalahan tidak dikenal",
+    "try": "Coba daftar isi, glosarium, atau indeks."
+  },
+  "home": {
+    "continue": "Lanjutkan membaca Panduan ITIL Agile"
+  }
+}
