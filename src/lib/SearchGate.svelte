@@ -4,6 +4,7 @@
 	import { targetFromSearch, search, type IndexEntry, type SearchResult } from '#lib/search.js';
 	import { DEFAULT_LOCALE } from '#lib/book.js';
 	import { _ } from '#lib/i18n.js';
+	import { sectionPath } from '#lib/segments.js';
 	import type { Snippet } from 'svelte';
 
 	/** `locale` picks the search index; the wording follows the active UI locale. */
@@ -83,7 +84,7 @@
 		{:else if results === null}
 			<p>{_('results.searching')}</p>
 		{:else if results.length === 0}
-			<p>{_('results.none', { values: { query: target } })} <a href={`/${locale}/contents/`}>{_('results.browse')}</a></p>
+			<p>{_('results.none', { values: { query: target } })} <a href={sectionPath(locale, 'contents')}>{_('results.browse')}</a></p>
 		{:else}
 			<p>
 				{_('results.count', { values: { count: results.length } })}

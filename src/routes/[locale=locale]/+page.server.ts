@@ -1,5 +1,6 @@
 import { error, redirect } from '@sveltejs/kit';
 import { isLocale, LOCALE_SLUGS } from '#lib/book.js';
+import { sectionPath } from '#lib/segments.js';
 
 /**
  * `/<slug>/` on its own has nothing to show — the contents page is
@@ -12,5 +13,5 @@ export function entries() {
 
 export function load({ params }) {
   if (!isLocale(params.locale)) error(404, `No locale named "${params.locale}"`);
-  redirect(307, `/${params.locale}/contents/`);
+  redirect(307, encodeURI(sectionPath(params.locale, 'contents')));
 }

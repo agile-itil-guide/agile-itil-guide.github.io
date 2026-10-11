@@ -1,5 +1,6 @@
 import { error } from '@sveltejs/kit';
 import { isLocale } from '#lib/book.js';
+import { isTranslated } from '#lib/segments.js';
 import { topic, localeTopicEntries, parts } from '#lib/server/book.js';
 
 /**
@@ -9,7 +10,9 @@ import { topic, localeTopicEntries, parts } from '#lib/server/book.js';
  * https://svelte.dev/docs/kit/page-options#entries.
  */
 export function entries() {
-  return localeTopicEntries();
+  // A locale with a translated topics segment is reached through reroute (src/hooks.ts)
+  // and prerendered by following its links, not from the canonical path.
+  return localeTopicEntries().filter(({ locale }) => !isTranslated(locale, 'topics'));
 }
 
 export function load({ params }) {

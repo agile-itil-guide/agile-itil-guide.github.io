@@ -1,10 +1,11 @@
 import { error } from '@sveltejs/kit';
 import { isLocale, LOCALE_SLUGS } from '#lib/book.js';
+import { isTranslated } from '#lib/segments.js';
 import { conceptIndex } from '#lib/server/book.js';
 
 /** One index page per locale. */
 export function entries() {
-  return LOCALE_SLUGS.map((locale) => ({ locale }));
+  return LOCALE_SLUGS.filter((locale) => !isTranslated(locale, 'index')).map((locale) => ({ locale }));
 }
 
 export function load({ params }) {

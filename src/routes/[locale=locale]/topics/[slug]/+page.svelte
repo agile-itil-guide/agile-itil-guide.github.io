@@ -10,6 +10,7 @@
   } from '@lilydesignsystem/svelte-headless';
   import { SITE_URL } from '#lib/book.js';
   import { _ } from '#lib/i18n.js';
+  import { sectionPath } from '#lib/segments.js';
 
   let { data } = $props();
 
@@ -25,7 +26,7 @@
   <meta name="description" content={data.doc.lead || data.ref.title} />
   <link
     rel="canonical"
-    href="{SITE_URL}/{data.locale}/topics/{data.ref.slug}/"
+    href="{SITE_URL}{encodeURI(sectionPath(data.locale, 'topics', data.ref.slug))}"
   />
 </svelte:head>
 
@@ -34,7 +35,7 @@
     <BreadcrumbList>
       <BreadcrumbListItem><a href="/">{_('breadcrumb.home')}</a></BreadcrumbListItem>
       <BreadcrumbListItem
-        ><a href="/{data.locale}/contents/">{_('breadcrumb.contents')}</a></BreadcrumbListItem
+        ><a href={sectionPath(data.locale, 'contents')}>{_('breadcrumb.contents')}</a></BreadcrumbListItem
       >
       {#if part}
         <BreadcrumbListItem>{_('contents.part', { values: { number: part.number } })} — {part.title}</BreadcrumbListItem>
@@ -62,7 +63,7 @@
     <PaginationList>
       <PaginationListItem class="page-pagination-previous">
         {#if data.previous}
-          <a href="/{data.locale}/topics/{data.previous.slug}/" rel="prev">
+          <a href={sectionPath(data.locale, 'topics', data.previous.slug)} rel="prev">
             <span class="page-pagination-direction">{_('topic.previous')}</span>
             <span class="page-pagination-label">{label(data.previous)}</span>
           </a>
@@ -70,7 +71,7 @@
       </PaginationListItem>
       <PaginationListItem class="page-pagination-next">
         {#if data.next}
-          <a href="/{data.locale}/topics/{data.next.slug}/" rel="next">
+          <a href={sectionPath(data.locale, 'topics', data.next.slug)} rel="next">
             <span class="page-pagination-direction">{_('topic.next')}</span>
             <span class="page-pagination-label">{label(data.next)}</span>
           </a>

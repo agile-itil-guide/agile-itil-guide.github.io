@@ -1,4 +1,5 @@
 import { DEFAULT_LOCALE, LOCALE_SLUGS, SITE_URL } from '#lib/book.js';
+import { sectionPath } from '#lib/segments.js';
 import { localeSlugMap, slugs } from '#lib/server/book.js';
 
 export const prerender = true;
@@ -41,11 +42,11 @@ export function GET() {
   const topicGroups = (locale: string, slug: string): Record<string, string> => {
     const entry = Object.values(slugMap).find((group) => group[locale] === slug);
     const group = entry ?? {};
-    return Object.fromEntries(Object.entries(group).map(([l, s]) => [l, `/${l}/topics/${s}/`]));
+    return Object.fromEntries(Object.entries(group).map(([l, s]) => [l, sectionPath(l, 'topics', s)]));
   };
 
   const referenceGroups = (page: string): Record<string, string> =>
-    Object.fromEntries(LOCALE_SLUGS.map((l) => [l, `/${l}/${page}/`]));
+    Object.fromEntries(LOCALE_SLUGS.map((l) => [l, sectionPath(l, page as 'glossary' | 'index')]));
 
   const entries = [
     url('/'),
@@ -53,10 +54,10 @@ export function GET() {
     url('/index/'),
     url('/skills/'),
     ...LOCALE_SLUGS.flatMap((locale) => [
-      url(`/${locale}/contents/`),
-      url(`/${locale}/glossary/`, referenceGroups('glossary')),
-      url(`/${locale}/index/`, referenceGroups('index')),
-      ...slugs(locale).map((slug) => url(`/${locale}/topics/${slug}/`, topicGroups(locale, slug)))
+      url(sectionPath(locale, 'contents')),
+      url(sectionPath(locale, 'glossary'), referenceGroups('glossary')),
+      url(sectionPath(locale, 'index'), referenceGroups('index')),
+      ...slugs(locale).map((slug) => url(sectionPath(locale, 'topics', slug), topicGroups(locale, slug)))
     ])
   ];
 

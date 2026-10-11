@@ -13,6 +13,7 @@
 #
 # Copied:
 #   locales/<locale>/topics/<slug>/index.md   written topics only (stubs are skipped)
+#   locales/<locale>/dirs.json                the locale's translated directory names (locale.json "dirs"), used for URLs
 #   locales/<locale>/slugs.tsv                canonical slug -> this locale's directory name, matched by .locale-peer-id
 #   spec/topics.tsv                           -> src/content/topics.tsv (plus a title column read from each topic's first headline)
 #   glossary/index.md, index/index.md         -> src/content/glossary/index.md, src/content/index/index.md
@@ -63,15 +64,23 @@ total=0
 for locale_path in "$source_repo"/locales/*/; do
     locale=$(basename "$locale_path")
     count=0
-    if [ -f "${locale_path}glossary/index.md" ]; then
+    # A locale may name its directories in its own language (locale.json "dirs").
+    # The site's content tree keeps the canonical names; only URLs use the local ones.
+    topics_dir=topics glossary_dir=glossary index_dir=index
+    if [ -f "${locale_path}locale.json" ]; then
+        mkdir -p "$destination/locales/$locale"
+        python3 -c 'import json,sys; d=json.load(open(sys.argv[1],encoding="utf-8")).get("dirs",{}); json.dump(d,open(sys.argv[2],"w",encoding="utf-8"),ensure_ascii=False)' "${locale_path}locale.json" "$destination/locales/$locale/dirs.json"
+        eval "$(python3 -c 'import json,sys; d=json.load(open(sys.argv[1],encoding="utf-8")).get("dirs",{}); print("topics_dir=%s glossary_dir=%s index_dir=%s" % tuple(repr(d.get(k,k)) for k in ("topics","glossary","index")))' "${locale_path}locale.json")"
+    fi
+    if [ -f "${locale_path}${glossary_dir}/index.md" ]; then
         mkdir -p "$destination/locales/$locale/glossary"
-        cp "${locale_path}glossary/index.md" "$destination/locales/$locale/glossary/index.md"
+        cp "${locale_path}${glossary_dir}/index.md" "$destination/locales/$locale/glossary/index.md"
     fi
-    if [ -f "${locale_path}index/index.md" ]; then
+    if [ -f "${locale_path}${index_dir}/index.md" ]; then
         mkdir -p "$destination/locales/$locale/index"
-        cp "${locale_path}index/index.md" "$destination/locales/$locale/index/index.md"
+        cp "${locale_path}${index_dir}/index.md" "$destination/locales/$locale/index/index.md"
     fi
-    for topic_path in "${locale_path}topics"/*/; do
+    for topic_path in "${locale_path}${topics_dir}"/*/; do
         [ -f "${topic_path}index.md" ] || continue
         if grep -q "$STUB" "${topic_path}index.md"; then continue; fi
         slug=$(basename "$topic_path")

@@ -12,6 +12,7 @@
   import PickerBar, { DEFAULT_THEMES } from '@lilydesignsystem/svelte-picker-bar';
   import { SOURCE_REPO, SKILLS_REPO, LOCALES, LOCALE_SLUGS, DEFAULT_LOCALE } from '#lib/book.js';
   import { _, setLocale } from '#lib/i18n.js';
+  import { sectionPath, segment } from '#lib/segments.js';
 
   /**
    * `DEFAULT_THEMES`, minus the institution-specific themes (NHS
@@ -66,9 +67,9 @@
     if (topicMatch && page.data?.ref) {
       const key: string = page.data.ref.number;
       const mapped = page.data.localeSlugMap?.[key]?.[newLocale];
-      if (mapped) return `/${newLocale}/topics/${mapped}/`;
+      if (mapped) return sectionPath(newLocale, 'topics', mapped);
     }
-    return `/${newLocale}/contents/`;
+    return sectionPath(newLocale, 'contents');
   }
 
   /**
@@ -95,9 +96,9 @@
   // "Contents" follows whichever locale is currently showing, falling back
   // to the house-style default on locale-neutral pages.
   const siteLinks = $derived([
-    { href: `/${currentLocale ?? pickerLocale ?? DEFAULT_LOCALE}/contents/`, label: _('nav.contents') },
-    { href: `/${currentLocale ?? pickerLocale ?? DEFAULT_LOCALE}/glossary/`, label: _('nav.glossary') },
-    { href: `/${currentLocale ?? pickerLocale ?? DEFAULT_LOCALE}/index/`, label: _('nav.index') },
+    { href: sectionPath(currentLocale ?? pickerLocale ?? DEFAULT_LOCALE, 'contents'), label: _('nav.contents') },
+    { href: sectionPath(currentLocale ?? pickerLocale ?? DEFAULT_LOCALE, 'glossary'), label: _('nav.glossary') },
+    { href: sectionPath(currentLocale ?? pickerLocale ?? DEFAULT_LOCALE, 'index'), label: _('nav.index') },
     { href: '/skills/', label: _('nav.skills') }
   ]);
 
@@ -147,21 +148,23 @@
    * project's places elsewhere (new tab). Labels are in the reader's locale;
    * GitHub, Codeberg, GitLab and Lily are names, not words.
    */
+  const shownLocale = $derived(currentLocale ?? pickerLocale ?? DEFAULT_LOCALE);
+  const shownPath = $derived(decodeURIComponent(page.url.pathname));
   const projectLinks = $derived([
     {
       label: _('nav.contents'),
-      href: `/${currentLocale ?? pickerLocale ?? DEFAULT_LOCALE}/contents/`,
-      current: page.url.pathname.endsWith('/contents/')
+      href: sectionPath(shownLocale, 'contents'),
+      current: shownPath.endsWith(`/${segment(shownLocale, 'contents')}/`)
     },
     {
       label: _('nav.glossary'),
-      href: `/${currentLocale ?? pickerLocale ?? DEFAULT_LOCALE}/glossary/`,
-      current: page.url.pathname.endsWith('/glossary/')
+      href: sectionPath(shownLocale, 'glossary'),
+      current: shownPath.endsWith(`/${segment(shownLocale, 'glossary')}/`)
     },
     {
       label: _('nav.index'),
-      href: `/${currentLocale ?? pickerLocale ?? DEFAULT_LOCALE}/index/`,
-      current: page.url.pathname.endsWith('/index/')
+      href: sectionPath(shownLocale, 'index'),
+      current: shownPath.endsWith(`/${segment(shownLocale, 'index')}/`)
     },
     { label: _('nav.skills'), href: '/skills/', current: page.url.pathname.startsWith('/skills/') },
     { label: _('links.llms'), href: '/llms.txt', newTab: true },

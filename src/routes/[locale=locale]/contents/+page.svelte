@@ -8,6 +8,7 @@
   } from '@lilydesignsystem/svelte-headless';
   import { LOCALES, SITE_URL } from '#lib/book.js';
   import { _ } from '#lib/i18n.js';
+  import { sectionPath } from '#lib/segments.js';
 
   let { data } = $props();
 
@@ -25,7 +26,7 @@
 <svelte:head>
   <title>{_('contents.pageTitle')} — {_('siteTitle')}</title>
   <meta name="description" content={_('contents.lead')} />
-  <link rel="canonical" href="{SITE_URL}/{data.locale}/contents/" />
+  <link rel="canonical" href="{SITE_URL}{encodeURI(sectionPath(data.locale, 'contents'))}" />
 </svelte:head>
 
 <ArticleLayout class="page">
@@ -54,7 +55,7 @@
             {#each part.topics as topic (topic.slug)}
               <li>
                 {#if topic.written}
-                  <a href="/{data.locale}/topics/{topic.slug}/">{topic.number} {topic.title}</a>
+                  <a href={sectionPath(data.locale, 'topics', topic.slug)}>{topic.number} {topic.title}</a>
                 {:else}
                   <span class="contents-unwritten">
                     {topic.number} {topic.title}
