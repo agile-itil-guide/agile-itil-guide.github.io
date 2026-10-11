@@ -46,7 +46,7 @@ Daw syniadau gwella o lawer o leoedd mewn sefydliad gwasanaeth:
 | Digwyddiadau ac adolygiadau ôl-ddigwyddiad | Mae nam yn dangos rhybudd coll | Pwnc 3.2 — Rheoli Digwyddiadau |
 | Ymchwilio i broblemau | Mae toriadau ailadroddus yn dangos nam dylunio | Pwnc 3.3 — Rheoli Problemau |
 | Themâu'r ddesg gwasanaeth | Daw'r un cwestiwn bob wythnos | Pwnc 3.1 — Desg Gwasanaeth |
-| Ôl-drafodaethau | Mae'r tîm yn canfod bod ei drosglwyddo yn araf | Pwnc 1.4 — Scrum |
+| Ôl-drafodaethau | Mae'r tîm yn canfod bod ei drosglwyddo yn araf | Pwnc 1.4 — Rhagweld Cyflawni a Metrigau Cynllunio |
 | Data llif | Mae ciw yn tyfu ar un cam | Pwnc 1.5 — Kanban |
 | Adborth cwsmeriaid | Mae defnyddwyr yn cael ffurflen yn ddryslyd | Pwnc 3.6 — Rheoli Ceisiadau Gwasanaeth |
 | Adolygiadau lefel gwasanaeth | Methir targed dro ar ôl tro | Pwnc 3.7 — Rheoli Lefelau Gwasanaeth |

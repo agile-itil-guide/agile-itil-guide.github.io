@@ -4,7 +4,7 @@
 
 ## Pam mae hyn yn bwysig
 
-Mae gan ddesg gwasanaeth, tîm gweithrediadau a thîm platfform un nodwedd gyffredin: mae gwaith yn cyrraedd pan fydd yn cyrraedd. Daw digwyddiadau, ceisiadau a newidiadau bach mewn ffrwd, ac ni all y tîm gynllunio mis ohonynt ymlaen llaw. Dim ond gydag addasiadau y mae fframweithiau a adeiladwyd o amgylch cylchoedd sefydlog, fel Scrum, yn cyd-fynd â'r gwaith hwn (gweler Pwnc 1.4 — Scrum). Cynlluniwyd Kanban ar gyfer llif, felly mae'n ffitio'n fwy naturiol.
+Mae gan ddesg gwasanaeth, tîm gweithrediadau a thîm platfform un nodwedd gyffredin: mae gwaith yn cyrraedd pan fydd yn cyrraedd. Daw digwyddiadau, ceisiadau a newidiadau bach mewn ffrwd, ac ni all y tîm gynllunio mis ohonynt ymlaen llaw. Dim ond gydag addasiadau y mae fframweithiau a adeiladwyd o amgylch cylchoedd sefydlog, fel Scrum, yn cyd-fynd â'r gwaith hwn (gweler Pwnc 1.4 — Rhagweld Cyflawni a Metrigau Cynllunio). Cynlluniwyd Kanban ar gyfer llif, felly mae'n ffitio'n fwy naturiol.
 
 Mae Kanban hefyd yn siarad iaith rheoli gwasanaethau. Mae'n gofyn pa mor hir y mae gwaith yn ei gymryd, faint sy'n aros, a pha gam yw'r dagfa, a dyma'r cwestiynau y tu ôl i lefelau gwasanaeth, rheoli ciwiau a chynllunio capasiti. Gall tîm sy'n olrhain oedran ac amser beicio ei waith siarad am lefelau gwasanaeth gyda data yn lle argraffiadau.
 

@@ -72,13 +72,13 @@ Mae'r dolenni Wikipedia yn mynd i'r Wikipedia Saesneg. Mae'r Eirfa hon yn cael e
 
 ## D
 
-**Scrum Dyddiol (Daily Scrum)** — Digwyddiad dyddiol 15 munud lle mae'r Datblygwyr yn archwilio cynnydd tuag at Nod y Sbrint ac yn cynllunio'r diwrnod nesaf. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — Gweler Pwnc 1.4 — Scrum.
+**Scrum Dyddiol (Daily Scrum)** — Digwyddiad dyddiol 15 munud lle mae'r Datblygwyr yn archwilio cynnydd tuag at Nod y Sbrint ac yn cynllunio'r diwrnod nesaf. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — Gweler Pwnc 1.4 — Rhagweld Cyflawni a Metrigau Cynllunio.
 
 **Dileu data (Data erasure)** — Dull sy'n trosysgrifo pob sector o ddyfais storio fel na ellir adfer y data; dim ond awgrymiadau y mae dileu cyffredin yn eu tynnu. *[Wikipedia](https://en.wikipedia.org/wiki/Data_erasure)* — Gweler Pwnc 4.3 — Rheoli Asedau Caledwedd.
 
 **Amddiffyn mewn dyfnder (Defense in depth)** — Haenu rheolaethau gweinyddol, rhesymegol a ffisegol sy'n gorgyffwrdd fel nad yw un methiant yn ddigon. *[Wikipedia](https://en.wikipedia.org/wiki/Defense_in_depth_(computing))* — Gweler Pwnc 3.13 — Rheoli Diogelwch Gwybodaeth.
 
-**Diffiniad o Orffenedig (Definition of Done)** — Y safon ansawdd y mae'n rhaid i waith ei bodloni i gyfrif fel rhan o Gynyddran Scrum. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — Gweler Pwnc 1.4 — Scrum.
+**Diffiniad o Orffenedig (Definition of Done)** — Y safon ansawdd y mae'n rhaid i waith ei bodloni i gyfrif fel rhan o Gynyddran Scrum. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — Gweler Pwnc 1.4 — Rhagweld Cyflawni a Metrigau Cynllunio.
 
 **Diffiniad o Lif Gwaith (Definition of Workflow, DoW)** — Yn y Kanban Guide, disgrifiad y tîm o'i eitemau gwaith, ei gyflyrau llif gwaith, rheoli gwaith ar y gweill, polisïau a disgwyliad lefel gwasanaeth. *[Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))* — Gweler Pwnc 1.5 — Kanban.
 
@@ -140,7 +140,7 @@ Mae'r dolenni Wikipedia yn mynd i'r Wikipedia Saesneg. Mae'r Eirfa hon yn cael e
 
 **Cadlywydd digwyddiad (Incident commander)** — Y person sy'n dal cyflwr lefel uchel digwyddiad ac yn cydlynu'r ymateb. — Gweler Pwnc 3.2 — Rheoli Digwyddiadau.
 
-**Cynyddran (Increment)** — Mewn Scrum, cam defnyddiadwy, wedi'i wirio tuag at Nod y Cynnyrch sy'n ychwanegu at yr holl Gynyddrannau cynharach. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — Gweler Pwnc 1.4 — Scrum.
+**Cynyddran (Increment)** — Mewn Scrum, cam defnyddiadwy, wedi'i wirio tuag at Nod y Cynnyrch sy'n ychwanegu at yr holl Gynyddrannau cynharach. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — Gweler Pwnc 1.4 — Rhagweld Cyflawni a Metrigau Cynllunio.
 
 **Diogelwch gwybodaeth (Information security)** — Diogelu gwybodaeth trwy liniaru risgiau gwybodaeth; ei brif nodau yw cyfrinachedd, cywirdeb ac argaeledd. *[Wikipedia](https://en.wikipedia.org/wiki/Information_security)* — Gweler Pwnc 3.13 — Rheoli Diogelwch Gwybodaeth.
 
@@ -208,9 +208,9 @@ Mae'r dolenni Wikipedia yn mynd i'r Wikipedia Saesneg. Mae'r Eirfa hon yn cael e
 
 **Problem (Problem)** — Achos sylfaenol, neu achos tybiedig, un digwyddiad neu fwy. — Gweler Pwnc 3.3 — Rheoli Problemau.
 
-**Ôl-groniad Cynnyrch (Product Backlog)** — Mewn Scrum, rhestr drefnedig sy'n esblygu o'r hyn y mae'r cynnyrch ei angen; ei hymrwymiad yw Nod y Cynnyrch. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — Gweler Pwnc 1.4 — Scrum.
+**Ôl-groniad Cynnyrch (Product Backlog)** — Mewn Scrum, rhestr drefnedig sy'n esblygu o'r hyn y mae'r cynnyrch ei angen; ei hymrwymiad yw Nod y Cynnyrch. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — Gweler Pwnc 1.4 — Rhagweld Cyflawni a Metrigau Cynllunio.
 
-**Perchennog Cynnyrch (Product Owner)** — Mewn Scrum, yr un person sy'n atebol am wneud y mwyaf o werth y cynnyrch ac am drefnu'r Ôl-groniad Cynnyrch. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — Gweler Pwnc 1.4 — Scrum.
+**Perchennog Cynnyrch (Product Owner)** — Mewn Scrum, yr un person sy'n atebol am wneud y mwyaf o werth y cynnyrch ac am drefnu'r Ôl-groniad Cynnyrch. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — Gweler Pwnc 1.4 — Rhagweld Cyflawni a Metrigau Cynllunio.
 
 **Perchennog cynnyrch (perchennog gwasanaeth) (Product owner, service owner)** — Y person sy'n atebol am werth cynnyrch neu wasanaeth ac am drefnu ei ôl-groniad. — Gweler Pwnc 5.5 — Perchnogaeth Cynnyrch a Gwasanaeth.
 
@@ -242,13 +242,13 @@ Mae'r dolenni Wikipedia yn mynd i'r Wikipedia Saesneg. Mae'r Eirfa hon yn cael e
 
 **Scaled Agile Framework (SAFe)** — Set o batrymau sefydliad a llif gwaith ar gyfer ehangu arferion main ac ystwyth, a gyhoeddir gan Scaled Agile, Inc. *[Wikipedia](https://en.wikipedia.org/wiki/Scaled_agile_framework)* — Gweler Pwnc 1.8 — Ehangu Ystwythder.
 
-**Scrum** — Fframwaith ysgafn o rolau, digwyddiadau ac arteffactau sy'n helpu pobl i greu gwerth trwy atebion addasol i broblemau cymhleth. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — Gweler Pwnc 1.4 — Scrum.
+**Scrum** — Fframwaith ysgafn o rolau, digwyddiadau ac arteffactau sy'n helpu pobl i greu gwerth trwy atebion addasol i broblemau cymhleth. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — Gweler Pwnc 1.4 — Rhagweld Cyflawni a Metrigau Cynllunio.
 
-**Scrum Master** — Mewn Scrum, yr atebolrwydd am sefydlu Scrum a helpu'r tîm a'r sefydliad i'w ddeall a'i gymhwyso. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — Gweler Pwnc 1.4 — Scrum.
+**Scrum Master** — Mewn Scrum, yr atebolrwydd am sefydlu Scrum a helpu'r tîm a'r sefydliad i'w ddeall a'i gymhwyso. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — Gweler Pwnc 1.4 — Rhagweld Cyflawni a Metrigau Cynllunio.
 
 **Scrum o scrums (Scrum of scrums)** — Cyfarfod cydlynu ysgafn lle mae cynrychiolwyr nifer o dimau yn rhannu cynnydd ac yn datrys dibyniaethau. — Gweler Pwnc 1.8 — Ehangu Ystwythder.
 
-**Scrumban** — Cymysgedd o ddigwyddiadau Scrum a llif Kanban. *[Wikipedia](https://en.wikipedia.org/wiki/Scrumban)* — Gweler Pwnc 1.4 — Scrum.
+**Scrumban** — Cymysgedd o ddigwyddiadau Scrum a llif Kanban. *[Wikipedia](https://en.wikipedia.org/wiki/Scrumban)* — Gweler Pwnc 1.4 — Rhagweld Cyflawni a Metrigau Cynllunio.
 
 **Catalog gwasanaethau (Service catalog)** — Casgliad wedi'i guradu o'r gwasanaethau y mae sefydliad yn eu cynnig, pob un gyda pherchennog, disgrifiad a sut i gael cymorth. *[Wikipedia](https://en.wikipedia.org/wiki/Service_catalog)* — Gweler Pwnc 3.8 — Rheoli'r Catalog Gwasanaethau.
 
@@ -282,13 +282,13 @@ Mae'r dolenni Wikipedia yn mynd i'r Wikipedia Saesneg. Mae'r Eirfa hon yn cael e
 
 **Cadwyn gyflenwi meddalwedd (Software supply chain)** — Y cydrannau, y llyfrgelloedd, yr offer a'r prosesau a ddefnyddir i ddatblygu, adeiladu a chyhoeddi arteffact meddalwedd. *[Wikipedia](https://en.wikipedia.org/wiki/Software_supply_chain)* — Gweler Pwnc 4.2 — Rheoli Asedau Meddalwedd.
 
-**Sbrint (Sprint)** — Mewn Scrum, ffrâm amser sefydlog o fis neu lai lle mae pob digwyddiad arall yn digwydd. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — Gweler Pwnc 1.4 — Scrum.
+**Sbrint (Sprint)** — Mewn Scrum, ffrâm amser sefydlog o fis neu lai lle mae pob digwyddiad arall yn digwydd. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — Gweler Pwnc 1.4 — Rhagweld Cyflawni a Metrigau Cynllunio.
 
-**Nod y Sbrint (Sprint Goal)** — Yr amcan unigol ar gyfer Sbrint Scrum; ymrwymiad Ôl-groniad y Sbrint. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — Gweler Pwnc 1.4 — Scrum.
+**Nod y Sbrint (Sprint Goal)** — Yr amcan unigol ar gyfer Sbrint Scrum; ymrwymiad Ôl-groniad y Sbrint. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — Gweler Pwnc 1.4 — Rhagweld Cyflawni a Metrigau Cynllunio.
 
-**Ôl-drafodaeth y Sbrint (Sprint Retrospective)** — Y digwyddiad Scrum lle mae'r tîm yn archwilio sut y gweithiodd ac yn cynllunio gwelliannau. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — Gweler Pwnc 1.4 — Scrum.
+**Ôl-drafodaeth y Sbrint (Sprint Retrospective)** — Y digwyddiad Scrum lle mae'r tîm yn archwilio sut y gweithiodd ac yn cynllunio gwelliannau. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — Gweler Pwnc 1.4 — Rhagweld Cyflawni a Metrigau Cynllunio.
 
-**Adolygiad y Sbrint (Sprint Review)** — Y digwyddiad Scrum lle mae'r tîm yn dangos y Gynyddran i randdeiliaid ac yn addasu'r Ôl-groniad Cynnyrch. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — Gweler Pwnc 1.4 — Scrum.
+**Adolygiad y Sbrint (Sprint Review)** — Y digwyddiad Scrum lle mae'r tîm yn dangos y Gynyddran i randdeiliaid ac yn addasu'r Ôl-groniad Cynnyrch. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — Gweler Pwnc 1.4 — Rhagweld Cyflawni a Metrigau Cynllunio.
 
 **Newid safonol (Standard change)** — Newid risg isel, sy'n cael ei ddeall yn dda, sy'n dilyn gweithdrefn ddogfenedig ac sydd wedi'i ragawdurdodi. — Gweler Pwnc 3.4 — Galluogi Newid.
 

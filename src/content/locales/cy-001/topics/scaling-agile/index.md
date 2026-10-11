@@ -41,7 +41,7 @@ Mae SAFe wedi denu beirniadaeth agored, y mae'r erthygl yn ei chofnodi. Dadleuod
 
 ### LeSS: ehangu trwy dynnu
 
-Mae Larman a Vodde yn disgrifio LeSS fel Scrum a gymhwysir at lawer o dimau sy'n gweithio ar un cynnyrch. Nid yw'n ychwanegu haen ar ben Scrum. Yn ôl cyflwyniad y fframwaith ei hun, mae un Perchennog Cynnyrch yn rheoli un Ôl-groniad Cynnyrch ac mae'r timau'n cynhyrchu un cynnyrch y gellir ei gludo mewn Sbrint cyffredin. Mae LeSS yn datgan syniad "mwy gyda llai": mae llai o rolau, arteffactau a rheolau yn cynhyrchu timau mwy cyfrifol. Am y dull sylfaenol, gweler Pwnc 1.4 — Scrum.
+Mae Larman a Vodde yn disgrifio LeSS fel Scrum a gymhwysir at lawer o dimau sy'n gweithio ar un cynnyrch. Nid yw'n ychwanegu haen ar ben Scrum. Yn ôl cyflwyniad y fframwaith ei hun, mae un Perchennog Cynnyrch yn rheoli un Ôl-groniad Cynnyrch ac mae'r timau'n cynhyrchu un cynnyrch y gellir ei gludo mewn Sbrint cyffredin. Mae LeSS yn datgan syniad "mwy gyda llai": mae llai o rolau, arteffactau a rheolau yn cynhyrchu timau mwy cyfrifol. Am y dull sylfaenol, gweler Pwnc 1.4 — Rhagweld Cyflawni a Metrigau Cynllunio.
 
 ### Disciplined Agile: dewiswch eich ffordd o weithio
 

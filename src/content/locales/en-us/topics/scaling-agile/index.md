@@ -41,7 +41,7 @@ SAFe has drawn open criticism, which the article records. Thoughtworks argued th
 
 ### LeSS: scale by removing
 
-Larman and Vodde describe LeSS as Scrum applied to many teams working on one product. It adds no layer on top of Scrum. According to the framework's own introduction, one Product Owner manages one Product Backlog and the teams produce one shippable product in a common Sprint. LeSS states a "more with less" idea: fewer roles, artifacts, and rules produce more responsible teams. For the underlying method, see Topic 1.4 — Scrum.
+Larman and Vodde describe LeSS as Scrum applied to many teams working on one product. It adds no layer on top of Scrum. According to the framework's own introduction, one Product Owner manages one Product Backlog and the teams produce one shippable product in a common Sprint. LeSS states a "more with less" idea: fewer roles, artifacts, and rules produce more responsible teams. For the underlying method, see Topic 1.4 — Delivery Forecasting and Planning Metrics.
 
 ### Disciplined Agile: choose your way of working
 

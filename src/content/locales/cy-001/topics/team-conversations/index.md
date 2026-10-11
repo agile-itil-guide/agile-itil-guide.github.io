@@ -8,7 +8,7 @@ Mae'r canllaw hwn yn llawn arferion, ond nid yw arferion yn newid dim ar eu pen 
 
 Anaml mai talent yw'r gwahaniaeth. Strwythur ydyw fel arfer: diben clir, ffordd o glywed gan bawb, cwestiwn gwerth ei ofyn, a phenderfyniad ar y diwedd. Mae'r pwnc hwn yn disgrifio set fach o fformatau sy'n darparu'r strwythur hwn, ac yna'n casglu cwestiynau o bob rhan o'r canllaw fel y gall hwylusydd ddod o hyd i un da yn gyflym. Fe'i cynlluniwyd fel ffynhonnell syniadau i'w trafod gyda thimau, a oedd yn un o nodau'r canllaw cyfan.
 
-Mae'r ffynonellau ar gyfer y fformatau yn gymedrol. Mae'r [erthygl Wikipedia ar hwyluswyr](https://en.wikipedia.org/wiki/Facilitator) (yn Saesneg) yn disgrifio'r rôl mewn termau cyffredinol; mae gwefan Lean Coffee yn disgrifio un fformat yn fanwl; ac mae'r Scrum Guide yn disgrifio'r Ôl-drafodaeth Sbrint (gweler Pwnc 1.4 — Scrum). Mae'r erthygl Wikipedia ar ôl-drafodaethau yn trin ôl-drafodaethau ystwyth yn fyr yn unig. Cyngor ymarferol yw llawer o weddill y pwnc hwn, wedi'i dynnu o sgiliau'r canllaw hwn ac o arfer hwyluso cyffredin, ac mae'r testun yn nodi hynny.
+Mae'r ffynonellau ar gyfer y fformatau yn gymedrol. Mae'r [erthygl Wikipedia ar hwyluswyr](https://en.wikipedia.org/wiki/Facilitator) (yn Saesneg) yn disgrifio'r rôl mewn termau cyffredinol; mae gwefan Lean Coffee yn disgrifio un fformat yn fanwl; ac mae'r Scrum Guide yn disgrifio'r Ôl-drafodaeth Sbrint (gweler Pwnc 1.4 — Rhagweld Cyflawni a Metrigau Cynllunio). Mae'r erthygl Wikipedia ar ôl-drafodaethau yn trin ôl-drafodaethau ystwyth yn fyr yn unig. Cyngor ymarferol yw llawer o weddill y pwnc hwn, wedi'i dynnu o sgiliau'r canllaw hwn ac o arfer hwyluso cyffredin, ac mae'r testun yn nodi hynny.
 
 ## Cysyniadau craidd
 
@@ -88,7 +88,7 @@ Daw'r cwestiynau isod o bob rhan o'r canllaw. Mae pob un yn ffordd dda o agor sg
 #### I wella sut rydym yn gweithio
 
 - Beth yw'r eitem hynaf ar ein bwrdd, a pham ei bod yno o hyd? (Pwnc 1.5 — Kanban)
-- Beth newidiodd ein hôl-drafodaeth ddiwethaf, a sut ydym yn gwybod iddo weithio? (Pwnc 1.4 — Scrum)
+- Beth newidiodd ein hôl-drafodaeth ddiwethaf, a sut ydym yn gwybod iddo weithio? (Pwnc 1.4 — Rhagweld Cyflawni a Metrigau Cynllunio)
 - Beth wellodd yn y chwarter diwethaf oherwydd rhywbeth y penderfynasom ei newid? (Pwnc 3.15 — Gwelliant Parhaus)
 - Beth ydym yn ei wneud y gallem roi'r gorau iddo heb niweidio cwsmer? (Pwnc 1.2 — Egwyddorion Ystwyth)
 

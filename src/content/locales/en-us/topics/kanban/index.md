@@ -4,7 +4,7 @@
 
 ## Why this matters
 
-A service desk, an operations team, and a platform team all share one trait: work arrives when it arrives. Incidents, requests, and small changes come in a stream, and the team cannot plan a month of them in advance. Frameworks built around fixed cycles, such as Scrum, fit this work only with adjustments (see Topic 1.4 — Scrum). Kanban was designed for flow, so it fits more naturally.
+A service desk, an operations team, and a platform team all share one trait: work arrives when it arrives. Incidents, requests, and small changes come in a stream, and the team cannot plan a month of them in advance. Frameworks built around fixed cycles, such as Scrum, fit this work only with adjustments (see Topic 1.4 — Delivery Forecasting and Planning Metrics). Kanban was designed for flow, so it fits more naturally.
 
 Kanban also speaks the language of service management. It asks how long work takes, how much is waiting, and which step is the bottleneck, and these are the questions behind service levels, queue management, and capacity planning. A team that tracks the age and cycle time of its work can talk about service levels with data instead of impressions.
 

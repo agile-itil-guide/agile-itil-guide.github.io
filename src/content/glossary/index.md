@@ -72,13 +72,13 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 ## D
 
-**Daily Scrum** — A 15-minute daily event in which the Developers inspect progress toward the Sprint Goal and plan the next day. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Scrum.
+**Daily Scrum** — A 15-minute daily event in which the Developers inspect progress toward the Sprint Goal and plan the next day. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Delivery Forecasting and Planning Metrics.
 
 **Data erasure** — A method that overwrites every sector of a storage device so the data cannot be recovered; ordinary deletion removes only pointers. *[Wikipedia](https://en.wikipedia.org/wiki/Data_erasure)* — See Topic 4.3 — Hardware Asset Management.
 
 **Defense in depth** — Layering overlapping administrative, logical, and physical controls so that one failure is not enough. *[Wikipedia](https://en.wikipedia.org/wiki/Defense_in_depth_(computing))* — See Topic 3.13 — Information Security Management.
 
-**Definition of Done** — The quality standard that work must meet to count as part of a Scrum Increment. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Scrum.
+**Definition of Done** — The quality standard that work must meet to count as part of a Scrum Increment. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Delivery Forecasting and Planning Metrics.
 
 **Definition of Workflow (DoW)** — In the Kanban Guide, the team's agreed description of its work items, workflow states, work in progress control, policies, and service level expectation. *[Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))* — See Topic 1.5 — Kanban.
 
@@ -140,7 +140,7 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Incident commander** — The person who holds the high-level state of an incident and coordinates the response. — See Topic 3.2 — Incident Management.
 
-**Increment** — In Scrum, a usable, verified step toward the Product Goal that adds to all earlier Increments. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Scrum.
+**Increment** — In Scrum, a usable, verified step toward the Product Goal that adds to all earlier Increments. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Delivery Forecasting and Planning Metrics.
 
 **Information security** — Protecting information by mitigating information risks; its core goals are confidentiality, integrity, and availability. *[Wikipedia](https://en.wikipedia.org/wiki/Information_security)* — See Topic 3.13 — Information Security Management.
 
@@ -208,9 +208,9 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Problem** — The underlying cause, or suspected cause, of one or more incidents. — See Topic 3.3 — Problem Management.
 
-**Product Backlog** — In Scrum, an ordered, evolving list of what the product needs; its commitment is the Product Goal. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Scrum.
+**Product Backlog** — In Scrum, an ordered, evolving list of what the product needs; its commitment is the Product Goal. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Delivery Forecasting and Planning Metrics.
 
-**Product Owner** — In Scrum, the one person accountable for maximizing the value of the product and for ordering the Product Backlog. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Scrum.
+**Product Owner** — In Scrum, the one person accountable for maximizing the value of the product and for ordering the Product Backlog. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Delivery Forecasting and Planning Metrics.
 
 **Product owner (service owner)** — The person accountable for the value of a product or service and for ordering its backlog. — See Topic 5.5 — Product and Service Ownership.
 
@@ -242,13 +242,13 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Scaled Agile Framework (SAFe)** — A set of organization and workflow patterns for scaling lean and agile practices, published by Scaled Agile, Inc. *[Wikipedia](https://en.wikipedia.org/wiki/Scaled_agile_framework)* — See Topic 1.8 — Scaling Agile.
 
-**Scrum** — A lightweight framework of roles, events, and artifacts that helps people create value through adaptive solutions to complex problems. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Scrum.
+**Scrum** — A lightweight framework of roles, events, and artifacts that helps people create value through adaptive solutions to complex problems. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Delivery Forecasting and Planning Metrics.
 
-**Scrum Master** — In Scrum, the accountability for establishing Scrum and helping the team and organization understand and apply it. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Scrum.
+**Scrum Master** — In Scrum, the accountability for establishing Scrum and helping the team and organization understand and apply it. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Delivery Forecasting and Planning Metrics.
 
 **Scrum of scrums** — A light coordination meeting in which representatives of several teams share progress and resolve dependencies. — See Topic 1.8 — Scaling Agile.
 
-**Scrumban** — A mix of Scrum events and Kanban flow. *[Wikipedia](https://en.wikipedia.org/wiki/Scrumban)* — See Topic 1.4 — Scrum.
+**Scrumban** — A mix of Scrum events and Kanban flow. *[Wikipedia](https://en.wikipedia.org/wiki/Scrumban)* — See Topic 1.4 — Delivery Forecasting and Planning Metrics.
 
 **Service catalog** — A curated collection of the services an organization offers, each with an owner, a description, and how to get help. *[Wikipedia](https://en.wikipedia.org/wiki/Service_catalog)* — See Topic 3.8 — Service Catalog Management.
 
@@ -282,13 +282,13 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Software supply chain** — The components, libraries, tools, and processes used to develop, build, and publish a software artifact. *[Wikipedia](https://en.wikipedia.org/wiki/Software_supply_chain)* — See Topic 4.2 — Software Asset Management.
 
-**Sprint** — In Scrum, a fixed timebox of one month or less in which all other events happen. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Scrum.
+**Sprint** — In Scrum, a fixed timebox of one month or less in which all other events happen. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Delivery Forecasting and Planning Metrics.
 
-**Sprint Goal** — The single objective for a Scrum Sprint; the commitment of the Sprint Backlog. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Scrum.
+**Sprint Goal** — The single objective for a Scrum Sprint; the commitment of the Sprint Backlog. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Delivery Forecasting and Planning Metrics.
 
-**Sprint Retrospective** — The Scrum event in which the team inspects how it worked and plans improvements. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Scrum.
+**Sprint Retrospective** — The Scrum event in which the team inspects how it worked and plans improvements. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Delivery Forecasting and Planning Metrics.
 
-**Sprint Review** — The Scrum event in which the team shows the Increment to stakeholders and adjusts the Product Backlog. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Scrum.
+**Sprint Review** — The Scrum event in which the team shows the Increment to stakeholders and adjusts the Product Backlog. *[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — See Topic 1.4 — Delivery Forecasting and Planning Metrics.
 
 **Standard change** — A low-risk, well-understood change that follows a documented procedure and is pre-authorized. — See Topic 3.4 — Change Enablement.
 

@@ -36,12 +36,12 @@ The article lists many methods. Those you are most likely to meet:
 
 | Method | Main emphasis | Covered in |
 |---|---|---|
-| Scrum | Defined roles, regular events, and a fixed cadence | Topic 1.4 — Scrum |
+| Scrum | Defined roles, regular events, and a fixed cadence | Topic 1.4 — Delivery Forecasting and Planning Metrics |
 | Kanban | Visualising work and limiting how much is in progress | Topic 1.5 — Kanban |
 | Extreme Programming (XP) | Engineering practices such as pair programming and test-driven development | Topic 1.6 — Extreme Programming |
 | Lean software development | Applying lean ideas, such as removing waste, to software | Topic 1.7 — Lean Software Development |
 | Feature-driven development, DSDM, Crystal, and adaptive software development | Other lightweight methods of continuous software delivery with their own roles and practices | This topic |
-| Scrumban | A mix of Scrum events and Kanban flow | Topic 1.4 — Scrum and Topic 1.5 — Kanban |
+| Scrumban | A mix of Scrum events and Kanban flow | Topic 1.4 — Delivery Forecasting and Planning Metrics and Topic 1.5 — Kanban |
 
 No method is "the" agile method. The article quotes Ken Schwaber's view that teams get into trouble by hunting for a perfect methodology when the enterprise itself needs to change, and Bas Vodde's suggestion that Scrum supplies basics that teams extend locally.
 

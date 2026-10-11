@@ -42,7 +42,7 @@ Defnyddir y cofair cyffredin **CALMS** (culture, automation, lean, measurement, 
 
 ### DevOps ac ystwyth
 
-Mae'r erthygl yn dweud bod adeiladu a phrofi awtomataidd, integreiddio parhaus a chyflawni parhaus yn tarddu o'r byd ystwyth, ac i hepgor arferion peirianneg gan Scrum achosi i waith awtomeiddio hollti i ffwrdd i DevOps. Mae hyn yn cyd-fynd â Phwnc 1.4 — Scrum, sy'n nodi nad yw Scrum yn dweud sut i adeiladu, profi, defnyddio na gweithredu meddalwedd. Mae Rhaglennu Eithafol eisoes yn cynnwys llawer o'r arferion peirianneg (gweler Pwnc 1.6 — Rhaglennu Eithafol). Mae DevOps yn ymestyn y pryder ystwyth y tu hwnt i'r pwynt rhyddhau.
+Mae'r erthygl yn dweud bod adeiladu a phrofi awtomataidd, integreiddio parhaus a chyflawni parhaus yn tarddu o'r byd ystwyth, ac i hepgor arferion peirianneg gan Scrum achosi i waith awtomeiddio hollti i ffwrdd i DevOps. Mae hyn yn cyd-fynd â Phwnc 1.4 — Rhagweld Cyflawni a Metrigau Cynllunio, sy'n nodi nad yw Scrum yn dweud sut i adeiladu, profi, defnyddio na gweithredu meddalwedd. Mae Rhaglennu Eithafol eisoes yn cynnwys llawer o'r arferion peirianneg (gweler Pwnc 1.6 — Rhaglennu Eithafol). Mae DevOps yn ymestyn y pryder ystwyth y tu hwnt i'r pwynt rhyddhau.
 
 ### DevOps ac ITIL
 

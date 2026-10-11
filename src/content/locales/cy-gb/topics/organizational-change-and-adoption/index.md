@@ -52,7 +52,7 @@ Mewn ymdrech newid, mae cymunedau ymarfer, fel un i bobl sy'n cynnal adolygiadau
 
 ### Hyfforddi
 
-Mae timau sy'n mabwysiadu ffyrdd newydd o weithio yn elwa o hyfforddwyr sy'n eu helpu i fyfyrio, arbrofi a dysgu, yn hytrach na hyfforddwyr sy'n cyflwyno dull ac yn gadael (gweler Pwnc 1.10 — Dysgu Ystwyth). Mae hyfforddi da yn lleol, yn barhaus, ac wedi'i glymu wrth waith go iawn. Mae hefyd yn derbyn bod yr arfer cywir yn dibynnu ar gyd-destun, a dyna pam mae'r Scrum Guide yn disgrifio ei fframwaith fel cynhwysydd ar gyfer technegau eraill ac nid dull cyflawn (gweler Pwnc 1.4 — Scrum).
+Mae timau sy'n mabwysiadu ffyrdd newydd o weithio yn elwa o hyfforddwyr sy'n eu helpu i fyfyrio, arbrofi a dysgu, yn hytrach na hyfforddwyr sy'n cyflwyno dull ac yn gadael (gweler Pwnc 1.10 — Dysgu Ystwyth). Mae hyfforddi da yn lleol, yn barhaus, ac wedi'i glymu wrth waith go iawn. Mae hefyd yn derbyn bod yr arfer cywir yn dibynnu ar gyd-destun, a dyna pam mae'r Scrum Guide yn disgrifio ei fframwaith fel cynhwysydd ar gyfer technegau eraill ac nid dull cyflawn (gweler Pwnc 1.4 — Rhagweld Cyflawni a Metrigau Cynllunio).
 
 ### Dechrau lle rydych chi
 

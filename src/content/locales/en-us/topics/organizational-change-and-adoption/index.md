@@ -52,7 +52,7 @@ In a change effort, communities of practice, such as one for people who run inci
 
 ### Coaching
 
-Teams adopting new ways of working benefit from coaches who help them reflect, experiment, and learn, rather than trainers who deliver a method and leave (see Topic 1.10 — Agile Learning). Good coaching is local, continuing, and tied to real work. It also accepts that the right practice depends on context, which is why the Scrum Guide describes its framework as a container for other techniques and not a complete method (see Topic 1.4 — Scrum).
+Teams adopting new ways of working benefit from coaches who help them reflect, experiment, and learn, rather than trainers who deliver a method and leave (see Topic 1.10 — Agile Learning). Good coaching is local, continuing, and tied to real work. It also accepts that the right practice depends on context, which is why the Scrum Guide describes its framework as a container for other techniques and not a complete method (see Topic 1.4 — Delivery Forecasting and Planning Metrics).
 
 ### Starting where you are
 

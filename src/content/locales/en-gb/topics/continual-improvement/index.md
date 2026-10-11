@@ -46,7 +46,7 @@ Improvement ideas come from many places in a service organisation:
 | Incidents and postmortems | A fault shows a missing alert | Topic 3.2 — Incident Management |
 | Problem investigation | Repeated outages show a design flaw | Topic 3.3 — Problem Management |
 | Service desk themes | The same question comes up weekly | Topic 3.1 — Service Desk |
-| Retrospectives | The team finds its handover slow | Topic 1.4 — Scrum |
+| Retrospectives | The team finds its handover slow | Topic 1.4 — Delivery Forecasting and Planning Metrics |
 | Flow data | A queue grows at one step | Topic 1.5 — Kanban |
 | Customer feedback | Users find a form confusing | Topic 3.6 — Service Request Management |
 | Service level reviews | A target is missed repeatedly | Topic 3.7 — Service Level Management |

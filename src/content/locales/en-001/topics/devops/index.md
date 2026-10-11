@@ -42,7 +42,7 @@ The common mnemonic **CALMS** (culture, automation, lean, measurement, sharing) 
 
 ### DevOps and agile
 
-The article says automated build and test, continuous integration, and continuous delivery originated in the agile world, and that Scrum's omission of engineering practices caused automation work to split off into DevOps. This fits Topic 1.4 — Scrum, which notes that Scrum does not say how to build, test, deploy, or operate software. Extreme Programming already contains many of the engineering practices (see Topic 1.6 — Extreme Programming). DevOps extends the agile concern past the point of release.
+The article says automated build and test, continuous integration, and continuous delivery originated in the agile world, and that Scrum's omission of engineering practices caused automation work to split off into DevOps. This fits Topic 1.4 — Delivery Forecasting and Planning Metrics, which notes that Scrum does not say how to build, test, deploy, or operate software. Extreme Programming already contains many of the engineering practices (see Topic 1.6 — Extreme Programming). DevOps extends the agile concern past the point of release.
 
 ### DevOps and ITIL
 

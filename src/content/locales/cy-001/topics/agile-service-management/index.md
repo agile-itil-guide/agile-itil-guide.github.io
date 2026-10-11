@@ -18,7 +18,7 @@ Ychydig o ymchwil ffurfiol sydd ar reoli gwasanaethau ystwyth fel y cyfryw, ac n
 
 - **Defnyddwyr:** y bobl sy'n ei dilyn a'r bobl y mae'n eu gwasanaethu.
 - **Diben:** y canlyniad y mae'n bodoli i'w gyflawni.
-- **Perchennog:** rhywun sy'n atebol am ei werth, fel y mae'r Scrum Guide yn disgrifio Perchennog y Cynnyrch fel yr un person sy'n atebol am fwyafu gwerth y cynnyrch a threfnu ei ôl-groniad (gweler Pwnc 1.4 — Scrum).
+- **Perchennog:** rhywun sy'n atebol am ei werth, fel y mae'r Scrum Guide yn disgrifio Perchennog y Cynnyrch fel yr un person sy'n atebol am fwyafu gwerth y cynnyrch a threfnu ei ôl-groniad (gweler Pwnc 1.4 — Rhagweld Cyflawni a Metrigau Cynllunio).
 - **Ôl-groniad:** rhestr drefnus o welliannau.
 - **Rhyddhadau:** newidiadau a gyflawnir mewn camau bach, gyda nodiadau.
 - **Mesurau:** tystiolaeth o a yw'n gweithio.

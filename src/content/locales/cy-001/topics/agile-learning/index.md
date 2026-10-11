@@ -16,7 +16,7 @@ Mae'r sylfaen dystiolaeth yn gymedrol. Mae'r [erthygl Wikipedia ar ddysgu ystwyt
 
 Mae'r erthygl Wikipedia yn diffinio dysgu ystwyth fel cymhwyso dulliau prosiect ystwyth, yn enwedig Scrum, at ddysgu. Mae dysgu'n mynd rhagddo mewn camau cynyddrannol trwy gylchoedd ailadroddol sy'n newid rhwng dysgu a gwneud, ac mae tiwtoriaid yn gweithredu fel cefnogwyr yn hytrach na phrif hyfforddwyr. Mae'r erthygl yn nodi ystyr gulach i'r term hefyd: dysgu sy'n canolbwyntio ar gymhwysedd, wedi'i seilio ar gyfryngau, o fewn prosesau gwaith cwmnïau. Fe'i defnyddir hefyd mewn lleoliadau e-ddysgu ac ar-lein.
 
-Mae'r dull yn addasu Scrum, y fframwaith â therfyn amser a ddisgrifir ym Mhwnc 1.4 — Scrum, at hyfforddiant. Mae'r erthygl yn dyfynnu astudiaethau fel Masullo a chydweithwyr (2005) ar e-ddysgu ystwyth ar gyfer gweithgynhyrchu, Hansen a chydweithwyr (2009) ar ddysgu a chydweithredu ystwyth, a Longmuß, Höhne a chydweithwyr (2016–2017) ar ddysgu yn y gweithle i arbenigwyr â hyfforddiant galwedigaethol.
+Mae'r dull yn addasu Scrum, y fframwaith â therfyn amser a ddisgrifir ym Mhwnc 1.4 — Rhagweld Cyflawni a Metrigau Cynllunio, at hyfforddiant. Mae'r erthygl yn dyfynnu astudiaethau fel Masullo a chydweithwyr (2005) ar e-ddysgu ystwyth ar gyfer gweithgynhyrchu, Hansen a chydweithwyr (2009) ar ddysgu a chydweithredu ystwyth, a Longmuß, Höhne a chydweithwyr (2016–2017) ar ddysgu yn y gweithle i arbenigwyr â hyfforddiant galwedigaethol.
 
 ### Syniadau allweddol
 

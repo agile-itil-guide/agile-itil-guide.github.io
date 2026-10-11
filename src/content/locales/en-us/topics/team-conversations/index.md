@@ -8,7 +8,7 @@ This guide is full of practices, but practices do not change anything by themsel
 
 The difference is rarely talent. It is usually structure: a clear purpose, a way to hear from everyone, a question worth asking, and a decision at the end. This topic describes a small set of formats that provide this structure, and then collects questions from across the guide so that a facilitator can find a good one quickly. It is designed as a source of ideas to talk about with teams, which was one of the aims of the whole guide.
 
-The sources for the formats are modest. The [Wikipedia article on facilitators](https://en.wikipedia.org/wiki/Facilitator) describes the role in general terms; the Lean Coffee website describes one format in detail; and the Scrum Guide describes the Sprint Retrospective (see Topic 1.4 — Scrum). The Wikipedia article on retrospectives treats agile retrospectives only briefly. Much of the rest of this topic is practical advice drawn from the skills in this guide and from common facilitation practice, which the text flags as such.
+The sources for the formats are modest. The [Wikipedia article on facilitators](https://en.wikipedia.org/wiki/Facilitator) describes the role in general terms; the Lean Coffee website describes one format in detail; and the Scrum Guide describes the Sprint Retrospective (see Topic 1.4 — Delivery Forecasting and Planning Metrics). The Wikipedia article on retrospectives treats agile retrospectives only briefly. Much of the rest of this topic is practical advice drawn from the skills in this guide and from common facilitation practice, which the text flags as such.
 
 ## Core concepts
 
@@ -88,7 +88,7 @@ The questions below come from across the guide. Each is a good way to open a tea
 #### To improve how we work
 
 - What is the oldest item on our board, and why is it still there? (Topic 1.5 — Kanban)
-- What did our last retrospective change, and how do we know it worked? (Topic 1.4 — Scrum)
+- What did our last retrospective change, and how do we know it worked? (Topic 1.4 — Delivery Forecasting and Planning Metrics)
 - What got better in the last quarter because of something we decided to change? (Topic 3.15 — Continual Improvement)
 - What are we doing that we could stop doing without harming a customer? (Topic 1.2 — Agile Principles)
 

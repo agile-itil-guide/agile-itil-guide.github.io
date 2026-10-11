@@ -8,6 +8,7 @@
     "en-001",
     "en-gb",
     "en-us",
+    "hi-001",
     "hi-in",
     "zh-001",
     "zh-cn"
@@ -29,6 +30,7 @@
             "en-001": "locales/en-001/topics/agile-manifesto/index.md",
             "en-gb": "locales/en-gb/topics/agile-manifesto/index.md",
             "en-us": "locales/en-us/topics/agile-manifesto/index.md",
+            "hi-001": "locales/hi-001/topics/agile-manifesto/index.md",
             "hi-in": "locales/hi-in/topics/agile-manifesto/index.md",
             "zh-001": "locales/zh-001/topics/agile-manifesto/index.md",
             "zh-cn": "locales/zh-cn/topics/agile-manifesto/index.md"
@@ -45,6 +47,7 @@
             "en-001": "locales/en-001/topics/agile-principles/index.md",
             "en-gb": "locales/en-gb/topics/agile-principles/index.md",
             "en-us": "locales/en-us/topics/agile-principles/index.md",
+            "hi-001": "locales/hi-001/topics/agile-principles/index.md",
             "hi-in": "locales/hi-in/topics/agile-principles/index.md",
             "zh-001": "locales/zh-001/topics/agile-principles/index.md",
             "zh-cn": "locales/zh-cn/topics/agile-principles/index.md"
@@ -61,6 +64,7 @@
             "en-001": "locales/en-001/topics/agile-software-development/index.md",
             "en-gb": "locales/en-gb/topics/agile-software-development/index.md",
             "en-us": "locales/en-us/topics/agile-software-development/index.md",
+            "hi-001": "locales/hi-001/topics/agile-software-development/index.md",
             "hi-in": "locales/hi-in/topics/agile-software-development/index.md",
             "zh-001": "locales/zh-001/topics/agile-software-development/index.md",
             "zh-cn": "locales/zh-cn/topics/agile-software-development/index.md"
@@ -68,18 +72,19 @@
         },
         {
           "number": "1.4",
-          "title": "Scrum",
-          "slug": "scrum",
-          "path": "locales/en-001/topics/scrum/index.md",
+          "title": "Delivery Forecasting and Planning Metrics",
+          "slug": "delivery-forecasting-and-planning-metrics",
+          "path": "locales/en-001/topics/delivery-forecasting-and-planning-metrics/index.md",
           "locales": {
-            "cy-001": "locales/cy-001/topics/scrum/index.md",
-            "cy-gb": "locales/cy-gb/topics/scrum/index.md",
-            "en-001": "locales/en-001/topics/scrum/index.md",
-            "en-gb": "locales/en-gb/topics/scrum/index.md",
-            "en-us": "locales/en-us/topics/scrum/index.md",
-            "hi-in": "locales/hi-in/topics/scrum/index.md",
-            "zh-001": "locales/zh-001/topics/scrum/index.md",
-            "zh-cn": "locales/zh-cn/topics/scrum/index.md"
+            "cy-001": "locales/cy-001/topics/delivery-forecasting-and-planning-metrics/index.md",
+            "cy-gb": "locales/cy-gb/topics/delivery-forecasting-and-planning-metrics/index.md",
+            "en-001": "locales/en-001/topics/delivery-forecasting-and-planning-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/delivery-forecasting-and-planning-metrics/index.md",
+            "en-us": "locales/en-us/topics/delivery-forecasting-and-planning-metrics/index.md",
+            "hi-001": "locales/hi-001/topics/delivery-forecasting-and-planning-metrics/index.md",
+            "hi-in": "locales/hi-in/topics/delivery-forecasting-and-planning-metrics/index.md",
+            "zh-001": "locales/zh-001/topics/delivery-forecasting-and-planning-metrics/index.md",
+            "zh-cn": "locales/zh-cn/topics/delivery-forecasting-and-planning-metrics/index.md"
           }
         },
         {
@@ -93,6 +98,7 @@
             "en-001": "locales/en-001/topics/kanban/index.md",
             "en-gb": "locales/en-gb/topics/kanban/index.md",
             "en-us": "locales/en-us/topics/kanban/index.md",
+            "hi-001": "locales/hi-001/topics/kanban/index.md",
             "hi-in": "locales/hi-in/topics/kanban/index.md",
             "zh-001": "locales/zh-001/topics/kanban/index.md",
             "zh-cn": "locales/zh-cn/topics/kanban/index.md"
@@ -109,6 +115,7 @@
             "en-001": "locales/en-001/topics/extreme-programming/index.md",
             "en-gb": "locales/en-gb/topics/extreme-programming/index.md",
             "en-us": "locales/en-us/topics/extreme-programming/index.md",
+            "hi-001": "locales/hi-001/topics/extreme-programming/index.md",
             "hi-in": "locales/hi-in/topics/extreme-programming/index.md",
             "zh-001": "locales/zh-001/topics/extreme-programming/index.md",
             "zh-cn": "locales/zh-cn/topics/extreme-programming/index.md"
@@ -125,6 +132,7 @@
             "en-001": "locales/en-001/topics/lean-software-development/index.md",
             "en-gb": "locales/en-gb/topics/lean-software-development/index.md",
             "en-us": "locales/en-us/topics/lean-software-development/index.md",
+            "hi-001": "locales/hi-001/topics/lean-software-development/index.md",
             "hi-in": "locales/hi-in/topics/lean-software-development/index.md",
             "zh-001": "locales/zh-001/topics/lean-software-development/index.md",
             "zh-cn": "locales/zh-cn/topics/lean-software-development/index.md"
@@ -141,6 +149,7 @@
             "en-001": "locales/en-001/topics/scaling-agile/index.md",
             "en-gb": "locales/en-gb/topics/scaling-agile/index.md",
             "en-us": "locales/en-us/topics/scaling-agile/index.md",
+            "hi-001": "locales/hi-001/topics/scaling-agile/index.md",
             "hi-in": "locales/hi-in/topics/scaling-agile/index.md",
             "zh-001": "locales/zh-001/topics/scaling-agile/index.md",
             "zh-cn": "locales/zh-cn/topics/scaling-agile/index.md"
@@ -157,6 +166,7 @@
             "en-001": "locales/en-001/topics/agile-management/index.md",
             "en-gb": "locales/en-gb/topics/agile-management/index.md",
             "en-us": "locales/en-us/topics/agile-management/index.md",
+            "hi-001": "locales/hi-001/topics/agile-management/index.md",
             "hi-in": "locales/hi-in/topics/agile-management/index.md",
             "zh-001": "locales/zh-001/topics/agile-management/index.md",
             "zh-cn": "locales/zh-cn/topics/agile-management/index.md"
@@ -173,6 +183,7 @@
             "en-001": "locales/en-001/topics/agile-learning/index.md",
             "en-gb": "locales/en-gb/topics/agile-learning/index.md",
             "en-us": "locales/en-us/topics/agile-learning/index.md",
+            "hi-001": "locales/hi-001/topics/agile-learning/index.md",
             "hi-in": "locales/hi-in/topics/agile-learning/index.md",
             "zh-001": "locales/zh-001/topics/agile-learning/index.md",
             "zh-cn": "locales/zh-cn/topics/agile-learning/index.md"
@@ -194,6 +205,7 @@
             "en-001": "locales/en-001/topics/it-service-management/index.md",
             "en-gb": "locales/en-gb/topics/it-service-management/index.md",
             "en-us": "locales/en-us/topics/it-service-management/index.md",
+            "hi-001": "locales/hi-001/topics/it-service-management/index.md",
             "hi-in": "locales/hi-in/topics/it-service-management/index.md",
             "zh-001": "locales/zh-001/topics/it-service-management/index.md",
             "zh-cn": "locales/zh-cn/topics/it-service-management/index.md"
@@ -210,6 +222,7 @@
             "en-001": "locales/en-001/topics/itil/index.md",
             "en-gb": "locales/en-gb/topics/itil/index.md",
             "en-us": "locales/en-us/topics/itil/index.md",
+            "hi-001": "locales/hi-001/topics/itil/index.md",
             "hi-in": "locales/hi-in/topics/itil/index.md",
             "zh-001": "locales/zh-001/topics/itil/index.md",
             "zh-cn": "locales/zh-cn/topics/itil/index.md"
@@ -226,6 +239,7 @@
             "en-001": "locales/en-001/topics/service-value-system/index.md",
             "en-gb": "locales/en-gb/topics/service-value-system/index.md",
             "en-us": "locales/en-us/topics/service-value-system/index.md",
+            "hi-001": "locales/hi-001/topics/service-value-system/index.md",
             "hi-in": "locales/hi-in/topics/service-value-system/index.md",
             "zh-001": "locales/zh-001/topics/service-value-system/index.md",
             "zh-cn": "locales/zh-cn/topics/service-value-system/index.md"
@@ -242,6 +256,7 @@
             "en-001": "locales/en-001/topics/itil-guiding-principles/index.md",
             "en-gb": "locales/en-gb/topics/itil-guiding-principles/index.md",
             "en-us": "locales/en-us/topics/itil-guiding-principles/index.md",
+            "hi-001": "locales/hi-001/topics/itil-guiding-principles/index.md",
             "hi-in": "locales/hi-in/topics/itil-guiding-principles/index.md",
             "zh-001": "locales/zh-001/topics/itil-guiding-principles/index.md",
             "zh-cn": "locales/zh-cn/topics/itil-guiding-principles/index.md"
@@ -258,6 +273,7 @@
             "en-001": "locales/en-001/topics/four-dimensions-of-service-management/index.md",
             "en-gb": "locales/en-gb/topics/four-dimensions-of-service-management/index.md",
             "en-us": "locales/en-us/topics/four-dimensions-of-service-management/index.md",
+            "hi-001": "locales/hi-001/topics/four-dimensions-of-service-management/index.md",
             "hi-in": "locales/hi-in/topics/four-dimensions-of-service-management/index.md",
             "zh-001": "locales/zh-001/topics/four-dimensions-of-service-management/index.md",
             "zh-cn": "locales/zh-cn/topics/four-dimensions-of-service-management/index.md"
@@ -274,6 +290,7 @@
             "en-001": "locales/en-001/topics/service-value-chain/index.md",
             "en-gb": "locales/en-gb/topics/service-value-chain/index.md",
             "en-us": "locales/en-us/topics/service-value-chain/index.md",
+            "hi-001": "locales/hi-001/topics/service-value-chain/index.md",
             "hi-in": "locales/hi-in/topics/service-value-chain/index.md",
             "zh-001": "locales/zh-001/topics/service-value-chain/index.md",
             "zh-cn": "locales/zh-cn/topics/service-value-chain/index.md"
@@ -290,6 +307,7 @@
             "en-001": "locales/en-001/topics/itsm-frameworks-and-standards/index.md",
             "en-gb": "locales/en-gb/topics/itsm-frameworks-and-standards/index.md",
             "en-us": "locales/en-us/topics/itsm-frameworks-and-standards/index.md",
+            "hi-001": "locales/hi-001/topics/itsm-frameworks-and-standards/index.md",
             "hi-in": "locales/hi-in/topics/itsm-frameworks-and-standards/index.md",
             "zh-001": "locales/zh-001/topics/itsm-frameworks-and-standards/index.md",
             "zh-cn": "locales/zh-cn/topics/itsm-frameworks-and-standards/index.md"
@@ -311,6 +329,7 @@
             "en-001": "locales/en-001/topics/service-desk/index.md",
             "en-gb": "locales/en-gb/topics/service-desk/index.md",
             "en-us": "locales/en-us/topics/service-desk/index.md",
+            "hi-001": "locales/hi-001/topics/service-desk/index.md",
             "hi-in": "locales/hi-in/topics/service-desk/index.md",
             "zh-001": "locales/zh-001/topics/service-desk/index.md",
             "zh-cn": "locales/zh-cn/topics/service-desk/index.md"
@@ -327,6 +346,7 @@
             "en-001": "locales/en-001/topics/incident-management/index.md",
             "en-gb": "locales/en-gb/topics/incident-management/index.md",
             "en-us": "locales/en-us/topics/incident-management/index.md",
+            "hi-001": "locales/hi-001/topics/incident-management/index.md",
             "hi-in": "locales/hi-in/topics/incident-management/index.md",
             "zh-001": "locales/zh-001/topics/incident-management/index.md",
             "zh-cn": "locales/zh-cn/topics/incident-management/index.md"
@@ -343,6 +363,7 @@
             "en-001": "locales/en-001/topics/problem-management/index.md",
             "en-gb": "locales/en-gb/topics/problem-management/index.md",
             "en-us": "locales/en-us/topics/problem-management/index.md",
+            "hi-001": "locales/hi-001/topics/problem-management/index.md",
             "hi-in": "locales/hi-in/topics/problem-management/index.md",
             "zh-001": "locales/zh-001/topics/problem-management/index.md",
             "zh-cn": "locales/zh-cn/topics/problem-management/index.md"
@@ -359,6 +380,7 @@
             "en-001": "locales/en-001/topics/change-enablement/index.md",
             "en-gb": "locales/en-gb/topics/change-enablement/index.md",
             "en-us": "locales/en-us/topics/change-enablement/index.md",
+            "hi-001": "locales/hi-001/topics/change-enablement/index.md",
             "hi-in": "locales/hi-in/topics/change-enablement/index.md",
             "zh-001": "locales/zh-001/topics/change-enablement/index.md",
             "zh-cn": "locales/zh-cn/topics/change-enablement/index.md"
@@ -375,6 +397,7 @@
             "en-001": "locales/en-001/topics/release-and-deployment-management/index.md",
             "en-gb": "locales/en-gb/topics/release-and-deployment-management/index.md",
             "en-us": "locales/en-us/topics/release-and-deployment-management/index.md",
+            "hi-001": "locales/hi-001/topics/release-and-deployment-management/index.md",
             "hi-in": "locales/hi-in/topics/release-and-deployment-management/index.md",
             "zh-001": "locales/zh-001/topics/release-and-deployment-management/index.md",
             "zh-cn": "locales/zh-cn/topics/release-and-deployment-management/index.md"
@@ -391,6 +414,7 @@
             "en-001": "locales/en-001/topics/service-request-management/index.md",
             "en-gb": "locales/en-gb/topics/service-request-management/index.md",
             "en-us": "locales/en-us/topics/service-request-management/index.md",
+            "hi-001": "locales/hi-001/topics/service-request-management/index.md",
             "hi-in": "locales/hi-in/topics/service-request-management/index.md",
             "zh-001": "locales/zh-001/topics/service-request-management/index.md",
             "zh-cn": "locales/zh-cn/topics/service-request-management/index.md"
@@ -407,6 +431,7 @@
             "en-001": "locales/en-001/topics/service-level-management/index.md",
             "en-gb": "locales/en-gb/topics/service-level-management/index.md",
             "en-us": "locales/en-us/topics/service-level-management/index.md",
+            "hi-001": "locales/hi-001/topics/service-level-management/index.md",
             "hi-in": "locales/hi-in/topics/service-level-management/index.md",
             "zh-001": "locales/zh-001/topics/service-level-management/index.md",
             "zh-cn": "locales/zh-cn/topics/service-level-management/index.md"
@@ -423,6 +448,7 @@
             "en-001": "locales/en-001/topics/service-catalog-management/index.md",
             "en-gb": "locales/en-gb/topics/service-catalog-management/index.md",
             "en-us": "locales/en-us/topics/service-catalog-management/index.md",
+            "hi-001": "locales/hi-001/topics/service-catalog-management/index.md",
             "hi-in": "locales/hi-in/topics/service-catalog-management/index.md",
             "zh-001": "locales/zh-001/topics/service-catalog-management/index.md",
             "zh-cn": "locales/zh-cn/topics/service-catalog-management/index.md"
@@ -439,6 +465,7 @@
             "en-001": "locales/en-001/topics/knowledge-management/index.md",
             "en-gb": "locales/en-gb/topics/knowledge-management/index.md",
             "en-us": "locales/en-us/topics/knowledge-management/index.md",
+            "hi-001": "locales/hi-001/topics/knowledge-management/index.md",
             "hi-in": "locales/hi-in/topics/knowledge-management/index.md",
             "zh-001": "locales/zh-001/topics/knowledge-management/index.md",
             "zh-cn": "locales/zh-cn/topics/knowledge-management/index.md"
@@ -455,6 +482,7 @@
             "en-001": "locales/en-001/topics/monitoring-and-event-management/index.md",
             "en-gb": "locales/en-gb/topics/monitoring-and-event-management/index.md",
             "en-us": "locales/en-us/topics/monitoring-and-event-management/index.md",
+            "hi-001": "locales/hi-001/topics/monitoring-and-event-management/index.md",
             "hi-in": "locales/hi-in/topics/monitoring-and-event-management/index.md",
             "zh-001": "locales/zh-001/topics/monitoring-and-event-management/index.md",
             "zh-cn": "locales/zh-cn/topics/monitoring-and-event-management/index.md"
@@ -471,6 +499,7 @@
             "en-001": "locales/en-001/topics/availability-capacity-and-performance/index.md",
             "en-gb": "locales/en-gb/topics/availability-capacity-and-performance/index.md",
             "en-us": "locales/en-us/topics/availability-capacity-and-performance/index.md",
+            "hi-001": "locales/hi-001/topics/availability-capacity-and-performance/index.md",
             "hi-in": "locales/hi-in/topics/availability-capacity-and-performance/index.md",
             "zh-001": "locales/zh-001/topics/availability-capacity-and-performance/index.md",
             "zh-cn": "locales/zh-cn/topics/availability-capacity-and-performance/index.md"
@@ -487,6 +516,7 @@
             "en-001": "locales/en-001/topics/service-continuity-management/index.md",
             "en-gb": "locales/en-gb/topics/service-continuity-management/index.md",
             "en-us": "locales/en-us/topics/service-continuity-management/index.md",
+            "hi-001": "locales/hi-001/topics/service-continuity-management/index.md",
             "hi-in": "locales/hi-in/topics/service-continuity-management/index.md",
             "zh-001": "locales/zh-001/topics/service-continuity-management/index.md",
             "zh-cn": "locales/zh-cn/topics/service-continuity-management/index.md"
@@ -503,6 +533,7 @@
             "en-001": "locales/en-001/topics/information-security-management/index.md",
             "en-gb": "locales/en-gb/topics/information-security-management/index.md",
             "en-us": "locales/en-us/topics/information-security-management/index.md",
+            "hi-001": "locales/hi-001/topics/information-security-management/index.md",
             "hi-in": "locales/hi-in/topics/information-security-management/index.md",
             "zh-001": "locales/zh-001/topics/information-security-management/index.md",
             "zh-cn": "locales/zh-cn/topics/information-security-management/index.md"
@@ -519,6 +550,7 @@
             "en-001": "locales/en-001/topics/supplier-management/index.md",
             "en-gb": "locales/en-gb/topics/supplier-management/index.md",
             "en-us": "locales/en-us/topics/supplier-management/index.md",
+            "hi-001": "locales/hi-001/topics/supplier-management/index.md",
             "hi-in": "locales/hi-in/topics/supplier-management/index.md",
             "zh-001": "locales/zh-001/topics/supplier-management/index.md",
             "zh-cn": "locales/zh-cn/topics/supplier-management/index.md"
@@ -535,6 +567,7 @@
             "en-001": "locales/en-001/topics/continual-improvement/index.md",
             "en-gb": "locales/en-gb/topics/continual-improvement/index.md",
             "en-us": "locales/en-us/topics/continual-improvement/index.md",
+            "hi-001": "locales/hi-001/topics/continual-improvement/index.md",
             "hi-in": "locales/hi-in/topics/continual-improvement/index.md",
             "zh-001": "locales/zh-001/topics/continual-improvement/index.md",
             "zh-cn": "locales/zh-cn/topics/continual-improvement/index.md"
@@ -556,6 +589,7 @@
             "en-001": "locales/en-001/topics/it-asset-management/index.md",
             "en-gb": "locales/en-gb/topics/it-asset-management/index.md",
             "en-us": "locales/en-us/topics/it-asset-management/index.md",
+            "hi-001": "locales/hi-001/topics/it-asset-management/index.md",
             "hi-in": "locales/hi-in/topics/it-asset-management/index.md",
             "zh-001": "locales/zh-001/topics/it-asset-management/index.md",
             "zh-cn": "locales/zh-cn/topics/it-asset-management/index.md"
@@ -572,6 +606,7 @@
             "en-001": "locales/en-001/topics/software-asset-management/index.md",
             "en-gb": "locales/en-gb/topics/software-asset-management/index.md",
             "en-us": "locales/en-us/topics/software-asset-management/index.md",
+            "hi-001": "locales/hi-001/topics/software-asset-management/index.md",
             "hi-in": "locales/hi-in/topics/software-asset-management/index.md",
             "zh-001": "locales/zh-001/topics/software-asset-management/index.md",
             "zh-cn": "locales/zh-cn/topics/software-asset-management/index.md"
@@ -588,6 +623,7 @@
             "en-001": "locales/en-001/topics/hardware-asset-management/index.md",
             "en-gb": "locales/en-gb/topics/hardware-asset-management/index.md",
             "en-us": "locales/en-us/topics/hardware-asset-management/index.md",
+            "hi-001": "locales/hi-001/topics/hardware-asset-management/index.md",
             "hi-in": "locales/hi-in/topics/hardware-asset-management/index.md",
             "zh-001": "locales/zh-001/topics/hardware-asset-management/index.md",
             "zh-cn": "locales/zh-cn/topics/hardware-asset-management/index.md"
@@ -604,6 +640,7 @@
             "en-001": "locales/en-001/topics/configuration-management/index.md",
             "en-gb": "locales/en-gb/topics/configuration-management/index.md",
             "en-us": "locales/en-us/topics/configuration-management/index.md",
+            "hi-001": "locales/hi-001/topics/configuration-management/index.md",
             "hi-in": "locales/hi-in/topics/configuration-management/index.md",
             "zh-001": "locales/zh-001/topics/configuration-management/index.md",
             "zh-cn": "locales/zh-cn/topics/configuration-management/index.md"
@@ -620,6 +657,7 @@
             "en-001": "locales/en-001/topics/it-financial-management-and-finops/index.md",
             "en-gb": "locales/en-gb/topics/it-financial-management-and-finops/index.md",
             "en-us": "locales/en-us/topics/it-financial-management-and-finops/index.md",
+            "hi-001": "locales/hi-001/topics/it-financial-management-and-finops/index.md",
             "hi-in": "locales/hi-in/topics/it-financial-management-and-finops/index.md",
             "zh-001": "locales/zh-001/topics/it-financial-management-and-finops/index.md",
             "zh-cn": "locales/zh-cn/topics/it-financial-management-and-finops/index.md"
@@ -641,6 +679,7 @@
             "en-001": "locales/en-001/topics/agile-service-management/index.md",
             "en-gb": "locales/en-gb/topics/agile-service-management/index.md",
             "en-us": "locales/en-us/topics/agile-service-management/index.md",
+            "hi-001": "locales/hi-001/topics/agile-service-management/index.md",
             "hi-in": "locales/hi-in/topics/agile-service-management/index.md",
             "zh-001": "locales/zh-001/topics/agile-service-management/index.md",
             "zh-cn": "locales/zh-cn/topics/agile-service-management/index.md"
@@ -657,6 +696,7 @@
             "en-001": "locales/en-001/topics/devops/index.md",
             "en-gb": "locales/en-gb/topics/devops/index.md",
             "en-us": "locales/en-us/topics/devops/index.md",
+            "hi-001": "locales/hi-001/topics/devops/index.md",
             "hi-in": "locales/hi-in/topics/devops/index.md",
             "zh-001": "locales/zh-001/topics/devops/index.md",
             "zh-cn": "locales/zh-cn/topics/devops/index.md"
@@ -673,6 +713,7 @@
             "en-001": "locales/en-001/topics/site-reliability-engineering/index.md",
             "en-gb": "locales/en-gb/topics/site-reliability-engineering/index.md",
             "en-us": "locales/en-us/topics/site-reliability-engineering/index.md",
+            "hi-001": "locales/hi-001/topics/site-reliability-engineering/index.md",
             "hi-in": "locales/hi-in/topics/site-reliability-engineering/index.md",
             "zh-001": "locales/zh-001/topics/site-reliability-engineering/index.md",
             "zh-cn": "locales/zh-cn/topics/site-reliability-engineering/index.md"
@@ -689,6 +730,7 @@
             "en-001": "locales/en-001/topics/value-stream-management/index.md",
             "en-gb": "locales/en-gb/topics/value-stream-management/index.md",
             "en-us": "locales/en-us/topics/value-stream-management/index.md",
+            "hi-001": "locales/hi-001/topics/value-stream-management/index.md",
             "hi-in": "locales/hi-in/topics/value-stream-management/index.md",
             "zh-001": "locales/zh-001/topics/value-stream-management/index.md",
             "zh-cn": "locales/zh-cn/topics/value-stream-management/index.md"
@@ -705,6 +747,7 @@
             "en-001": "locales/en-001/topics/product-and-service-ownership/index.md",
             "en-gb": "locales/en-gb/topics/product-and-service-ownership/index.md",
             "en-us": "locales/en-us/topics/product-and-service-ownership/index.md",
+            "hi-001": "locales/hi-001/topics/product-and-service-ownership/index.md",
             "hi-in": "locales/hi-in/topics/product-and-service-ownership/index.md",
             "zh-001": "locales/zh-001/topics/product-and-service-ownership/index.md",
             "zh-cn": "locales/zh-cn/topics/product-and-service-ownership/index.md"
@@ -721,6 +764,7 @@
             "en-001": "locales/en-001/topics/metrics-and-measurement/index.md",
             "en-gb": "locales/en-gb/topics/metrics-and-measurement/index.md",
             "en-us": "locales/en-us/topics/metrics-and-measurement/index.md",
+            "hi-001": "locales/hi-001/topics/metrics-and-measurement/index.md",
             "hi-in": "locales/hi-in/topics/metrics-and-measurement/index.md",
             "zh-001": "locales/zh-001/topics/metrics-and-measurement/index.md",
             "zh-cn": "locales/zh-cn/topics/metrics-and-measurement/index.md"
@@ -737,6 +781,7 @@
             "en-001": "locales/en-001/topics/governance-risk-and-compliance/index.md",
             "en-gb": "locales/en-gb/topics/governance-risk-and-compliance/index.md",
             "en-us": "locales/en-us/topics/governance-risk-and-compliance/index.md",
+            "hi-001": "locales/hi-001/topics/governance-risk-and-compliance/index.md",
             "hi-in": "locales/hi-in/topics/governance-risk-and-compliance/index.md",
             "zh-001": "locales/zh-001/topics/governance-risk-and-compliance/index.md",
             "zh-cn": "locales/zh-cn/topics/governance-risk-and-compliance/index.md"
@@ -753,6 +798,7 @@
             "en-001": "locales/en-001/topics/organizational-change-and-adoption/index.md",
             "en-gb": "locales/en-gb/topics/organizational-change-and-adoption/index.md",
             "en-us": "locales/en-us/topics/organizational-change-and-adoption/index.md",
+            "hi-001": "locales/hi-001/topics/organizational-change-and-adoption/index.md",
             "hi-in": "locales/hi-in/topics/organizational-change-and-adoption/index.md",
             "zh-001": "locales/zh-001/topics/organizational-change-and-adoption/index.md",
             "zh-cn": "locales/zh-cn/topics/organizational-change-and-adoption/index.md"
@@ -774,6 +820,7 @@
             "en-001": "locales/en-001/topics/team-conversations/index.md",
             "en-gb": "locales/en-gb/topics/team-conversations/index.md",
             "en-us": "locales/en-us/topics/team-conversations/index.md",
+            "hi-001": "locales/hi-001/topics/team-conversations/index.md",
             "hi-in": "locales/hi-in/topics/team-conversations/index.md",
             "zh-001": "locales/zh-001/topics/team-conversations/index.md",
             "zh-cn": "locales/zh-cn/topics/team-conversations/index.md"
@@ -790,6 +837,7 @@
             "en-001": "locales/en-001/topics/ai-in-it-service-management/index.md",
             "en-gb": "locales/en-gb/topics/ai-in-it-service-management/index.md",
             "en-us": "locales/en-us/topics/ai-in-it-service-management/index.md",
+            "hi-001": "locales/hi-001/topics/ai-in-it-service-management/index.md",
             "hi-in": "locales/hi-in/topics/ai-in-it-service-management/index.md",
             "zh-001": "locales/zh-001/topics/ai-in-it-service-management/index.md",
             "zh-cn": "locales/zh-cn/topics/ai-in-it-service-management/index.md"
@@ -806,6 +854,7 @@
             "en-001": "locales/en-001/topics/ai-skills-and-prompts/index.md",
             "en-gb": "locales/en-gb/topics/ai-skills-and-prompts/index.md",
             "en-us": "locales/en-us/topics/ai-skills-and-prompts/index.md",
+            "hi-001": "locales/hi-001/topics/ai-skills-and-prompts/index.md",
             "hi-in": "locales/hi-in/topics/ai-skills-and-prompts/index.md",
             "zh-001": "locales/zh-001/topics/ai-skills-and-prompts/index.md",
             "zh-cn": "locales/zh-cn/topics/ai-skills-and-prompts/index.md"
@@ -822,6 +871,7 @@
             "en-001": "locales/en-001/topics/learning-paths-and-certification/index.md",
             "en-gb": "locales/en-gb/topics/learning-paths-and-certification/index.md",
             "en-us": "locales/en-us/topics/learning-paths-and-certification/index.md",
+            "hi-001": "locales/hi-001/topics/learning-paths-and-certification/index.md",
             "hi-in": "locales/hi-in/topics/learning-paths-and-certification/index.md",
             "zh-001": "locales/zh-001/topics/learning-paths-and-certification/index.md",
             "zh-cn": "locales/zh-cn/topics/learning-paths-and-certification/index.md"

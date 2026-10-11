@@ -36,12 +36,12 @@ Mae'r erthygl yn rhestru llawer o ddulliau. Y rhai y byddwch yn debygol o'u cyfa
 
 | Dull | Prif bwyslais | Wedi'i drafod ym |
 |---|---|---|
-| Scrum | Rolau diffiniedig, digwyddiadau rheolaidd a rhythm sefydlog | Pwnc 1.4 — Scrum |
+| Scrum | Rolau diffiniedig, digwyddiadau rheolaidd a rhythm sefydlog | Pwnc 1.4 — Rhagweld Cyflawni a Metrigau Cynllunio |
 | Kanban | Gwneud gwaith yn weladwy a chyfyngu faint sydd ar y gweill | Pwnc 1.5 — Kanban |
 | Rhaglennu Eithafol (XP) | Arferion peirianneg fel rhaglennu mewn parau a datblygu a yrrir gan brofion | Pwnc 1.6 — Rhaglennu Eithafol |
 | Datblygu meddalwedd main | Cymhwyso syniadau main, fel dileu gwastraff, at feddalwedd | Pwnc 1.7 — Datblygu Meddalwedd Main |
 | Datblygu a yrrir gan nodweddion, DSDM, Crystal, a datblygu meddalwedd addasol | Dulliau ysgafn eraill o gyflawni meddalwedd yn barhaus â'u rolau a'u harferion eu hunain | Y pwnc hwn |
-| Scrumban | Cymysgedd o ddigwyddiadau Scrum a llif Kanban | Pwnc 1.4 — Scrum a Phwnc 1.5 — Kanban |
+| Scrumban | Cymysgedd o ddigwyddiadau Scrum a llif Kanban | Pwnc 1.4 — Rhagweld Cyflawni a Metrigau Cynllunio a Phwnc 1.5 — Kanban |
 
 Nid oes "y" dull ystwyth. Mae'r erthygl yn dyfynnu barn Ken Schwaber bod timau'n mynd i drafferth wrth hela am fethodoleg berffaith pan fo angen i'r fenter ei hun newid, ac awgrym Bas Vodde bod Scrum yn cyflenwi hanfodion y mae timau'n eu hymestyn yn lleol.
 

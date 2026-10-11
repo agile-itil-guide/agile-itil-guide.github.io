@@ -16,7 +16,7 @@ The evidence base is modest. The [Wikipedia article on agile learning](https://e
 
 The Wikipedia article defines agile learning as the application of agile project methods, especially Scrum, to learning. Learning proceeds in incremental steps through iterative cycles that alternate between learning and doing, and tutors act as supporters rather than primary instructors. The article notes a narrower sense of the term as well: competence-oriented, media-based learning inside companies' work processes. It is also used in e-learning and online settings.
 
-The method adapts Scrum, the time-boxed framework described in Topic 1.4 — Scrum, to training. The article cites studies such as Masullo and colleagues (2005) on agile e-learning for manufacturing, Hansen and colleagues (2009) on agile learning and cooperation, and Longmuß, Höhne, and colleagues (2016–2017) on workplace learning for vocationally trained experts.
+The method adapts Scrum, the time-boxed framework described in Topic 1.4 — Delivery Forecasting and Planning Metrics, to training. The article cites studies such as Masullo and colleagues (2005) on agile e-learning for manufacturing, Hansen and colleagues (2009) on agile learning and cooperation, and Longmuß, Höhne, and colleagues (2016–2017) on workplace learning for vocationally trained experts.
 
 ### Key ideas
 

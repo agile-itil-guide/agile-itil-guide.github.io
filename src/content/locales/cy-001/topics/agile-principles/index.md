@@ -48,7 +48,7 @@ Mae'r egwyddorion yn disgyn i bedwar grŵp sy'n ddefnyddiol pan fyddwch yn cynll
 
 ### Nid yr un peth yw egwyddorion ac arferion
 
-Mae egwyddor yn datgan cyfeiriad. Un ffordd o'i ddilyn yw arfer. Mae Scrum, Kanban a Rhaglennu Eithafol yn gasgliadau o arferion y dywed eu defnyddwyr eu bod yn dilyn yr egwyddorion (gweler Pwnc 1.4 — Scrum, Pwnc 1.5 — Kanban a Phwnc 1.6 — Rhaglennu Eithafol). Gall tîm ddilyn arfer a thorri'r egwyddor y tu ôl iddo. Mae cyfarfod sefyll dyddiol sy'n troi'n adroddiad statws i reolwr yn cadw'r ddefod ac yn colli pwynt egwyddorion 4 a 5.
+Mae egwyddor yn datgan cyfeiriad. Un ffordd o'i ddilyn yw arfer. Mae Scrum, Kanban a Rhaglennu Eithafol yn gasgliadau o arferion y dywed eu defnyddwyr eu bod yn dilyn yr egwyddorion (gweler Pwnc 1.4 — Rhagweld Cyflawni a Metrigau Cynllunio, Pwnc 1.5 — Kanban a Phwnc 1.6 — Rhaglennu Eithafol). Gall tîm ddilyn arfer a thorri'r egwyddor y tu ôl iddo. Mae cyfarfod sefyll dyddiol sy'n troi'n adroddiad statws i reolwr yn cadw'r ddefod ac yn colli pwynt egwyddorion 4 a 5.
 
 ### Lle mae'r egwyddorion yn dawel neu'n ddadleuol
 

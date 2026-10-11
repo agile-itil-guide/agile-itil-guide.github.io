@@ -18,7 +18,7 @@ A **process**, in this sense, is any repeatable way of working that a service or
 
 - **Users:** the people who follow it and the people it serves.
 - **A purpose:** the outcome it exists to achieve.
-- **An owner:** someone accountable for its value, as the Scrum Guide describes the Product Owner as the one person accountable for maximising the value of the product and ordering its backlog (see Topic 1.4 — Scrum).
+- **An owner:** someone accountable for its value, as the Scrum Guide describes the Product Owner as the one person accountable for maximising the value of the product and ordering its backlog (see Topic 1.4 — Delivery Forecasting and Planning Metrics).
 - **A backlog:** an ordered list of improvements.
 - **Releases:** changes delivered in small steps, with notes.
 - **Measures:** evidence of whether it works.

@@ -72,13 +72,13 @@ Wikipedia 链接指向英文维基百科。本术语表有待精通中文的读�
 
 ## D
 
-**每日站会（Daily Scrum）** — 每天 15 分钟的活动，开发人员检视朝向冲刺目标的进展并计划次日工作。*[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — 参见 主题 1.4 — Scrum。
+**每日站会（Daily Scrum）** — 每天 15 分钟的活动，开发人员检视朝向冲刺目标的进展并计划次日工作。*[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — 参见 主题 1.4 — 交付预测与规划指标。
 
 **数据擦除（Data erasure）** — 覆写存储设备的每个扇区，使数据无法恢复的方法；普通删除只移除指针。*[Wikipedia](https://en.wikipedia.org/wiki/Data_erasure)* — 参见 主题 4.3 — 硬件资产管理。
 
 **纵深防御（Defense in depth）** — 层层叠加相互重叠的管理、逻辑和物理控制，使单点失效不足以造成破坏。*[Wikipedia](https://en.wikipedia.org/wiki/Defense_in_depth_(computing))* — 参见 主题 3.13 — 信息安全管理。
 
-**完成的定义（Definition of Done）** — 工作要计入 Scrum 增量所必须达到的质量标准。*[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — 参见 主题 1.4 — Scrum。
+**完成的定义（Definition of Done）** — 工作要计入 Scrum 增量所必须达到的质量标准。*[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — 参见 主题 1.4 — 交付预测与规划指标。
 
 **工作流定义（Definition of Workflow，DoW）** — 在 Kanban 指南中，团队对其工作项、工作流状态、在制品控制、策略和服务级别期望的共同约定。*[Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))* — 参见 主题 1.5 — Kanban。
 
@@ -140,7 +140,7 @@ Wikipedia 链接指向英文维基百科。本术语表有待精通中文的读�
 
 **事件指挥官（Incident commander）** — 掌握事件整体状态并协调响应的人。— 参见 主题 3.2 — 事件管理。
 
-**增量（Increment）** — 在 Scrum 中，朝向产品目标的一个可用、已验证的步骤，累加在所有先前的增量之上。*[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — 参见 主题 1.4 — Scrum。
+**增量（Increment）** — 在 Scrum 中，朝向产品目标的一个可用、已验证的步骤，累加在所有先前的增量之上。*[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — 参见 主题 1.4 — 交付预测与规划指标。
 
 **信息安全（Information security）** — 通过降低信息风险来保护信息；其核心目标是保密性、完整性和可用性。*[Wikipedia](https://en.wikipedia.org/wiki/Information_security)* — 参见 主题 3.13 — 信息安全管理。
 
@@ -208,9 +208,9 @@ Wikipedia 链接指向英文维基百科。本术语表有待精通中文的读�
 
 **问题（Problem）** — 一个或多个事件的根本原因或疑似原因。— 参见 主题 3.3 — 问题管理。
 
-**产品待办事项列表（Product Backlog）** — 在 Scrum 中，一份有序且不断演进的产品需求清单；其承诺是产品目标。*[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — 参见 主题 1.4 — Scrum。
+**产品待办事项列表（Product Backlog）** — 在 Scrum 中，一份有序且不断演进的产品需求清单；其承诺是产品目标。*[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — 参见 主题 1.4 — 交付预测与规划指标。
 
-**产品负责人（Product Owner）** — 在 Scrum 中，对最大化产品价值和排列产品待办事项列表负责的那一个人。*[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — 参见 主题 1.4 — Scrum。
+**产品负责人（Product Owner）** — 在 Scrum 中，对最大化产品价值和排列产品待办事项列表负责的那一个人。*[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — 参见 主题 1.4 — 交付预测与规划指标。
 
 **产品负责人（服务负责人）（Product owner, service owner）** — 对产品或服务的价值以及其待办事项列表的排序负责的人。— 参见 主题 5.5 — 产品与服务所有权。
 
@@ -242,13 +242,13 @@ Wikipedia 链接指向英文维基百科。本术语表有待精通中文的读�
 
 **规模化敏捷框架（Scaled Agile Framework，SAFe）** — 一套用于规模化推行精益与敏捷实践的组织和工作流模式，由 Scaled Agile, Inc. 发布。*[Wikipedia](https://en.wikipedia.org/wiki/Scaled_agile_framework)* — 参见 主题 1.8 — 规模化敏捷。
 
-**Scrum** — 由角色、活动和工件构成的轻量级框架，帮助人们通过自适应方案解决复杂问题并创造价值。*[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — 参见 主题 1.4 — Scrum。
+**Scrum** — 由角色、活动和工件构成的轻量级框架，帮助人们通过自适应方案解决复杂问题并创造价值。*[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — 参见 主题 1.4 — 交付预测与规划指标。
 
-**Scrum Master** — 在 Scrum 中，负责建立 Scrum 并帮助团队和组织理解和应用它的职责。*[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — 参见 主题 1.4 — Scrum。
+**Scrum Master** — 在 Scrum 中，负责建立 Scrum 并帮助团队和组织理解和应用它的职责。*[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — 参见 主题 1.4 — 交付预测与规划指标。
 
 **Scrum 之 Scrum（Scrum of scrums）** — 轻量级协调会议，由多个团队的代表分享进展并解决依赖。— 参见 主题 1.8 — 规模化敏捷。
 
-**Scrumban** — Scrum 活动与 Kanban 流动的混合。*[Wikipedia](https://en.wikipedia.org/wiki/Scrumban)* — 参见 主题 1.4 — Scrum。
+**Scrumban** — Scrum 活动与 Kanban 流动的混合。*[Wikipedia](https://en.wikipedia.org/wiki/Scrumban)* — 参见 主题 1.4 — 交付预测与规划指标。
 
 **服务目录（Service catalog）** — 组织所提供服务的精心整理的集合，每项服务有负责人、描述以及获取帮助的方式。*[Wikipedia](https://en.wikipedia.org/wiki/Service_catalog)* — 参见 主题 3.8 — 服务目录管理。
 
@@ -282,13 +282,13 @@ Wikipedia 链接指向英文维基百科。本术语表有待精通中文的读�
 
 **软件供应链（Software supply chain）** — 用于开发、构建和发布软件工件的组件、库、工具和流程。*[Wikipedia](https://en.wikipedia.org/wiki/Software_supply_chain)* — 参见 主题 4.2 — 软件资产管理。
 
-**冲刺（Sprint）** — 在 Scrum 中，不超过一个月的固定时间盒，其他所有活动都在其中进行。*[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — 参见 主题 1.4 — Scrum。
+**冲刺（Sprint）** — 在 Scrum 中，不超过一个月的固定时间盒，其他所有活动都在其中进行。*[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — 参见 主题 1.4 — 交付预测与规划指标。
 
-**冲刺目标（Sprint Goal）** — Scrum 冲刺的单一目标；冲刺待办事项列表的承诺。*[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — 参见 主题 1.4 — Scrum。
+**冲刺目标（Sprint Goal）** — Scrum 冲刺的单一目标；冲刺待办事项列表的承诺。*[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — 参见 主题 1.4 — 交付预测与规划指标。
 
-**冲刺回顾（Sprint Retrospective）** — 团队检视自己如何工作并规划改进的 Scrum 活动。*[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — 参见 主题 1.4 — Scrum。
+**冲刺回顾（Sprint Retrospective）** — 团队检视自己如何工作并规划改进的 Scrum 活动。*[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — 参见 主题 1.4 — 交付预测与规划指标。
 
-**冲刺评审（Sprint Review）** — 团队向干系人展示增量并调整产品待办事项列表的 Scrum 活动。*[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — 参见 主题 1.4 — Scrum。
+**冲刺评审（Sprint Review）** — 团队向干系人展示增量并调整产品待办事项列表的 Scrum 活动。*[Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development))* — 参见 主题 1.4 — 交付预测与规划指标。
 
 **标准变更（Standard change）** — 低风险、被充分理解、遵循文档化程序并已预先授权的变更。— 参见 主题 3.4 — 变更赋能。
 

@@ -48,7 +48,7 @@ The principles fall into four groups that are useful when you plan a conversatio
 
 ### Principles and practices are not the same
 
-A principle states a direction. A practice is one way of following it. Scrum, Kanban, and Extreme Programming are bundles of practices that their users say follow the principles (see Topic 1.4 — Scrum, Topic 1.5 — Kanban, and Topic 1.6 — Extreme Programming). A team can follow a practice and break the principle behind it. A daily stand-up that becomes a status report to a manager keeps the ritual and loses the point of principle 4 and principle 5.
+A principle states a direction. A practice is one way of following it. Scrum, Kanban, and Extreme Programming are bundles of practices that their users say follow the principles (see Topic 1.4 — Delivery Forecasting and Planning Metrics, Topic 1.5 — Kanban, and Topic 1.6 — Extreme Programming). A team can follow a practice and break the principle behind it. A daily stand-up that becomes a status report to a manager keeps the ritual and loses the point of principle 4 and principle 5.
 
 ### Where the principles are silent or contested
 
