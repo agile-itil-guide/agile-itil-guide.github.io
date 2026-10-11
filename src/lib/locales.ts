@@ -11,6 +11,10 @@ export const LOCALES: Locale[] = [
   { slug: 'en-001', label: 'English (World)' },
   { slug: 'cy-gb', label: 'Cymraeg (Cymru)' },
   { slug: 'zh-cn', label: '简体中文（中国）' },
+  { slug: 'zh-001', label: '简体中文（世界）' },
+  { slug: 'en-us', label: 'English (United States)' },
+  { slug: 'en-gb', label: 'English (United Kingdom)' },
+  { slug: 'cy-001', label: 'Cymraeg (Byd)' },
 ];
 
 export const LOCALE_SLUGS: string[] = LOCALES.map((locale) => locale.slug);
