@@ -666,7 +666,7 @@
   "reference": [
     {
       "title": "Glossary",
-      "path": "GLOSSARY.md",
+      "path": "glossary/index.md",
       "note": "A–Z definitions of key terms, each pointing to its home topic"
     },
     {
