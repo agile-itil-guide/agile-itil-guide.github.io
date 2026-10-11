@@ -36,7 +36,7 @@ const indexFile = import.meta.glob('../../content/index/index.md', {
   eager: true
 }) as Record<string, string>;
 
-/** Translated reference files, `content/locales/<locale>/glossary/index.md` and `INDEX.md`, where a locale has them. */
+/** Translated reference files, `content/locales/<locale>/glossary/index.md` and `index/index.md`, where a locale has them. */
 const localeReferenceFiles = import.meta.glob('../../content/locales/*/{glossary,index}/index.md', {
   query: '?raw',
   import: 'default',
