@@ -14,8 +14,8 @@
 # Copied:
 #   locales/<locale>/topics/<slug>/index.md   written topics only (stubs are skipped)
 #   spec/topics.tsv                           -> src/content/topics.tsv (plus a title column read from each topic's first headline)
-#   GLOSSARY.md, INDEX.md                     -> src/content/
-#   locales/<locale>/GLOSSARY.md, INDEX.md    -> src/content/locales/<locale>/   where a locale has translations
+#   glossary/index.md, INDEX.md               -> src/content/glossary/index.md, src/content/INDEX.md
+#   locales/<locale>/glossary/index.md, INDEX.md -> src/content/locales/<locale>/   where a locale has translations
 #   skills/<name>/SKILL.md                    -> src/content/skills/<name>/SKILL.md
 #   llms.txt, llms.json                       -> static/
 
@@ -42,7 +42,8 @@ tail -n +2 "$source_repo/spec/topics.tsv" | while IFS="$(printf '\t')" read -r p
     title=$(head -n 1 "$source_repo/locales/en-001/topics/$slug/index.md" | sed 's/^# *//')
     printf '%s\t%s\t%s\t%s\t%s\n' "$part" "$number" "$slug" "$title" "$part_title" >> "$destination/topics.tsv"
 done
-cp "$source_repo/GLOSSARY.md" "$destination/GLOSSARY.md"
+mkdir -p "$destination/glossary"
+cp "$source_repo/glossary/index.md" "$destination/glossary/index.md"
 cp "$source_repo/INDEX.md" "$destination/INDEX.md"
 cp "$source_repo/llms.txt" "$here/static/llms.txt"
 cp "$source_repo/llms.json" "$here/static/llms.json"
@@ -51,12 +52,14 @@ total=0
 for locale_path in "$source_repo"/locales/*/; do
     locale=$(basename "$locale_path")
     count=0
-    for reference_file in GLOSSARY.md INDEX.md; do
-        if [ -f "${locale_path}${reference_file}" ]; then
-            mkdir -p "$destination/locales/$locale"
-            cp "${locale_path}${reference_file}" "$destination/locales/$locale/$reference_file"
-        fi
-    done
+    if [ -f "${locale_path}glossary/index.md" ]; then
+        mkdir -p "$destination/locales/$locale/glossary"
+        cp "${locale_path}glossary/index.md" "$destination/locales/$locale/glossary/index.md"
+    fi
+    if [ -f "${locale_path}INDEX.md" ]; then
+        mkdir -p "$destination/locales/$locale"
+        cp "${locale_path}INDEX.md" "$destination/locales/$locale/INDEX.md"
+    fi
     for topic_path in "${locale_path}topics"/*/; do
         [ -f "${topic_path}index.md" ] || continue
         if grep -q "$STUB" "${topic_path}index.md"; then continue; fi

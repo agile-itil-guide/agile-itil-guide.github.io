@@ -24,7 +24,7 @@ const manifestFile = import.meta.glob('../../content/topics.tsv', {
   eager: true
 }) as Record<string, string>;
 
-const glossaryFile = import.meta.glob('../../content/GLOSSARY.md', {
+const glossaryFile = import.meta.glob('../../content/glossary/index.md', {
   query: '?raw',
   import: 'default',
   eager: true
@@ -36,8 +36,8 @@ const indexFile = import.meta.glob('../../content/INDEX.md', {
   eager: true
 }) as Record<string, string>;
 
-/** Translated reference files, `content/locales/<locale>/GLOSSARY.md` and `INDEX.md`, where a locale has them. */
-const localeReferenceFiles = import.meta.glob('../../content/locales/*/{GLOSSARY,INDEX}.md', {
+/** Translated reference files, `content/locales/<locale>/glossary/index.md` and `INDEX.md`, where a locale has them. */
+const localeReferenceFiles = import.meta.glob('../../content/locales/*/{glossary/index,INDEX}.md', {
   query: '?raw',
   import: 'default',
   eager: true
@@ -45,7 +45,8 @@ const localeReferenceFiles = import.meta.glob('../../content/locales/*/{GLOSSARY
 
 function localeReference(locale: string | undefined, file: 'GLOSSARY' | 'INDEX'): string | undefined {
   if (!locale) return undefined;
-  return localeReferenceFiles[`../../content/locales/${locale}/${file}.md`];
+  const name = file === 'GLOSSARY' ? 'glossary/index' : 'INDEX';
+  return localeReferenceFiles[`../../content/locales/${locale}/${name}.md`];
 }
 
 type ManifestRow = { part: number; number: string; slug: string; title: string; partTitle: string };

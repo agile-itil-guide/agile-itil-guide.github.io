@@ -22,7 +22,7 @@ Read in order: `spec/index.md`, `AGENTS.md`, then the role card in `AGENTS/` for
 
 1. Run `bin/check --links` (structure, counts, skill links, cross-references, Wikipedia slugs) and fix every failure.
 2. Run `bin/build-llms`, and `bin/build-readme` if titles or the manifest changed.
-3. Update `GLOSSARY.md`, `INDEX.md`, `_sources/research-notes.md`, and `tasks.md` in the same commit as the topic.
+3. Update `glossary/index.md`, `INDEX.md`, `_sources/research-notes.md`, and `tasks.md` in the same commit as the topic.
 4. In `agile-itil.github.io/`, run `pnpm sync`, `pnpm check`, and `pnpm build` (pnpm only).
 5. Commit one logical change per commit, with the `Co-Authored-By` trailer the harness specifies.
 

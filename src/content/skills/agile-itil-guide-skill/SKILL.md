@@ -5,7 +5,7 @@ description: Use when asked to find, explain, or apply content from the Agile IT
 
 # Agile ITIL Guide (reader skill)
 
-The Agile ITIL Guide has 49 topics in six parts, each in `locales/en-001/topics/<slug>/index.md`. `spec/topics.tsv` lists part, number, and slug; each topic's first headline is its title. `GLOSSARY.md` and `INDEX.md` point to the home topic for terms and concepts. Read the topic itself before answering; do not answer from memory.
+The Agile ITIL Guide has 49 topics in six parts, each in `locales/en-001/topics/<slug>/index.md`. `spec/topics.tsv` lists part, number, and slug; each topic's first headline is its title. `glossary/index.md` and `INDEX.md` point to the home topic for terms and concepts. Read the topic itself before answering; do not answer from memory.
 
 ## Choose topics
 
