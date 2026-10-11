@@ -117,7 +117,7 @@ Ask for the most recent concrete change from a retrospective and whether it work
 
 ## In practice: an agile ITIL example
 
-A mid-sized online retailer has a development team of ten people that builds its order-management system, and a separate operations team of six that runs it. The development team uses sprints and releases every two weeks. The operations team receives each release with a short note and a request to deploy it within a window on Thursday night. Operations staff complain that they learn what changed only when something breaks, and developers complain that a Thursday window is too late to fix anything found in testing.
+A mid-sized online retailer has a development team of ten people that builds its order-management system, and a separate operations team of six that runs it. The development team has chosen to use sprints and releases every two weeks. The operations team receives each release with a short note and a request to deploy it within a window on Thursday night. Operations staff complain that they learn what changed only when something breaks, and developers complain that a Thursday window is too late to fix anything found in testing.
 
 At a joint retrospective, the two teams map one recent release step by step. They find that the only automated tests cover about half of the order flow, that nobody on the operations side has seen the release before the Thursday note, and that the rollback step has never been tried. They agree on three changes. The development team will add a monitoring check and a rollback test to its definition of done. An operations engineer will join each sprint review. Releases that pass the full automated suite will deploy as soon as they are ready, not only on Thursday.
 

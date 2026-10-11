@@ -6,7 +6,7 @@
 
 Mae pob gwasanaeth yn dal gwybodaeth y mae rhywun yn gofalu amdani: manylion cwsmeriaid, cofnodion talu, data iechyd, cynlluniau mewnol. Mae methiant diogelwch yn niweidio'r bobl y mae'r wybodaeth yn eu disgrifio, yn niweidio enw da'r sefydliad, a gall ddod â chosbau cyfreithiol ac ariannol. Timau rheoli gwasanaethau yn aml yw'r rhai sy'n gweld y methiant yn gyntaf, fel digwyddiad, a'r rhai y mae'n rhaid iddynt adfer gweithrediad arferol wedyn.
 
-Mae diogelwch a chyflawni ystwyth yn aml yn cael eu castio fel gwrthgyferbyniadau: mae diogelwch yn dweud arafwch, mae cyflawni'n dweud cyflymwch. Nid yw'r farn honno'n ddefnyddiol. Mae diogelwch sy'n cyrraedd dim ond ar ddiwedd rhyddhad yn cynhyrchu pethau annisgwyl hwyr ac eithriadau ar frys. Mae diogelwch sydd wedi'i adeiladu i mewn i'r gwaith, gyda gwiriadau sy'n rhedeg yn awtomatig a risgiau'n cael eu trafod yn gynnar, yn amddiffyn y gwasanaeth heb ei stopio. Mae'r un peth yn wir am reoli gwasanaethau: mae'r arferion sy'n gwneud newid yn ddiogel hefyd yn gwneud newidiadau diogelwch yn ddiogel.
+Mae diogelwch a chyflawni parhaus yn aml yn cael eu castio fel gwrthgyferbyniadau: mae diogelwch yn dweud arafwch, mae cyflawni'n dweud cyflymwch. Nid yw'r farn honno'n ddefnyddiol. Mae diogelwch sy'n cyrraedd dim ond ar ddiwedd rhyddhad yn cynhyrchu pethau annisgwyl hwyr ac eithriadau ar frys. Mae diogelwch sydd wedi'i adeiladu i mewn i'r gwaith, gyda gwiriadau sy'n rhedeg yn awtomatig a risgiau'n cael eu trafod yn gynnar, yn amddiffyn y gwasanaeth heb ei stopio. Mae'r un peth yn wir am reoli gwasanaethau: mae'r arferion sy'n gwneud newid yn ddiogel hefyd yn gwneud newidiadau diogelwch yn ddiogel.
 
 Mae'r pwnc hwn yn defnyddio'r [erthygl Wikipedia ar ddiogelwch gwybodaeth](https://en.wikipedia.org/wiki/Information_security) a'r [erthygl ar ISO/IEC 27001](https://en.wikipedia.org/wiki/ISO/IEC_27001) (yn Saesneg) fel ei brif ffynonellau. Mae'r ddwy yn gyffredinol. Mae'r gyntaf yn erthygl hir, ac nid yw'r canllaw hwn ond wedi darllen y 100,000 cyntaf o'i thua 243,000 o nodau. Nid yw'r pwnc hwn yn rhoi cyngor cyfreithiol; mae cyfreithiau, rheoliadau a rhwymedigaethau cytundebol yn wahanol yn ôl gwlad a sector, a'r ffynhonnell gywir yw testun y rheol sy'n berthnasol i chi.
 
@@ -59,7 +59,7 @@ Mae'r erthygl diogelwch gwybodaeth yn enwi llawer o safonau a chynlluniau eraill
 
 ### Diogelwch yn y biblinell gyflawni
 
-Mae arferion sy'n ffitio cyflawni ystwyth yn cynnwys:
+Mae arferion sy'n ffitio cyflawni parhaus yn cynnwys:
 
 - **Trafodaeth bygythiadau gynnar:** gofynnwch wrth gynllunio beth allai fynd o'i le gyda nodwedd a phwy fyddai eisiau ei chamddefnyddio.
 - **Gwiriadau awtomataidd:** sganio cod, dibyniaethau a chyfluniad ar bob newid, gyda'r canlyniadau'n weladwy i'r tîm (gweler Pwnc 3.4 — Galluogi Newid).

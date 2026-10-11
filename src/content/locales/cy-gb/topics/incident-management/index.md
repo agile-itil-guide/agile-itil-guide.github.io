@@ -67,7 +67,7 @@ Mae'r bennod yn awgrymu diffinio sbardunau adolygu ymlaen llaw, fel amser segur 
 
 Mae llawer o arferion ITSM yn diffinio **digwyddiad mawr** (major incident) fel un sydd angen ymateb mwy ffurfiol nag arfer. Nid yw'r ffynonellau a ddarllenwyd yma yn ei ddiffinio, felly gwnewch hynny yn eich geiriau eich hun: er enghraifft, digwyddiad sy'n effeithio ar lawer o ddefnyddwyr neu wasanaeth hanfodol ac sydd angen ymateb cydlynol ar draws timau. Yr hyn sy'n bwysig yw bod pobl yn gwybod ymlaen llaw beth sy'n newid: pwy sy'n gorchymyn, pwy a alwir, pa mor aml y mae diweddariadau'n mynd allan.
 
-### Digwyddiadau a chyflawni ystwyth
+### Digwyddiadau a chyflawni parhaus
 
 Mae digwyddiadau'n aml yn deillio o newidiadau diweddar. Mae timau ystwyth mewn sefyllfa dda i ddysgu ohonynt oherwydd eu bod yn rhyddhau'n aml ac mae ganddynt ddolenni adborth byr. Mae angen llwybr ar y dysgu: mae gweithredoedd adolygu ôl-ddigwyddiad yn mynd i'r ôl-groniad gyda pherchnogion a dyddiadau, ac mae digwyddiadau ailadroddus yn mynd i reoli problemau. Heb y llwybr hwnnw, mae trin digwyddiadau yn dod yn drefn o atgyweirio.
 

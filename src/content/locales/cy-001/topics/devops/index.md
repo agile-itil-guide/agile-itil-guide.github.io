@@ -4,7 +4,7 @@
 
 ## Pam mae hyn yn bwysig
 
-DevOps yw'r enw y mae'r rhan fwyaf o sefydliadau yn ei roi i'r man cyfarfod rhwng cyflawni ystwyth a gweithrediadau TG. Tyfodd o rwystredigaeth: gwobrwywyd datblygwyr am newid a staff gweithrediadau am sefydlogrwydd, felly tynnodd y ddau grŵp i gyfeiriadau croes, a'r trosglwyddo rhyngddynt oedd lle collwyd cyflymder ac ansawdd. Mae DevOps yn gofyn i'r ddau rannu cyfrifoldeb am y llwybr cyfan o syniad i wasanaeth sy'n rhedeg.
+DevOps yw'r enw y mae'r rhan fwyaf o sefydliadau yn ei roi i'r man cyfarfod rhwng cyflawni parhaus a gweithrediadau TG. Tyfodd o rwystredigaeth: gwobrwywyd datblygwyr am newid a staff gweithrediadau am sefydlogrwydd, felly tynnodd y ddau grŵp i gyfeiriadau croes, a'r trosglwyddo rhyngddynt oedd lle collwyd cyflymder ac ansawdd. Mae DevOps yn gofyn i'r ddau rannu cyfrifoldeb am y llwybr cyfan o syniad i wasanaeth sy'n rhedeg.
 
 I bobl sy'n gweithio mewn ITSM, gall DevOps ymddangos naill ai'n fygythiol neu'n ddiangen. Bygythiol, oherwydd ei fod yn ymddangos yn diystyru'r prosesau y mae gweithrediadau wedi'u hadeiladu ar ôl profiad caled. Diangen, oherwydd bod llawer o'r hyn y mae'n ei argymell, fel adolygiadau digwyddiadau, awtomeiddio a gwelliant parhaus, eisoes yn ITIL. Nid yw'r naill farn na'r llall yn hollol gywir. Mae'r erthygl Wikipedia ar DevOps yn cyferbynnu DevOps â'r hyn y mae'n ei alw'n fframwaith "o'r brig i lawr" ac anhyblyg ITIL yn y 1990au, sy'n wir am fersiynau hŷn; ysgrifennwyd ITIL 4 i alinio ag ystwyth, DevOps a main (gweler Pwnc 2.2 — ITIL).
 

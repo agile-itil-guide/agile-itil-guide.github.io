@@ -1,6 +1,6 @@
 # The Service Value Chain
 
-**The service value chain is a set of six activities that teams combine in different orders to create value streams, and it describes how agile delivery and service operation fit into one flow instead of two separate ones.**
+**The service value chain is a set of six activities that teams combine in different orders to create value streams, and it describes how continuous delivery and service operation fit into one flow instead of two separate ones.**
 
 ## Why this matters
 

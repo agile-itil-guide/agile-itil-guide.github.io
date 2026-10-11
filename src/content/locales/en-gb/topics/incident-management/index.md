@@ -67,7 +67,7 @@ The chapter suggests defining postmortem triggers in advance, such as user-visib
 
 Many ITSM practices define a **major incident** as one needing a more formal response than usual. The sources read here do not define it, so do it in your own words: for example, an incident that affects many users or a critical service and needs a coordinated response across teams. What matters is that people know in advance what changes: who commands, who is called, how often updates go out.
 
-### Incidents and agile delivery
+### Incidents and continuous delivery
 
 Incidents often arise from recent changes. Agile teams are well placed to learn from them because they release often and have short feedback loops. The learning needs a route: postmortem actions go into the backlog with owners and dates, and recurring incidents go to problem management. Without that route, incident handling becomes a routine of repair.
 

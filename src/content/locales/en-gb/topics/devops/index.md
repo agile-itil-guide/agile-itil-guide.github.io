@@ -4,7 +4,7 @@
 
 ## Why this matters
 
-DevOps is the name most organisations give to the meeting point between agile delivery and IT operations. It grew from a frustration: developers were rewarded for change and operations staff for stability, so the two groups pulled in opposite directions, and the handover between them was where speed and quality were lost. DevOps asks both to share responsibility for the whole path from idea to running service.
+DevOps is the name most organisations give to the meeting point between continuous delivery and IT operations. It grew from a frustration: developers were rewarded for change and operations staff for stability, so the two groups pulled in opposite directions, and the handover between them was where speed and quality were lost. DevOps asks both to share responsibility for the whole path from idea to running service.
 
 For people who work in ITSM, DevOps can seem either threatening or redundant. Threatening, because it appears to dismiss the processes that operations built after hard experience. Redundant, because much of what it recommends, such as incident reviews, automation, and continual improvement, is already in ITIL. Neither view is quite right. The Wikipedia article on DevOps contrasts DevOps with what it calls ITIL's "top-down" and rigid framework of the 1990s, which is true of older versions; ITIL 4 was written to align with agile, DevOps, and lean (see Topic 2.2 — ITIL).
 

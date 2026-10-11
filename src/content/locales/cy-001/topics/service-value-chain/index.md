@@ -1,6 +1,6 @@
 # Y Gadwyn Gwerth Gwasanaeth
 
-**Set o chwe gweithgaredd yw'r gadwyn gwerth gwasanaeth y mae timau'n eu cyfuno mewn gwahanol drefnau i greu ffrydiau gwerth. Mae'n disgrifio sut mae cyflawni ystwyth a gweithredu gwasanaeth yn ffitio i un llif yn lle dau ar wahân.**
+**Set o chwe gweithgaredd yw'r gadwyn gwerth gwasanaeth y mae timau'n eu cyfuno mewn gwahanol drefnau i greu ffrydiau gwerth. Mae'n disgrifio sut mae cyflawni parhaus a gweithredu gwasanaeth yn ffitio i un llif yn lle dau ar wahân.**
 
 ## Pam mae hyn yn bwysig
 

@@ -4,7 +4,7 @@
 
 ## Pam mae hyn yn bwysig
 
-Newid mynych yw nod cyflawni ystwyth a phryder rheoli gwasanaethau. Y ffordd i'w cymodi yw nid mwy o gyfarfodydd cymeradwyo ond gallu cryfach i wybod bod newid yn gweithio cyn iddo gyrraedd defnyddwyr. Rhaglennu Eithafol yw'r dull ystwyth sy'n dweud fwyaf am sut i adeiladu'r gallu hwnnw: ysgrifennu profion yn gyntaf, integreiddio sawl gwaith y dydd, cadw'r dyluniad yn syml, a rhannu cyfrifoldeb am y cod.
+Newid mynych yw nod cyflawni parhaus a phryder rheoli gwasanaethau. Y ffordd i'w cymodi yw nid mwy o gyfarfodydd cymeradwyo ond gallu cryfach i wybod bod newid yn gweithio cyn iddo gyrraedd defnyddwyr. Rhaglennu Eithafol yw'r dull ystwyth sy'n dweud fwyaf am sut i adeiladu'r gallu hwnnw: ysgrifennu profion yn gyntaf, integreiddio sawl gwaith y dydd, cadw'r dyluniad yn syml, a rhannu cyfrifoldeb am y cod.
 
 Mae llawer o dimau'n cymryd digwyddiadau a byrddau Scrum ac yn gadael yr arferion peirianneg ar ôl. Y canlyniad yw tîm sy'n cynllunio mewn sbrintiau ond sy'n rhyddhau mewn ofn. Arferion XP yw'r hanner coll. Maent yn bwysig i unrhyw un sy'n gorfod rhedeg y canlyniad, oherwydd mae gwasanaeth a adeiladwyd gyda phrofion awtomataidd, rhyddhadau bach a gwybodaeth a rennir yn haws ei gefnogi nag un a adeiladwyd gan ychydig o bobl mewn sypiau mawr, heb eu profi.
 

@@ -6,7 +6,7 @@
 
 Every service holds information that someone cares about: customers' details, payment records, health data, internal plans. A security failure harms the people the information describes, damages the organisation's reputation, and can bring legal and financial penalties. Service management teams are often the ones who see the failure first, as an incident, and the ones who must restore normal operation afterward.
 
-Security and agile delivery are often cast as opposites: security says slow down, delivery says speed up. That view is unhelpful. Security that arrives only at the end of a release produces late surprises and rushed exceptions. Security built into the work, with checks that run automatically and risks discussed early, protects the service without stalling it. The same is true of service management: the practices that make change safe also make security changes safe.
+Security and continuous delivery are often cast as opposites: security says slow down, delivery says speed up. That view is unhelpful. Security that arrives only at the end of a release produces late surprises and rushed exceptions. Security built into the work, with checks that run automatically and risks discussed early, protects the service without stalling it. The same is true of service management: the practices that make change safe also make security changes safe.
 
 This topic uses the [Wikipedia article on information security](https://en.wikipedia.org/wiki/Information_security) and the [article on ISO/IEC 27001](https://en.wikipedia.org/wiki/ISO/IEC_27001) as its main sources. Both are general. The first is a long article, and this guide read only the first 100,000 of its roughly 243,000 characters. This topic does not give legal advice; laws, regulations, and contractual obligations differ by country and sector, and the right source is the text of the rule that applies to you.
 
@@ -59,7 +59,7 @@ The information security article names many other standards and schemes, such as
 
 ### Security in the delivery pipeline
 
-Practices that fit agile delivery include:
+Practices that fit continuous delivery include:
 
 - **Threat discussion early:** ask in planning what could go wrong with a feature and who would want to misuse it.
 - **Automated checks:** scanning code, dependencies, and configuration on every change, with results visible to the team (see Topic 3.4 — Change Enablement).

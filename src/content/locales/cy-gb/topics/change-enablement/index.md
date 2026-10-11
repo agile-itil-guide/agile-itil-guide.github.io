@@ -4,7 +4,7 @@
 
 ## Pam mae hyn yn bwysig
 
-Newid yw lle mae cyflawni ystwyth a rheoli gwasanaethau yn gwrthdaro amlaf. Mae timau cyflawni eisiau rhyddhau'n aml, oherwydd bod newidiadau bach mynych yn haws eu deall a'u dadwneud. Mae gweithrediadau a llywodraethu eisiau osgoi toriadau a chadw cofnodion, oherwydd bod newidiadau'r gorffennol wedi torri gwasanaethau. Mae'r ddau yn iawn. Mae'r anghytundeb fel arfer ynglŷn â sut i reoli risg: trwy gymeradwyaeth cyn y newid, neu trwy ansawdd y newid a chyflymder adfer.
+Newid yw lle mae cyflawni parhaus a rheoli gwasanaethau yn gwrthdaro amlaf. Mae timau cyflawni eisiau rhyddhau'n aml, oherwydd bod newidiadau bach mynych yn haws eu deall a'u dadwneud. Mae gweithrediadau a llywodraethu eisiau osgoi toriadau a chadw cofnodion, oherwydd bod newidiadau'r gorffennol wedi torri gwasanaethau. Mae'r ddau yn iawn. Mae'r anghytundeb fel arfer ynglŷn â sut i reoli risg: trwy gymeradwyaeth cyn y newid, neu trwy ansawdd y newid a chyflymder adfer.
 
 Gelwir yr arfer yn galluogi newid (change enablement) yn ITIL 4. Mae'r enw newydd yn ddatganiad o bwrpas. Y nod yw galluogi newidiadau buddiol i ddigwydd, nid eu hatal. Galwodd fersiynau ITIL hŷn yr arfer yn rheoli newid a rhoi rôl gref iddo mewn cymeradwyaethau ac amserlenni, a brofodd llawer o dimau fel porth.
 

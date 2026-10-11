@@ -4,7 +4,7 @@
 
 ## Why this matters
 
-Change is where agile delivery and service management most often collide. Delivery teams want to release often, because small frequent changes are easier to understand and reverse. Operations and governance want to avoid outages and keep records, because past changes have broken services. Both are right. The disagreement is usually about how to control risk: by approval before the change, or by the quality of the change and the speed of recovery.
+Change is where continuous delivery and service management most often collide. Delivery teams want to release often, because small frequent changes are easier to understand and reverse. Operations and governance want to avoid outages and keep records, because past changes have broken services. Both are right. The disagreement is usually about how to control risk: by approval before the change, or by the quality of the change and the speed of recovery.
 
 The practice is called change enablement in ITIL 4. The new name is a statement of purpose. The aim is to enable beneficial changes to happen, not to prevent changes. Older ITIL versions called the practice change management and gave it a strong role in approvals and schedules, which many teams experienced as a gate.
 

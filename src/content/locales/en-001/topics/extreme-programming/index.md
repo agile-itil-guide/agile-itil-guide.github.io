@@ -4,7 +4,7 @@
 
 ## Why this matters
 
-Frequent change is the aim of agile delivery and the worry of service management. The way to reconcile them is not more approval meetings but a stronger ability to know that a change works before it reaches users. Extreme Programming is the agile method that says most about how to build that ability: write tests first, integrate several times a day, keep the design simple, and share responsibility for the code.
+Frequent change is the aim of continuous delivery and the worry of service management. The way to reconcile them is not more approval meetings but a stronger ability to know that a change works before it reaches users. Extreme Programming is the agile method that says most about how to build that ability: write tests first, integrate several times a day, keep the design simple, and share responsibility for the code.
 
 Many teams take Scrum's events and boards and leave the engineering practices behind. The result is a team that plans in sprints but releases with fear. XP's practices are the missing half. They matter to anyone who has to run the result, because a service built with automated tests, small releases, and shared knowledge is easier to support than one built by a few people in large, untested batches.
 
