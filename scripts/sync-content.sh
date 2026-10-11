@@ -14,8 +14,8 @@
 # Copied:
 #   locales/<locale>/topics/<slug>/index.md   written topics only (stubs are skipped)
 #   spec/topics.tsv                           -> src/content/topics.tsv (plus a title column read from each topic's first headline)
-#   glossary/index.md, INDEX.md               -> src/content/glossary/index.md, src/content/INDEX.md
-#   locales/<locale>/glossary/index.md, INDEX.md -> src/content/locales/<locale>/   where a locale has translations
+#   glossary/index.md, index/index.md         -> src/content/glossary/index.md, src/content/index/index.md
+#   locales/<locale>/glossary/index.md, index/index.md -> src/content/locales/<locale>/   where a locale has translations
 #   skills/<name>/SKILL.md                    -> src/content/skills/<name>/SKILL.md
 #   llms.txt, llms.json                       -> static/
 
@@ -44,7 +44,8 @@ tail -n +2 "$source_repo/spec/topics.tsv" | while IFS="$(printf '\t')" read -r p
 done
 mkdir -p "$destination/glossary"
 cp "$source_repo/glossary/index.md" "$destination/glossary/index.md"
-cp "$source_repo/INDEX.md" "$destination/INDEX.md"
+mkdir -p "$destination/index"
+cp "$source_repo/index/index.md" "$destination/index/index.md"
 cp "$source_repo/llms.txt" "$here/static/llms.txt"
 cp "$source_repo/llms.json" "$here/static/llms.json"
 
@@ -56,9 +57,9 @@ for locale_path in "$source_repo"/locales/*/; do
         mkdir -p "$destination/locales/$locale/glossary"
         cp "${locale_path}glossary/index.md" "$destination/locales/$locale/glossary/index.md"
     fi
-    if [ -f "${locale_path}INDEX.md" ]; then
-        mkdir -p "$destination/locales/$locale"
-        cp "${locale_path}INDEX.md" "$destination/locales/$locale/INDEX.md"
+    if [ -f "${locale_path}index/index.md" ]; then
+        mkdir -p "$destination/locales/$locale/index"
+        cp "${locale_path}index/index.md" "$destination/locales/$locale/index/index.md"
     fi
     for topic_path in "${locale_path}topics"/*/; do
         [ -f "${topic_path}index.md" ] || continue

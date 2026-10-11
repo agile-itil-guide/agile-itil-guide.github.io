@@ -74,7 +74,7 @@ Each topic follows one 15-section template: thesis, why it matters, core concept
 ## Reference
 
 - [Glossary](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/glossary/index.md): A–Z definitions of key terms, each pointing to its home topic
-- [Index](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/INDEX.md): Concepts and frameworks by topic number
+- [Index](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/index/index.md): Concepts and frameworks by topic number
 - [Style guide](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/STYLE_GUIDE.md): The prose and formatting contract
 - [Specification](https://raw.githubusercontent.com/agile-itil/agile-itil-guide/main/spec/index.md): Governing specification: topic template, manifest, quality gates
 

@@ -30,14 +30,14 @@ const glossaryFile = import.meta.glob('../../content/glossary/index.md', {
   eager: true
 }) as Record<string, string>;
 
-const indexFile = import.meta.glob('../../content/INDEX.md', {
+const indexFile = import.meta.glob('../../content/index/index.md', {
   query: '?raw',
   import: 'default',
   eager: true
 }) as Record<string, string>;
 
 /** Translated reference files, `content/locales/<locale>/glossary/index.md` and `INDEX.md`, where a locale has them. */
-const localeReferenceFiles = import.meta.glob('../../content/locales/*/{glossary/index,INDEX}.md', {
+const localeReferenceFiles = import.meta.glob('../../content/locales/*/{glossary,index}/index.md', {
   query: '?raw',
   import: 'default',
   eager: true
@@ -45,7 +45,7 @@ const localeReferenceFiles = import.meta.glob('../../content/locales/*/{glossary
 
 function localeReference(locale: string | undefined, file: 'GLOSSARY' | 'INDEX'): string | undefined {
   if (!locale) return undefined;
-  const name = file === 'GLOSSARY' ? 'glossary/index' : 'INDEX';
+  const name = file === 'GLOSSARY' ? 'glossary/index' : 'index/index';
   return localeReferenceFiles[`../../content/locales/${locale}/${name}.md`];
 }
 
