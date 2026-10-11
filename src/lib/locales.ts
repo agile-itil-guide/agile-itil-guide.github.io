@@ -22,6 +22,7 @@ export const LOCALES: Locale[] = [
   { slug: 'id-001', label: 'Bahasa Indonesia - Dunia' },
   { slug: 'ja-001', label: '日本語 - 世界' },
   { slug: 'ja-jp', label: '日本語 - 日本' },
+  { slug: 'ko-kr', label: '한국어 - 대한민국' },
   { slug: 'zh-001', label: '简体中文 - 世界' },
   { slug: 'zh-cn', label: '简体中文 - 中国' },
 ];
