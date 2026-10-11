@@ -58,7 +58,6 @@
   },
   "topic": {
     "eyebrow": "主题 {$number}",
-    "onThisPage": "本页内容",
     "paginationLabel": "主题间导航",
     "previous": "上一篇",
     "next": "下一篇"

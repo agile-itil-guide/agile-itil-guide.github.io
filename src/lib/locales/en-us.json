@@ -58,7 +58,6 @@
   },
   "topic": {
     "eyebrow": "Topic {$number}",
-    "onThisPage": "On this page",
     "paginationLabel": "Topic navigation",
     "previous": "Previous",
     "next": "Next"

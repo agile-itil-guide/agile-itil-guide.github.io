@@ -6,9 +6,7 @@
     BreadcrumbListItem,
     PaginationNav,
     PaginationList,
-    PaginationListItem,
-    ContentsNav,
-    ContentsLink
+    PaginationListItem
   } from '@lilydesignsystem/svelte-headless';
   import { SITE_URL } from '#lib/book.js';
   import { _ } from '#lib/i18n.js';
@@ -18,9 +16,6 @@
   const part = $derived(data.parts.find((candidate) => candidate.number === data.ref.part));
 
   const fullTitle = $derived(`${_('topic.eyebrow', { values: { number: data.ref.number } })} — ${data.ref.title}`);
-
-  /** Only top-level sections go in the on-page contents; `###` would crowd it. */
-  const sections = $derived(data.doc.headings.filter((heading) => heading.depth === 2));
 
   const label = (ref: { number: string; title: string }) => `${ref.number} ${ref.title}`;
 </script>
@@ -51,23 +46,11 @@
   </BreadcrumbNav>
 
   <header class="page-header">
-    <p class="page-eyebrow">{_('topic.eyebrow', { values: { number: data.ref.number } })}</p>
     <h1>{data.ref.title}</h1>
     {#if data.doc.lead}
       <p class="page-lead">{data.doc.lead}</p>
     {/if}
   </header>
-
-  {#if sections.length > 1}
-    <ContentsNav label={_('topic.onThisPage')} class="page-toc">
-      <h2 class="page-toc-heading">{_('topic.onThisPage')}</h2>
-      {#each sections as section (section.id)}
-        <ContentsLink class="page-toc-item">
-          <a href="#{section.id}">{section.text}</a>
-        </ContentsLink>
-      {/each}
-    </ContentsNav>
-  {/if}
 
   <div class="prose">
     <!-- Rendered at build time from the book's own markdown; not user input. -->
