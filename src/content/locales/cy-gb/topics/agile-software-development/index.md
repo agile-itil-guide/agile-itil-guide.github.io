@@ -16,7 +16,7 @@ Mae angen darllen y dystiolaeth yn ofalus. Mae [erthygl Wikipedia ar ddatblygu m
 
 Term ymbarél yw "datblygu meddalwedd ystwyth". Mae erthygl Wikipedia yn ei ddisgrifio fel un sy'n cwmpasu dulliau a dyfodd o'r gwerthoedd a'r egwyddorion y cytunodd 17 o ymarferwyr arnynt yn 2001 (gweler Pwnc 1.1 — Maniffesto Ystwyth a Phwnc 1.2 — Egwyddorion Ystwyth). Defnyddir "Agile" â phrif lythyren yn aml ar gyfer yr arferion a dyfodd o'r meddylfryd hwnnw, a "ystwyth" â llythyren fach ar gyfer y gallu i addasu. Nid yw'r gwahaniaeth yn llym, a byddwch yn clywed y ddau.
 
-Mae gan ddulliau ystwyth ychydig o nodweddion cyffredin. Maent yn ymarfer cyflawni meddalwedd yn barhaus, maent yn cyflawni cynyddrannau o feddalwedd sy'n gweithio, maent yn cadw cyfathrebu'n fyr ac yn uniongyrchol, maent yn byrhau'r ddolen adborth, ac maent yn gofalu am ansawdd. Maent yn wahanol yn yr hyn y maent yn ei bwysleisio. Mae rhai, fel Rhaglennu Eithafol, yn canolbwyntio ar arferion peirianneg, ac eraill, fel Scrum a Kanban, yn canolbwyntio ar sut y rheolir gwaith.
+Nod dulliau ystwyth yw cyflawni meddalwedd yn barhaus. Maent yn croesawu gofynion sy'n newid, hyd yn oed yn hwyr yn y datblygu, ac yn rhyddhau meddalwedd sy'n gweithio yn aml. Maent yn pwysleisio cydweithio agos bob dydd rhwng rhanddeiliaid a datblygwyr, yn adeiladu prosiectau o amgylch unigolion cymhellol, ac yn gwerthfawrogi cyfathrebu wyneb yn wyneb. Maent yn cadw'r ddolen adborth yn fyr ac yn gofalu am ansawdd. Maent yn wahanol yn yr hyn y maent yn ei bwysleisio. Mae rhai, fel Rhaglennu Eithafol, yn canolbwyntio ar arferion peirianneg, ac eraill, fel Scrum a Kanban, yn canolbwyntio ar sut y rheolir gwaith.
 
 ### Hanes byr
 

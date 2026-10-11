@@ -16,7 +16,7 @@ The evidence needs a careful reading. The [Wikipedia article on agile software d
 
 "Agile software development" is an umbrella term. The Wikipedia article describes it as covering approaches that grew from the values and principles agreed in 2001 by 17 practitioners (see Topic 1.1 — Agile Manifesto and Topic 1.2 — Agile Principles). A capital-A "Agile" is often used for the practices that grew from that mindset, and a lowercase "agile" for the quality of being able to adapt. The distinction is not strict, and you will hear both.
 
-Agile methods share a few traits. They practice continuous software delivery, they deliver increments of working software, they keep communication short and direct, they shorten the feedback loop, and they care about quality. They differ in what they emphasize. Some, such as Extreme Programming, focus on engineering practices, and others, such as Scrum and Kanban, focus on how work is managed.
+Agile methods aim for continuous software delivery. They welcome changing requirements, even late in development, and they release working software frequently. They emphasize close daily collaboration between stakeholders and developers, build projects around motivated individuals, and value face-to-face communication. They keep the feedback loop short and care about quality. They differ in what they emphasize. Some, such as Extreme Programming, focus on engineering practices, and others, such as Scrum and Kanban, focus on how work is managed.
 
 ### A short history
 
