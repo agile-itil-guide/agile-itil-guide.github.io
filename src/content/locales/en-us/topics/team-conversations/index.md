@@ -45,7 +45,7 @@ The site describes the format as using the least structure necessary, and it doe
 
 ### Retrospectives
 
-The Wikipedia article on retrospectives describes a retrospective as a project team meeting held at the end of a project or process, often after an iteration, in which the team discusses what went well, what could be improved, and how to apply the lessons. The Scrum Guide's Sprint Retrospective is when the team inspects how it worked, including people, processes, tools, and its definition of done, and plans improvements; the guide gives three hours as the limit for a one-month Sprint. The article gives no agenda, so for structure, see the agile reflection skill and the section on continual improvement. Whatever the structure, the test is that each retrospective ends with a small number of owned actions that are checked next time.
+The Wikipedia article on retrospectives describes a retrospective as a project team meeting held at the end of a project or process, often after a period of continuous software delivery, in which the team discusses what went well, what could be improved, and how to apply the lessons. The Scrum Guide's Sprint Retrospective is when the team inspects how it worked, including people, processes, tools, and its definition of done, and plans improvements; the guide gives three hours as the limit for a one-month Sprint. The article gives no agenda, so for structure, see the agile reflection skill and the section on continual improvement. Whatever the structure, the test is that each retrospective ends with a small number of owned actions that are checked next time.
 
 ### Liftoffs, charters, and working agreements
 

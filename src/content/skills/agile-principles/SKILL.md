@@ -46,7 +46,7 @@ exactly while violating the principles it's meant to serve.
   demo of a mock, or a percentage-complete estimate.
 - **2** is about welcoming change rather than merely tolerating it — a
   process that treats a changed requirement as a problem to be managed
-  hasn't adopted this principle even if it calls its iterations "sprints."
+  hasn't adopted this principle even if it works in "sprints."
 - **4, 6** are about communication bandwidth — daily business/developer
   contact and face-to-face conversation are given as the *most* efficient
   channel, which is a claim about information loss in written specs and

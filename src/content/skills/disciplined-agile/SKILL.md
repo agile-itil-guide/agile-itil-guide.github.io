@@ -42,7 +42,7 @@ every team should look like a Scrum team:
   agreement, and stand up the team, before construction begins — DA is
   explicit that skipping real inception work (treating it as a
   formality) is a common source of later rework.
-- **Construction** — iteratively build the solution, using whichever
+- **Construction** — build the solution through continuous software delivery, using whichever
   lifecycle and practices the team has chosen.
 - **Transition** — release the solution into production, covering the
   deployment, training, and support handoff work that a lifecycle

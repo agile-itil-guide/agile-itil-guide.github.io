@@ -10,7 +10,7 @@ Wikipedia 链接指向英文维基百科。本术语表有待精通中文的读�
 
 **ADKAR** — 由 Jeff Hiatt 为 Prosci 提出的变革模型，包含认知、意愿、知识、能力和巩固五个要素。*[Wikipedia](https://en.wikipedia.org/wiki/ADKAR)* — 参见 主题 5.8 — 组织变革与采纳。
 
-**敏捷（Agile，敏捷软件开发）** — 一类迭代方法的统称，以小步交付并从反馈中学习，基于 2001 年达成一致的价值观和原则。*[Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development)* — 参见 主题 1.3 — 敏捷软件开发。
+**敏捷（Agile，敏捷软件开发）** — 一类持续软件交付方法的统称，以小步交付并从反馈中学习，基于 2001 年达成一致的价值观和原则。*[Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development)* — 参见 主题 1.3 — 敏捷软件开发。
 
 **敏捷学习（Agile learning）** — 把敏捷项目方法（尤其是 Scrum）用于学习：学习与实践交替的短周期，配有发起人、教练和团队。*[Wikipedia](https://en.wikipedia.org/wiki/Agile_learning)* — 参见 主题 1.10 — 敏捷学习。
 
@@ -232,7 +232,7 @@ Wikipedia 链接指向英文维基百科。本术语表有待精通中文的读�
 
 **检索增强生成（Retrieval-augmented generation，RAG）** — 让语言模型在回答前查阅外部来源，使其输出有据可依。*[Wikipedia](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)* — 参见 主题 6.2 — AI 在 IT 服务管理中的应用。
 
-**回顾会议（Retrospective）** — 团队会议，常在迭代结束时召开，回看哪些做得好、哪些可以改进，以及如何应用所学。*[Wikipedia](https://en.wikipedia.org/wiki/Retrospective)* — 参见 主题 6.1 — 团队对话。
+**回顾会议（Retrospective）** — 团队会议，常在一段持续软件交付之后召开，回看哪些做得好、哪些可以改进，以及如何应用所学。*[Wikipedia](https://en.wikipedia.org/wiki/Retrospective)* — 参见 主题 6.1 — 团队对话。
 
 **风险登记册（Risk register）** — 已识别风险的记录，包含描述、评估、负责人、处理措施和状态。— 参见 主题 5.7 — 治理、风险与合规。
 

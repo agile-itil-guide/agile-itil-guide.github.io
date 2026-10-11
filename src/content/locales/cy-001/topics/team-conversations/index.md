@@ -45,7 +45,7 @@ Mae'r wefan yn disgrifio'r fformat fel un sy'n defnyddio'r lleiaf o strwythur sy
 
 ### Ôl-drafodaethau
 
-Mae'r erthygl Wikipedia ar ôl-drafodaethau yn disgrifio ôl-drafodaeth fel cyfarfod tîm prosiect a gynhelir ar ddiwedd prosiect neu broses, yn aml ar ôl iteriad, lle mae'r tîm yn trafod beth aeth yn dda, beth ellid ei wella, a sut i gymhwyso'r gwersi. Ôl-drafodaeth Sbrint y Scrum Guide yw pan fo'r tîm yn archwilio sut y gweithiodd, gan gynnwys pobl, prosesau, offer a'i ddiffiniad o orffen, ac yn cynllunio gwelliannau; mae'r canllaw yn rhoi tair awr fel y terfyn ar gyfer Sbrint un mis. Nid yw'r erthygl yn rhoi agenda, felly am strwythur, gweler y sgil agile reflection a'r adran ar welliant parhaus. Beth bynnag fo'r strwythur, y prawf yw bod pob ôl-drafodaeth yn gorffen gyda nifer fach o weithredoedd a berchnogir sy'n cael eu gwirio y tro nesaf.
+Mae'r erthygl Wikipedia ar ôl-drafodaethau yn disgrifio ôl-drafodaeth fel cyfarfod tîm prosiect a gynhelir ar ddiwedd prosiect neu broses, yn aml ar ôl cyfnod o gyflawni meddalwedd yn barhaus, lle mae'r tîm yn trafod beth aeth yn dda, beth ellid ei wella, a sut i gymhwyso'r gwersi. Ôl-drafodaeth Sbrint y Scrum Guide yw pan fo'r tîm yn archwilio sut y gweithiodd, gan gynnwys pobl, prosesau, offer a'i ddiffiniad o orffen, ac yn cynllunio gwelliannau; mae'r canllaw yn rhoi tair awr fel y terfyn ar gyfer Sbrint un mis. Nid yw'r erthygl yn rhoi agenda, felly am strwythur, gweler y sgil agile reflection a'r adran ar welliant parhaus. Beth bynnag fo'r strwythur, y prawf yw bod pob ôl-drafodaeth yn gorffen gyda nifer fach o weithredoedd a berchnogir sy'n cael eu gwirio y tro nesaf.
 
 ### Codi i'r awyr, siarteri a chytundebau gweithio
 

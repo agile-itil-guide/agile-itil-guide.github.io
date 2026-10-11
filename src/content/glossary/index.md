@@ -10,7 +10,7 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **ADKAR** — A change model of awareness, desire, knowledge, ability, and reinforcement developed by Jeff Hiatt for Prosci. *[Wikipedia](https://en.wikipedia.org/wiki/ADKAR)* — See Topic 5.8 — Organizational Change and Adoption.
 
-**Agile (agile software development)** — An umbrella term for iterative approaches that deliver in small steps and learn from feedback, based on the values and principles agreed in 2001. *[Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development)* — See Topic 1.3 — Agile Software Development.
+**Agile (agile software development)** — An umbrella term for approaches to continuous software delivery that deliver in small steps and learn from feedback, based on the values and principles agreed in 2001. *[Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development)* — See Topic 1.3 — Agile Software Development.
 
 **Agile learning** — Applying agile project methods, especially Scrum, to learning: short cycles that alternate learning and doing, with a sponsor, a coach, and a team. *[Wikipedia](https://en.wikipedia.org/wiki/Agile_learning)* — See Topic 1.10 — Agile Learning.
 
@@ -232,7 +232,7 @@ Entries are added by each topic's author in the same commit as the topic. The re
 
 **Retrieval-augmented generation (RAG)** — Letting a language model consult external sources before answering, to ground its output. *[Wikipedia](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)* — See Topic 6.2 — AI in IT Service Management.
 
-**Retrospective** — A team meeting, often at the end of an iteration, that looks at what went well, what could be improved, and how to apply the lessons. *[Wikipedia](https://en.wikipedia.org/wiki/Retrospective)* — See Topic 6.1 — Team Conversations.
+**Retrospective** — A team meeting, often after a period of continuous software delivery, that looks at what went well, what could be improved, and how to apply the lessons. *[Wikipedia](https://en.wikipedia.org/wiki/Retrospective)* — See Topic 6.1 — Team Conversations.
 
 **Risk register** — A record of identified risks with description, assessment, owner, treatment, and status. — See Topic 5.7 — Governance, Risk, and Compliance.
 

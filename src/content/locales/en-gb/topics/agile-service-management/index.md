@@ -31,7 +31,7 @@ Thinking this way changes the questions. Not "have we implemented the change pro
 |---|---|---|
 | **Product owner** | Orders the backlog and is accountable for value | The process owner, who decides what to improve next and why |
 | **Developers / team** | Build the increment | The people who design and run the process, ideally including users from delivery and operations |
-| **Scrum Master or coach** | Helps the team apply the framework and removes impediments | A coach who helps the team work iteratively and gather feedback |
+| **Scrum Master or coach** | Helps the team apply the framework and removes impediments | A coach who helps the team practise continuous software delivery and gather feedback |
 | **Stakeholders** | Review the increment and give feedback | Delivery teams, the service desk, auditors, customers |
 
 The mapping is this guide's, not a standard. Process owners in many organisations lack authority or time, so the first step is often to give them both.
@@ -40,7 +40,7 @@ The mapping is this guide's, not a standard. Process owners in many organisation
 
 Improvement ideas for a process come from many places: incident reviews, retrospectives, audit findings, user complaints, and metrics (see Topic 3.15 — Continual Improvement). A process backlog collects them in one ordered list. Items are small and described from the user's view: "As a developer, I want low-risk changes to be approved automatically so that I can release when ready." The product owner orders the list by value and effort, and the team takes items into short cycles.
 
-### Iterative design
+### Continuous software delivery of process changes
 
 Instead of designing a full process and rolling it out, design the smallest version that could work, try it with a few users, and learn:
 
@@ -76,7 +76,7 @@ Practices from DevOps, such as automation and pipelines, are tools for implement
 
 ### Limits
 
-The approach assumes people have time and mandate to improve process, which is not always true. It can fail when process ownership is nominal, when stakeholders demand a finished design before they will try anything, or when every change needs a long approval. It also risks constant churn if changes are too frequent for people to absorb. Balance iteration with stability: change on a predictable rhythm.
+The approach assumes people have time and mandate to improve process, which is not always true. It can fail when process ownership is nominal, when stakeholders demand a finished design before they will try anything, or when every change needs a long approval. It also risks constant churn if changes are too frequent for people to absorb. Balance continuous delivery of change with stability: change on a predictable rhythm.
 
 ## Best practices
 
@@ -111,7 +111,7 @@ Ask for examples. If there are none, ask where complaints go. Discuss how feedba
 
 Choose a process with known friction. Describe a lighter version, who would try it, what you would measure, and what would make you stop. This turns an argument into an experiment. Agree on the details and the date.
 
-**What evidence would our auditors accept from an iterative process?**
+**What evidence would our auditors accept from a process of continuous software delivery?**
 
 Ask an auditor or compliance colleague. List what the process produces: a backlog, release notes, measures, records. Discuss gaps. Teams are often surprised by how willing auditors are to accept clear evidence of controlled change.
 

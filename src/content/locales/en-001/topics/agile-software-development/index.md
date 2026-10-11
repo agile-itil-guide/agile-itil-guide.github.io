@@ -1,6 +1,6 @@
 # Agile Software Development
 
-**Agile software development is a family of iterative methods that deliver in small steps and learn from feedback, and the practices it has produced, such as automated testing and continuous integration, are the practical foundation for running changing services safely.**
+**Agile software development is a family of methods for continuous software delivery that deliver in small steps and learn from feedback, and the practices it has produced, such as automated testing and continuous integration, are the practical foundation for running changing services safely.**
 
 ## Why this matters
 
@@ -16,7 +16,7 @@ The evidence needs a careful reading. The [Wikipedia article on agile software d
 
 "Agile software development" is an umbrella term. The Wikipedia article describes it as covering approaches that grew from the values and principles agreed in 2001 by 17 practitioners (see Topic 1.1 — Agile Manifesto and Topic 1.2 — Agile Principles). A capital-A "Agile" is often used for the practices that grew from that mindset, and a lowercase "agile" for the quality of being able to adapt. The distinction is not strict, and you will hear both.
 
-Agile methods share a few traits. They work in iterations, they deliver increments of working software, they keep communication short and direct, they shorten the feedback loop, and they care about quality. They differ in what they emphasize. Some, such as Extreme Programming, focus on engineering practices, and others, such as Scrum and Kanban, focus on how work is managed.
+Agile methods share a few traits. They practise continuous software delivery, they deliver increments of working software, they keep communication short and direct, they shorten the feedback loop, and they care about quality. They differ in what they emphasize. Some, such as Extreme Programming, focus on engineering practices, and others, such as Scrum and Kanban, focus on how work is managed.
 
 ### A short history
 
@@ -36,11 +36,11 @@ The article lists many methods. Those you are most likely to meet:
 
 | Method | Main emphasis | Covered in |
 |---|---|---|
-| Scrum | Time-boxed iterations (sprints), defined roles, and regular events | Topic 1.4 — Scrum |
+| Scrum | Continuous software delivery in time-boxed sprints, defined roles, and regular events | Topic 1.4 — Scrum |
 | Kanban | Visualizing work and limiting how much is in progress | Topic 1.5 — Kanban |
 | Extreme Programming (XP) | Engineering practices such as pair programming and test-driven development | Topic 1.6 — Extreme Programming |
 | Lean software development | Applying lean ideas, such as removing waste, to software | Topic 1.7 — Lean Software Development |
-| Feature-driven development, DSDM, Crystal, and adaptive software development | Other lightweight or iterative methods with their own roles and practices | This topic |
+| Feature-driven development, DSDM, Crystal, and adaptive software development | Other lightweight methods of continuous software delivery with their own roles and practices | This topic |
 | Scrumban | A mix of Scrum events and Kanban flow | Topic 1.4 — Scrum and Topic 1.5 — Kanban |
 
 No method is "the" agile method. The article quotes Ken Schwaber's view that teams get into trouble by hunting for a perfect methodology when the enterprise itself needs to change, and Bas Vodde's suggestion that Scrum supplies basics that teams extend locally.
@@ -76,7 +76,7 @@ Steven Rakitin, in a letter to *IEEE Computer* in 2001, called agile "yet anothe
 
 ## Best practices
 
-1. **Match the method to the kind of work.** Use short iterations and frequent feedback where requirements change, and use more up-front planning where they are fixed and the cost of error is high. Decide this for each kind of work and review it when circumstances change.
+1. **Match the method to the kind of work.** Use continuous software delivery and frequent feedback where requirements change, and use more up-front planning where they are fixed and the cost of error is high. Decide this for each kind of work and review it when circumstances change.
 2. **Start with the smallest useful batch.** Break work into pieces that can be built, tested, and released in days. Small batches give faster feedback and make a failed change easier to understand and reverse.
 3. **Automate testing before you speed up releases.** Frequent releases without automated tests move risk to your users. Build a suite that runs on every change and fails loudly, and treat a broken build as the team's first priority.
 4. **Integrate continuously.** Merge work to a shared branch often and build it automatically. Long-lived branches hide conflicts until they are expensive to fix.
@@ -156,7 +156,7 @@ Customers see the benefit of agile methods as visible improvement at a steady rh
 
 | Dimension | Initiate | Develop | Standardize | Manage | Orchestrate |
 |---|---|---|---|---|---|
-| Iterative delivery | Work is delivered in large releases | Some teams deliver in short iterations | Teams share a common iteration length and a definition of done | Lead time and release outcomes are measured and reviewed | Release rhythms are coordinated across teams and suppliers |
+| Continuous software delivery | Work is delivered in large releases | Some teams deliver in short cycles | Teams share a common delivery cadence and a definition of done | Lead time and release outcomes are measured and reviewed | Release rhythms are coordinated across teams and suppliers |
 | Engineering practices | Testing and builds are mostly manual | Some teams have automated tests and builds | A shared pipeline runs tests on every change | Test coverage and failure rates are tracked and gaps are fixed | Pipelines and practices are improved across teams from shared evidence |
 | Backlog and prioritization | Requests arrive by email and ad hoc | Teams keep their own backlogs | Each team has one ordered backlog that includes service work | Backlog flow and age are reviewed with stakeholders | Priorities are aligned across teams, customers, and suppliers |
 | Learning and adaptation | Reviews follow major failures only | Some teams hold retrospectives | All teams hold regular retrospectives and record actions | Actions are tracked to completion and effects are checked | Lessons move between teams and into policy without central direction |

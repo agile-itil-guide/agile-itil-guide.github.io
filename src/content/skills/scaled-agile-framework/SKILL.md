@@ -39,7 +39,7 @@ organization's size and complexity:
   the ART's events and processes, roughly analogous to a Scrum Master's
   role but scoped to the whole train rather than one team.
 - **System Demo** — a demonstration of the *integrated* work of all teams
-  on the train at the end of each iteration, showing the combined
+  on the train at the end of each delivery increment, showing the combined
   solution rather than each team's work in isolation.
 - **Inspect and Adapt (I&A)** — a train-level retrospective, held at the
   end of each PI, examining the train's overall performance and process,

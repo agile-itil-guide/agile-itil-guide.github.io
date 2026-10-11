@@ -31,7 +31,7 @@ Mae meddwl fel hyn yn newid y cwestiynau. Nid "a ydym wedi gweithredu'r broses n
 |---|---|---|
 | **Perchennog cynnyrch** | Yn trefnu'r ôl-groniad ac yn atebol am werth | Perchennog y broses, sy'n penderfynu beth i'w wella nesaf a pham |
 | **Datblygwyr / tîm** | Yn adeiladu'r cynyddran | Y bobl sy'n dylunio ac yn rhedeg y broses, yn ddelfrydol gan gynnwys defnyddwyr o gyflawni a gweithrediadau |
-| **Meistr Scrum neu hyfforddwr** | Yn helpu'r tîm i gymhwyso'r fframwaith ac yn tynnu rhwystrau | Hyfforddwr sy'n helpu'r tîm i weithio'n ailadroddol a chasglu adborth |
+| **Meistr Scrum neu hyfforddwr** | Yn helpu'r tîm i gymhwyso'r fframwaith ac yn tynnu rhwystrau | Hyfforddwr sy'n helpu'r tîm i gyflawni meddalwedd yn barhaus a chasglu adborth |
 | **Rhanddeiliaid** | Yn adolygu'r cynyddran ac yn rhoi adborth | Timau cyflawni, y ddesg gwasanaeth, archwilwyr, cwsmeriaid |
 
 Mapio'r canllaw hwn yw hwn, nid safon. Nid oes gan berchnogion prosesau mewn llawer o sefydliadau awdurdod nac amser, felly'r cam cyntaf yn aml yw rhoi'r ddau iddynt.
@@ -40,7 +40,7 @@ Mapio'r canllaw hwn yw hwn, nid safon. Nid oes gan berchnogion prosesau mewn lla
 
 Daw syniadau gwella ar gyfer proses o lawer o leoedd: adolygiadau digwyddiadau, ôl-drafodaethau, canfyddiadau archwilio, cwynion defnyddwyr a metrigau (gweler Pwnc 3.15 — Gwelliant Parhaus). Mae ôl-groniad proses yn eu casglu i un rhestr drefnus. Mae eitemau'n fach ac wedi'u disgrifio o safbwynt y defnyddiwr: "Fel datblygwr, rwyf eisiau i newidiadau risg isel gael eu cymeradwyo'n awtomatig fel y gallaf ryddhau pan fyddaf yn barod." Mae perchennog y cynnyrch yn trefnu'r rhestr yn ôl gwerth ac ymdrech, ac mae'r tîm yn cymryd eitemau i gylchoedd byr.
 
-### Dylunio ailadroddol
+### Cyflawni meddalwedd yn barhaus ar gyfer newidiadau proses
 
 Yn lle dylunio proses lawn a'i chyflwyno, dyluniwch y fersiwn leiaf a allai weithio, rhowch gynnig arni gydag ychydig o ddefnyddwyr, a dysgwch:
 
@@ -76,7 +76,7 @@ Offer ar gyfer gweithredu prosesau yw arferion o DevOps, fel awtomeiddio a phibl
 
 ### Terfynau
 
-Mae'r dull yn tybio bod gan bobl amser a mandad i wella proses, nad yw bob amser yn wir. Gall fethu pan fo perchnogaeth proses yn enwol, pan fo rhanddeiliaid yn mynnu dyluniad gorffenedig cyn y rhoddant gynnig ar ddim, neu pan fo angen cymeradwyaeth hir ar bob newid. Mae hefyd yn peryglu newid cyson os yw newidiadau'n rhy aml i bobl eu hamsugno. Cydbwyswch ailadrodd â sefydlogrwydd: newidiwch ar rythm rhagweladwy.
+Mae'r dull yn tybio bod gan bobl amser a mandad i wella proses, nad yw bob amser yn wir. Gall fethu pan fo perchnogaeth proses yn enwol, pan fo rhanddeiliaid yn mynnu dyluniad gorffenedig cyn y rhoddant gynnig ar ddim, neu pan fo angen cymeradwyaeth hir ar bob newid. Mae hefyd yn peryglu newid cyson os yw newidiadau'n rhy aml i bobl eu hamsugno. Cydbwyswch gyflawni newid yn barhaus â sefydlogrwydd: newidiwch ar rythm rhagweladwy.
 
 ## Arferion gorau
 
@@ -111,7 +111,7 @@ Gofynnwch am enghreifftiau. Os nad oes rhai, gofynnwch i ble mae cwynion yn mynd
 
 Dewiswch broses â ffrithiant hysbys. Disgrifiwch fersiwn ysgafnach, pwy fyddai'n rhoi cynnig arni, beth fyddech yn ei fesur, a beth fyddai'n gwneud i chi stopio. Mae hyn yn troi dadl yn arbrawf. Cytunwch ar y manylion a'r dyddiad.
 
-**Pa dystiolaeth fyddai ein harchwilwyr yn ei derbyn o broses ailadroddol?**
+**Pa dystiolaeth fyddai ein harchwilwyr yn ei derbyn o broses o gyflawni meddalwedd yn barhaus?**
 
 Gofynnwch i archwilydd neu gydweithiwr cydymffurfio. Rhestrwch yr hyn y mae'r broses yn ei gynhyrchu: ôl-groniad, nodiadau rhyddhau, mesurau, cofnodion. Trafodwch fylchau. Mae timau'n aml yn synnu pa mor barod yw archwilwyr i dderbyn tystiolaeth glir o newid rheoledig.
 

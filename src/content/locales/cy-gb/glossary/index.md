@@ -10,7 +10,7 @@ Mae'r dolenni Wikipedia yn mynd i'r Wikipedia Saesneg. Mae'r Eirfa hon yn cael e
 
 **ADKAR** — Model newid o ymwybyddiaeth, awydd, gwybodaeth, gallu a chadarnhau, a ddatblygwyd gan Jeff Hiatt i Prosci. *[Wikipedia](https://en.wikipedia.org/wiki/ADKAR)* — Gweler Pwnc 5.8 — Newid Sefydliadol a Mabwysiadu.
 
-**Ystwyth (Agile; datblygu meddalwedd ystwyth)** — Term ymbarél am ddulliau ailadroddus sy'n cyflawni mewn camau bach ac yn dysgu o adborth, yn seiliedig ar y gwerthoedd a'r egwyddorion y cytunwyd arnynt yn 2001. *[Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development)* — Gweler Pwnc 1.3 — Datblygu Meddalwedd Ystwyth.
+**Ystwyth (Agile; datblygu meddalwedd ystwyth)** — Term ymbarél am ddulliau o gyflawni meddalwedd yn barhaus sy'n cyflawni mewn camau bach ac yn dysgu o adborth, yn seiliedig ar y gwerthoedd a'r egwyddorion y cytunwyd arnynt yn 2001. *[Wikipedia](https://en.wikipedia.org/wiki/Agile_software_development)* — Gweler Pwnc 1.3 — Datblygu Meddalwedd Ystwyth.
 
 **Dysgu ystwyth (Agile learning)** — Cymhwyso dulliau prosiect ystwyth, yn enwedig Scrum, at ddysgu: cylchoedd byr sy'n cyfnewid rhwng dysgu a gwneud, gyda noddwr, hyfforddwr a thîm. *[Wikipedia](https://en.wikipedia.org/wiki/Agile_learning)* — Gweler Pwnc 1.10 — Dysgu Ystwyth.
 
@@ -232,7 +232,7 @@ Mae'r dolenni Wikipedia yn mynd i'r Wikipedia Saesneg. Mae'r Eirfa hon yn cael e
 
 **Cynhyrchu a ategir gan adalw (Retrieval-augmented generation, RAG)** — Gadael i fodel iaith ymgynghori â ffynonellau allanol cyn ateb, i seilio ei allbwn. *[Wikipedia](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)* — Gweler Pwnc 6.2 — AI mewn Rheoli Gwasanaethau TG.
 
-**Ôl-drafodaeth (Retrospective)** — Cyfarfod tîm, yn aml ar ddiwedd iteriad, sy'n edrych ar yr hyn a aeth yn dda, yr hyn y gellid ei wella a sut i gymhwyso'r gwersi. *[Wikipedia](https://en.wikipedia.org/wiki/Retrospective)* — Gweler Pwnc 6.1 — Sgyrsiau Tîm.
+**Ôl-drafodaeth (Retrospective)** — Cyfarfod tîm, yn aml ar ôl cyfnod o gyflawni meddalwedd yn barhaus, sy'n edrych ar yr hyn a aeth yn dda, yr hyn y gellid ei wella a sut i gymhwyso'r gwersi. *[Wikipedia](https://en.wikipedia.org/wiki/Retrospective)* — Gweler Pwnc 6.1 — Sgyrsiau Tîm.
 
 **Cofrestr risg (Risk register)** — Cofnod o risgiau a nodwyd gyda disgrifiad, asesiad, perchennog, triniaeth a statws. — Gweler Pwnc 5.7 — Llywodraethu, Risg a Chydymffurfio.
 

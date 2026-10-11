@@ -1,6 +1,6 @@
 # Datblygu Meddalwedd Ystwyth
 
-**Mae datblygu meddalwedd ystwyth yn deulu o ddulliau ailadroddol sy'n cyflawni mewn camau bach ac yn dysgu o adborth. Mae'r arferion y mae wedi'u cynhyrchu, fel profi awtomataidd ac integreiddio parhaus, yn sylfaen ymarferol ar gyfer rhedeg gwasanaethau sy'n newid yn ddiogel.**
+**Mae datblygu meddalwedd ystwyth yn deulu o ddulliau cyflawni meddalwedd yn barhaus sy'n cyflawni mewn camau bach ac yn dysgu o adborth. Mae'r arferion y mae wedi'u cynhyrchu, fel profi awtomataidd ac integreiddio parhaus, yn sylfaen ymarferol ar gyfer rhedeg gwasanaethau sy'n newid yn ddiogel.**
 
 ## Pam mae hyn yn bwysig
 
@@ -16,7 +16,7 @@ Mae angen darllen y dystiolaeth yn ofalus. Mae [erthygl Wikipedia ar ddatblygu m
 
 Term ymbarél yw "datblygu meddalwedd ystwyth". Mae erthygl Wikipedia yn ei ddisgrifio fel un sy'n cwmpasu dulliau a dyfodd o'r gwerthoedd a'r egwyddorion y cytunodd 17 o ymarferwyr arnynt yn 2001 (gweler Pwnc 1.1 — Maniffesto Ystwyth a Phwnc 1.2 — Egwyddorion Ystwyth). Defnyddir "Agile" â phrif lythyren yn aml ar gyfer yr arferion a dyfodd o'r meddylfryd hwnnw, a "ystwyth" â llythyren fach ar gyfer y gallu i addasu. Nid yw'r gwahaniaeth yn llym, a byddwch yn clywed y ddau.
 
-Mae gan ddulliau ystwyth ychydig o nodweddion cyffredin. Maent yn gweithio mewn iteriadau, maent yn cyflawni cynyddrannau o feddalwedd sy'n gweithio, maent yn cadw cyfathrebu'n fyr ac yn uniongyrchol, maent yn byrhau'r ddolen adborth, ac maent yn gofalu am ansawdd. Maent yn wahanol yn yr hyn y maent yn ei bwysleisio. Mae rhai, fel Rhaglennu Eithafol, yn canolbwyntio ar arferion peirianneg, ac eraill, fel Scrum a Kanban, yn canolbwyntio ar sut y rheolir gwaith.
+Mae gan ddulliau ystwyth ychydig o nodweddion cyffredin. Maent yn ymarfer cyflawni meddalwedd yn barhaus, maent yn cyflawni cynyddrannau o feddalwedd sy'n gweithio, maent yn cadw cyfathrebu'n fyr ac yn uniongyrchol, maent yn byrhau'r ddolen adborth, ac maent yn gofalu am ansawdd. Maent yn wahanol yn yr hyn y maent yn ei bwysleisio. Mae rhai, fel Rhaglennu Eithafol, yn canolbwyntio ar arferion peirianneg, ac eraill, fel Scrum a Kanban, yn canolbwyntio ar sut y rheolir gwaith.
 
 ### Hanes byr
 
@@ -36,11 +36,11 @@ Mae'r erthygl yn rhestru llawer o ddulliau. Y rhai y byddwch yn debygol o'u cyfa
 
 | Dull | Prif bwyslais | Wedi'i drafod ym |
 |---|---|---|
-| Scrum | Iteriadau â therfyn amser (sbrintiau), rolau diffiniedig a digwyddiadau rheolaidd | Pwnc 1.4 — Scrum |
+| Scrum | Cyflawni meddalwedd yn barhaus mewn sbrintiau â therfyn amser, rolau diffiniedig a digwyddiadau rheolaidd | Pwnc 1.4 — Scrum |
 | Kanban | Gwneud gwaith yn weladwy a chyfyngu faint sydd ar y gweill | Pwnc 1.5 — Kanban |
 | Rhaglennu Eithafol (XP) | Arferion peirianneg fel rhaglennu mewn parau a datblygu a yrrir gan brofion | Pwnc 1.6 — Rhaglennu Eithafol |
 | Datblygu meddalwedd main | Cymhwyso syniadau main, fel dileu gwastraff, at feddalwedd | Pwnc 1.7 — Datblygu Meddalwedd Main |
-| Datblygu a yrrir gan nodweddion, DSDM, Crystal, a datblygu meddalwedd addasol | Dulliau ysgafn neu ailadroddol eraill â'u rolau a'u harferion eu hunain | Y pwnc hwn |
+| Datblygu a yrrir gan nodweddion, DSDM, Crystal, a datblygu meddalwedd addasol | Dulliau ysgafn eraill o gyflawni meddalwedd yn barhaus â'u rolau a'u harferion eu hunain | Y pwnc hwn |
 | Scrumban | Cymysgedd o ddigwyddiadau Scrum a llif Kanban | Pwnc 1.4 — Scrum a Phwnc 1.5 — Kanban |
 
 Nid oes "y" dull ystwyth. Mae'r erthygl yn dyfynnu barn Ken Schwaber bod timau'n mynd i drafferth wrth hela am fethodoleg berffaith pan fo angen i'r fenter ei hun newid, ac awgrym Bas Vodde bod Scrum yn cyflenwi hanfodion y mae timau'n eu hymestyn yn lleol.
@@ -76,7 +76,7 @@ Galwodd Steven Rakitin, mewn llythyr i *IEEE Computer* yn 2001, ystwythder yn "y
 
 ## Arferion gorau
 
-1. **Cydweddwch y dull â'r math o waith.** Defnyddiwch iteriadau byr ac adborth mynych lle mae gofynion yn newid, a defnyddiwch fwy o gynllunio ymlaen llaw lle maent yn sefydlog a chost gwall yn uchel. Penderfynwch hyn ar gyfer pob math o waith a'i adolygu pan fydd amgylchiadau'n newid.
+1. **Cydweddwch y dull â'r math o waith.** Defnyddiwch gyflawni meddalwedd yn barhaus ac adborth mynych lle mae gofynion yn newid, a defnyddiwch fwy o gynllunio ymlaen llaw lle maent yn sefydlog a chost gwall yn uchel. Penderfynwch hyn ar gyfer pob math o waith a'i adolygu pan fydd amgylchiadau'n newid.
 2. **Dechreuwch â'r swp lleiaf defnyddiol.** Rhannwch waith yn ddarnau y gellir eu hadeiladu, eu profi a'u rhyddhau mewn dyddiau. Mae sypiau bach yn rhoi adborth cyflymach ac yn gwneud newid a fethodd yn haws ei ddeall a'i ddadwneud.
 3. **Awtomeiddiwch brofi cyn i chi gyflymu rhyddhadau.** Mae rhyddhadau mynych heb brofion awtomataidd yn symud risg at eich defnyddwyr. Adeiladwch gyfres sy'n rhedeg ar bob newid ac sy'n methu'n uchel, a thrinwch adeiladwaith toredig yn flaenoriaeth gyntaf y tîm.
 4. **Integreiddiwch yn barhaus.** Unwch waith i gangen a rennir yn aml a'i adeiladu'n awtomatig. Mae canghennau hirhoedlog yn cuddio gwrthdaro nes eu bod yn ddrud i'w trwsio.
@@ -156,7 +156,7 @@ Mae cwsmeriaid yn gweld budd dulliau ystwyth fel gwelliant gweladwy ar rythm cys
 
 | Dimensiwn | Cychwyn | Datblygu | Safoni | Rheoli | Cydlynu |
 |---|---|---|---|---|---|
-| Cyflawni ailadroddol | Cyflawnir gwaith mewn rhyddhadau mawr | Mae rhai timau'n cyflawni mewn iteriadau byr | Mae timau'n rhannu hyd iteriad cyffredin a diffiniad o gorffenedig | Mesurir ac adolygir amser arweiniol a chanlyniadau rhyddhau | Cydlynir rhythmau rhyddhau ar draws timau a chyflenwyr |
+| Cyflawni meddalwedd yn barhaus | Cyflawnir gwaith mewn rhyddhadau mawr | Mae rhai timau'n cyflawni mewn cylchoedd byr | Mae timau'n rhannu rhythm cyflawni cyffredin a diffiniad o gorffenedig | Mesurir ac adolygir amser arweiniol a chanlyniadau rhyddhau | Cydlynir rhythmau rhyddhau ar draws timau a chyflenwyr |
 | Arferion peirianneg | Mae profi ac adeiladu'n bennaf â llaw | Mae gan rai timau brofion ac adeiladwaith awtomataidd | Mae piblinell a rennir yn rhedeg profion ar bob newid | Olrheinir cwmpas profion a chyfraddau methu a thrwsir bylchau | Gwellir piblinellau ac arferion ar draws timau o dystiolaeth a rennir |
 | Ôl-groniad a blaenoriaethu | Mae ceisiadau'n cyrraedd trwy e-bost ac yn ad hoc | Mae timau'n cadw eu hôl-groniadau eu hunain | Mae gan bob tîm un ôl-groniad trefnus sy'n cynnwys gwaith gwasanaeth | Adolygir llif ac oedran yr ôl-groniad gyda rhanddeiliaid | Alinir blaenoriaethau ar draws timau, cwsmeriaid a chyflenwyr |
 | Dysgu ac addasu | Dim ond ar ôl methiannau mawr y cynhelir adolygiadau | Mae rhai timau'n cynnal ôl-drafodaethau | Mae pob tîm yn cynnal ôl-drafodaethau rheolaidd ac yn cofnodi gweithredoedd | Olrheinir gweithredoedd hyd at eu cwblhau a gwirir yr effeithiau | Mae gwersi'n symud rhwng timau ac i bolisi heb gyfarwyddyd canolog |
