@@ -3,12 +3,11 @@
   import { goto } from '$app/navigation';
   import { DEFAULT_LOCALE, isLocale, localeForLanguageTag } from '#lib/book.js';
   import { _ } from '#lib/i18n.js';
-  import { sectionPath } from '#lib/segments.js';
 
   /** Where the header locale picker remembers a reader's own choice. */
   const LOCALE_STORAGE_KEY = 'agile-itil-guide-locale';
 
-  const fallback = sectionPath(DEFAULT_LOCALE, 'contents');
+  const fallback = `/${DEFAULT_LOCALE}/`;
 
   /**
    * The locale this reader should land in: one they chose with the picker
@@ -34,7 +33,7 @@
   // (`/?<target>`) is a site search handled by SearchGate in the layout, so it
   // must not be redirected away.
   onMount(() => {
-    if (!location.search) goto(sectionPath(preferredLocale(), 'contents'), { replaceState: true });
+    if (!location.search) goto(`/${preferredLocale()}/`, { replaceState: true });
   });
 </script>
 
