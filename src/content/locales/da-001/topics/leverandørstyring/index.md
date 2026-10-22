@@ -44,7 +44,7 @@ Artiklen om service integration and management (SIAM) beskriver en tilgang til a
 
 Artiklen opregner fire modeller for integratoren (intern, hovedleverandør, ekstern og hybrid) og tre lag: kundeorganisationen, serviceintegratoren og serviceudbyderne. Den siger, at SIAM opstod omkring 2005 i den britiske offentlige sektor, først designet til Department for Work and Pensions, og opregner milepæle som en vidensbase i 2016 og revisioner i 2019 for COBIT 2019 og ITIL 4. Den bemærker, at ITIL giver et fundament og et fælles sprog til at arbejde med leverandører, men ikke behandler miljøer med flere leverandører i dybden. Implementeringsudfordringer, den opregner, omfatter uafstemte serviceniveauaftaler, udbydere der giver hinanden skylden, uklart ejerskab af grundårsagsbeslutninger og kommunikationshuller.
 
-Få agile teams har brug for en formel SIAM, men lærestregerne er nyttige: når flere parter bidrager til én service, må nogen eje helheden, aftale hvordan problemer håndteres på tværs af grænser og holde leverandørernes serviceniveauer konsistente med hinanden.
+Få agile teams har brug for en formel SIAM, men pointerne er nyttige: når flere parter bidrager til én service, må nogen eje helheden, aftale hvordan problemer håndteres på tværs af grænser og holde leverandørernes serviceniveauer konsistente med hinanden.
 
 ### Kontrakter og agilitet
 

@@ -58,7 +58,7 @@ Et praktisk princip, udbredt i servicedeske, er at fange viden som en del af arb
 
 ### Kritik og grænser
 
-Artiklen registrerer kritik: at den praktiske relevans af akademisk KM-forskning er blevet draget i tvivl, at skellet mellem stiltiende og eksplicit viden er blevet kritiseret, at incitamenters effektivitet er omstridt, og at beskyttelse af viden indebærer risici som overbeskyttelse og tilegnelse. Den rapporterer ingen målt evidens for KM's effektivitet eller investeringsafkast. For et serviceteam er lærestregen beskeden ambition: start med den viden, hvis fravær har skadet, mål om den bliver brugt, og drop det, der ikke gør.
+Artiklen registrerer kritik: at den praktiske relevans af akademisk KM-forskning er blevet draget i tvivl, at skellet mellem stiltiende og eksplicit viden er blevet kritiseret, at incitamenters effektivitet er omstridt, og at beskyttelse af viden indebærer risici som overbeskyttelse og tilegnelse. Den rapporterer ingen målt evidens for KM's effektivitet eller investeringsafkast. For et serviceteam er pointen beskeden ambition: start med den viden, hvis fravær har skadet, mål om den bliver brugt, og drop det, der ikke gør.
 
 ### Viden og organisatorisk læring
 

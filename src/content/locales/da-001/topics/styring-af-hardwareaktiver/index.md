@@ -54,7 +54,7 @@ Artiklen er mærket som i behov af henvisninger, og nogle påstande er markeret.
 
 Wikipedia-artiklen om elektronisk affald definerer det som kasserede elektriske eller elektroniske enheder, inklusive ting bestemt til genbrug, videresalg, redning, genanvendelse eller bortskaffelse. Den rapporterer omkring 62 millioner ton genereret globalt i 2022, op 82 procent fra 2010, hvor kun 22,3 procent formelt blev indsamlet og genanvendt ifølge en undersøgelse fra 2024; den henviser også til andre tal, der modsiger, og bærer vedligeholdelsesmærker for ubekræftede påstande, så tjek tal mod primære kilder, før du citerer dem. Den beskriver farer fra materialer som bly, cadmium, kviksølv og flammehæmmere og fra uformel behandling, med eksempler fra Guiyu i Kina og Agbogbloshie i Ghana. Den bemærker, at Basel-konventionen, vedtaget i marts 1989, regulerer grænseoverskridende transport af farligt affald, og at certificerede genanvendere under ordninger som R2 og E-Stewards skal ødelægge alle data lagret på elektronik. Genbrug forlænger enheders levetid og udsætter genanvendelse.
 
-For en organisation er lærestregerne praktiske: vælg bortskaffelsespartnere, der er certificerede og kan vise, hvor enheder ender, foretræk genbrug, hvor det er sikkert, og før registre. Love om elektronisk affald varierer efter land og region; spørg jeres complianceafdeling, hvilke der gælder.
+For en organisation er pointerne praktiske: vælg bortskaffelsespartnere, der er certificerede og kan vise, hvor enheder ender, foretræk genbrug, hvor det er sikkert, og før registre. Love om elektronisk affald varierer efter land og region; spørg jeres complianceafdeling, hvilke der gælder.
 
 ### Hardware og servicestyring
 
@@ -83,7 +83,7 @@ Agile teams behandler hardware som en begrænsning at designe omkring, ikke hove
 
 **Hvis vi talte hver enhed, vi ejer i dag, ville vi matche registeret?**
 
-Vælg en etage, et team eller et lager, og lav en hurtig optælling mod registeret. Forskellene er lærestregen. Spørg, hvilke uoverensstemmelser der betyder mest: enheder med data på, enheder der ikke er opdateret. Facilitatoren kan spørge, hvad der forhindrer folk i at opdatere registeret i ændringens øjeblik. Vælg én proces, der skal strammes.
+Vælg en etage, et team eller et lager, og lav en hurtig optælling mod registeret. Forskellene er pointen. Spørg, hvilke uoverensstemmelser der betyder mest: enheder med data på, enheder der ikke er opdateret. Facilitatoren kan spørge, hvad der forhindrer folk i at opdatere registeret i ændringens øjeblik. Vælg én proces, der skal strammes.
 
 **Hvad gør vi med en bærbar, når nogen rejser?**
 
