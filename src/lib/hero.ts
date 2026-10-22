@@ -20,6 +20,11 @@ export const HERO: Record<string, Record<string, string>> = {
   "intro": "Cyflwynir ffyrdd gweithio ystwyth a rheoli gwasanaethau TG, fel y'u codeiddir gan ITIL, yn aml fel cystadleuwyr. Mae'r canllaw hwn yn eu trin fel partneriaid: mae pob pwnc yn dangos sut i gyfuno cyflymder a newid â sefydlogrwydd a rheolaeth, gydag ymchwil, arferion, enghreifftiau, syniadau i'w trafod gyda thimau, sgiliau AI ac anogiadau AI.",
   "translations": "Cyfieithiadau: "
  },
+ "de-001": {
+  "tagline": "Ein praktisches Handbuch, um IT-Services auf agile Weise zu betreiben.",
+  "intro": "Agile Arbeitsweisen und IT-Service-Management, wie ITIL es festgeschrieben hat, werden oft als Rivalen dargestellt. Dieser Leitfaden behandelt sie als Partner: Jedes Thema zeigt, wie sich Tempo und Veränderung mit Stabilität und Kontrolle verbinden lassen, mit Forschung, Praktiken, Beispielen, Ideen für Gespräche mit Teams, KI-Skills und KI-Prompts.",
+  "translations": "Übersetzungen: "
+ },
  "en-001": {
   "tagline": "A practical handbook for running IT services the agile way.",
   "intro": "Agile ways of working and IT service management, as codified by ITIL, are often presented as rivals. This guide treats them as partners: each topic shows how to combine speed and change with stability and control, with research, practices, examples, ideas to talk about with teams, AI skills, and AI prompts.",
@@ -147,6 +152,7 @@ export const ENDONYMS: Record<string, string> = {
  "bn-001": "বাংলা",
  "cy-001": "Cymraeg",
  "cy-gb": "Cymraeg (Prydain Fawr)",
+ "de-001": "Deutsch",
  "en-001": "English",
  "en-gb": "English (Great Britain)",
  "en-gb-oxendict": "English (Great Britain, Oxford)",

@@ -1,0 +1,121 @@
+{
+  "locale": {
+    "label": "Deutsch (Welt)"
+  },
+  "siteTitle": "Der Agile ITIL Guide",
+  "skipToContent": "Zum Inhalt springen",
+  "nav": {
+    "contents": "Inhalt",
+    "glossary": "Glossar",
+    "index": "Stichwortverzeichnis",
+    "skills": "Skills",
+    "source": "Quellcode"
+  },
+  "picker": {
+    "theme": "Thema",
+    "locale": "Sprache",
+    "textSize": "Textgröße",
+    "share": "Teilen",
+    "search": "Suchen",
+    "searchInput": "Im Leitfaden suchen",
+    "searchSubmit": "Suchen"
+  },
+  "share": {
+    "emailLink": "Link per E-Mail senden",
+    "shareOnLinkedIn": "Auf LinkedIn teilen",
+    "shareOnReddit": "Auf Reddit teilen",
+    "shareOnBluesky": "Auf Bluesky teilen",
+    "shareOnMastodon": "Auf Mastodon teilen",
+    "copyLink": "Link kopieren",
+    "copied": "Kopiert",
+    "copyFailed": "Kopieren fehlgeschlagen"
+  },
+  "links": {
+    "label": "Links",
+    "llms": "llms.txt (für KI-Agenten)",
+    "skills": "KI-Skills auf GitHub",
+    "issues": "Issues"
+  },
+  "footer": {
+    "tagline": "IT-Service-Management auf agile Weise.",
+    "sourceAndContributions": "Quellcode und Beiträge:",
+    "builtWith": "Gebaut mit:",
+    "ledBy": "Geleitet von:"
+  },
+  "breadcrumb": {
+    "home": "Start",
+    "contents": "Inhalt",
+    "skills": "Skills",
+    "label": "Brotkrumenpfad"
+  },
+  "contents": {
+    "pageTitle": "Inhalt",
+    "lead": "49 Themen in sechs Teilen zu Agile, ITIL, IT-Service-Management und IT-Asset-Management, mit Fragen zur Diskussion, KI-Prompts und Skills.",
+    "readingIn": "Sie lesen auf: {$language}",
+    "part": "Teil {$number}",
+    "reference": "Referenz",
+    "comingSoon": "Demnächst verfügbar"
+  },
+  "topic": {
+    "eyebrow": "Thema {$number}",
+    "paginationLabel": "Navigation zwischen Themen",
+    "previous": "Zurück",
+    "next": "Weiter"
+  },
+  "parts": {
+    "1": {
+      "tagline": "Agile Werte, Prinzipien und Methoden."
+    },
+    "2": {
+      "tagline": "Was IT-Service-Management ist und wie ITIL es ordnet."
+    },
+    "3": {
+      "tagline": "ITIL-Praktiken auf agile, iterative und kooperative Weise ausgeführt."
+    },
+    "4": {
+      "tagline": "Wissen, was Sie besitzen, was es kostet und wie es zusammenhängt."
+    },
+    "5": {
+      "tagline": "Integration, Verantwortungsmodelle und Messung gestalten."
+    },
+    "6": {
+      "tagline": "Die menschliche Seite und die KI-Seite des agilen Service-Managements."
+    }
+  },
+  "results": {
+    "button": "Suchen",
+    "label": "Suchergebnisse",
+    "heading": "Ergebnisse für \"{$query}\"",
+    "failed": "Der Suchindex konnte nicht geladen werden. Versuchen Sie es später erneut.",
+    "searching": "Suche läuft…",
+    "none": "Keine Ergebnisse für \"{$query}\".",
+    "browse": "Stöbern Sie stattdessen im Inhalt.",
+    "count": "Ergebnisse: {$count}.",
+    "limited": "Die ersten {$count} Ergebnisse werden angezeigt."
+  },
+  "glossary": {
+    "title": "Glossar",
+    "lead": "Einfache Definitionen wichtiger Begriffe, jeder mit Verweis auf sein Hauptthema."
+  },
+  "indexPage": {
+    "title": "Stichwortverzeichnis",
+    "lead": "Begriffe und Frameworks sowie die Themen, die sie behandeln."
+  },
+  "jumpToLetter": "Zum Buchstaben springen",
+  "skillsPage": {
+    "title": "KI-Skills",
+    "lead": "Skills im Format von Claude Code, auf die die Themen verweisen. Jeder ist eine Datei SKILL.md, die Sie in Ihr eigenes Skills-Verzeichnis kopieren können.",
+    "viewSource": "Auf GitHub ansehen",
+    "backToList": "Alle Skills"
+  },
+  "error": {
+    "label": "Fehler {$status}",
+    "notFound": "Diese Seite wurde nicht gefunden",
+    "generic": "Etwas ist schiefgegangen",
+    "unknown": "Unbekannter Fehler",
+    "try": "Probieren Sie den Inhalt, das Glossar oder das Stichwortverzeichnis."
+  },
+  "home": {
+    "continue": "Weiterlesen im Agile ITIL Guide"
+  }
+}
