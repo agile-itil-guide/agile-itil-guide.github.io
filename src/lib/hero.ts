@@ -130,6 +130,11 @@ export const HERO: Record<string, Record<string, string>> = {
   "intro": "Njia za kufanya kazi za agile na usimamizi wa huduma za TEHAMA, kama ITIL ulivyouweka katika kanuni, mara nyingi huwasilishwa kama washindani. Mwongozo huu unazichukulia kama washirika: kila mada inaonyesha jinsi ya kuchanganya kasi na mabadiliko na uthabiti na udhibiti, pamoja na utafiti, mazoea, mifano, mawazo ya kujadili na timu, ujuzi wa AI, na maelekezo ya AI.",
   "translations": "Tafsiri: "
  },
+ "ur-001": {
+  "tagline": "چابک انداز میں آئی ٹی سروسز چلانے کی عملی گائیڈ۔",
+  "intro": "چابک طریقۂ کار اور آئی ٹی سروس کا انتظام، جیسا ITIL نے اسے مرتب کیا، اکثر حریف کے طور پر پیش کیے جاتے ہیں۔ یہ گائیڈ انہیں شراکت دار سمجھتی ہے: ہر موضوع دکھاتا ہے کہ رفتار اور تبدیلی کو استحکام اور کنٹرول کے ساتھ کیسے جوڑیں، تحقیق، طریقوں، مثالوں، ٹیموں کے ساتھ بحث کے خیالات، اے آئی سکلز اور اے آئی پرامپٹس کے ساتھ۔",
+  "translations": "تراجم: "
+ },
  "vi-001": {
   "tagline": "Hướng dẫn thực hành để vận hành dịch vụ CNTT theo cách agile.",
   "intro": "Các cách làm việc agile và quản lý dịch vụ CNTT như ITIL đã hệ thống hóa thường được giới thiệu như đối thủ. Cuốn sách này coi chúng là đối tác: mỗi chủ đề cho thấy cách kết hợp tốc độ và thay đổi với sự ổn định và kiểm soát, kèm nghiên cứu, thực hành, ví dụ, ý tưởng để trò chuyện với các nhóm, kỹ năng AI và lời nhắc AI.",
@@ -179,6 +184,7 @@ export const ENDONYMS: Record<string, string> = {
  "sv-se": "Svenska (Sverige)",
  "sw-001": "Kiswahili",
  "sw-tz": "Kiswahili (Tanzania)",
+ "ur-001": "اردو",
  "vi-001": "Tiếng Việt",
  "vi-vn": "Tiếng Việt (Việt Nam)",
  "zh-001": "中文",
