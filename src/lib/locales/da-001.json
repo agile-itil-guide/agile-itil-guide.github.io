@@ -1,0 +1,121 @@
+{
+  "locale": {
+    "label": "Dansk (Verden)"
+  },
+  "siteTitle": "Den agile ITIL-guide",
+  "skipToContent": "Gå til indholdet",
+  "nav": {
+    "contents": "Indhold",
+    "glossary": "Ordliste",
+    "index": "Indeks",
+    "skills": "Skills",
+    "source": "Kildekode"
+  },
+  "picker": {
+    "theme": "Tema",
+    "locale": "Sprog",
+    "textSize": "Tekststørrelse",
+    "share": "Del",
+    "search": "Søg",
+    "searchInput": "Søg i guiden",
+    "searchSubmit": "Søg"
+  },
+  "share": {
+    "emailLink": "Send link på e-mail",
+    "shareOnLinkedIn": "Del på LinkedIn",
+    "shareOnReddit": "Del på Reddit",
+    "shareOnBluesky": "Del på Bluesky",
+    "shareOnMastodon": "Del på Mastodon",
+    "copyLink": "Kopiér link",
+    "copied": "Kopieret",
+    "copyFailed": "Kopiering mislykkedes"
+  },
+  "links": {
+    "label": "Links",
+    "llms": "llms.txt (til AI-agenter)",
+    "skills": "AI-skills på GitHub",
+    "issues": "Issues"
+  },
+  "footer": {
+    "tagline": "IT-servicestyring på den agile måde.",
+    "sourceAndContributions": "Kildekode og bidrag:",
+    "builtWith": "Bygget med:",
+    "ledBy": "Ledet af:"
+  },
+  "breadcrumb": {
+    "home": "Forside",
+    "contents": "Indhold",
+    "skills": "Skills",
+    "label": "Brødkrummesti"
+  },
+  "contents": {
+    "pageTitle": "Indhold",
+    "lead": "49 emner i seks dele om agile, ITIL, IT-servicestyring og styring af IT-aktiver, med spørgsmål til diskussion, AI-prompts og skills.",
+    "readingIn": "Du læser på: {$language}",
+    "part": "Del {$number}",
+    "reference": "Reference",
+    "comingSoon": "Kommer snart"
+  },
+  "topic": {
+    "eyebrow": "Emne {$number}",
+    "paginationLabel": "Navigation mellem emner",
+    "previous": "Forrige",
+    "next": "Næste"
+  },
+  "parts": {
+    "1": {
+      "tagline": "Agile værdier, principper og metoder."
+    },
+    "2": {
+      "tagline": "Hvad IT-servicestyring er, og hvordan ITIL organiserer det."
+    },
+    "3": {
+      "tagline": "ITIL-praksisser udført på en agil, iterativ og samarbejdende måde."
+    },
+    "4": {
+      "tagline": "At vide, hvad I ejer, hvad det koster, og hvordan det hænger sammen."
+    },
+    "5": {
+      "tagline": "At forme integration, ejerskabsmodeller og måling."
+    },
+    "6": {
+      "tagline": "Den menneskelige side og AI-siden af agil servicestyring."
+    }
+  },
+  "results": {
+    "button": "Søg",
+    "label": "Søgeresultater",
+    "heading": "Resultater for \"{$query}\"",
+    "failed": "Søgeindekset kunne ikke indlæses. Prøv igen senere.",
+    "searching": "Søger…",
+    "none": "Ingen resultater for \"{$query}\".",
+    "browse": "Gennemse i stedet indholdet.",
+    "count": "Resultater: {$count}.",
+    "limited": "De første {$count} resultater vises."
+  },
+  "glossary": {
+    "title": "Ordliste",
+    "lead": "Enkle definitioner af nøglebegreber, hver med en henvisning til dens hjemmeemne."
+  },
+  "indexPage": {
+    "title": "Indeks",
+    "lead": "Begreber og rammeværker samt de emner, der behandler dem."
+  },
+  "jumpToLetter": "Hop til bogstav",
+  "skillsPage": {
+    "title": "AI-skills",
+    "lead": "Skills i Claude Codes format, som emnerne henviser til. Hver er en SKILL.md-fil, du kan kopiere til din egen skills-mappe.",
+    "viewSource": "Se på GitHub",
+    "backToList": "Alle skills"
+  },
+  "error": {
+    "label": "Fejl {$status}",
+    "notFound": "Denne side blev ikke fundet",
+    "generic": "Noget gik galt",
+    "unknown": "Ukendt fejl",
+    "try": "Prøv indholdet, ordlisten eller indekset."
+  },
+  "home": {
+    "continue": "Fortsæt læsningen i den agile ITIL-guide"
+  }
+}

@@ -20,6 +20,11 @@ export const HERO: Record<string, Record<string, string>> = {
   "intro": "Cyflwynir ffyrdd gweithio ystwyth a rheoli gwasanaethau TG, fel y'u codeiddir gan ITIL, yn aml fel cystadleuwyr. Mae'r canllaw hwn yn eu trin fel partneriaid: mae pob pwnc yn dangos sut i gyfuno cyflymder a newid â sefydlogrwydd a rheolaeth, gydag ymchwil, arferion, enghreifftiau, syniadau i'w trafod gyda thimau, sgiliau AI ac anogiadau AI.",
   "translations": "Cyfieithiadau: "
  },
+ "da-001": {
+  "tagline": "En praktisk håndbog i at drive IT-services på den agile måde.",
+  "intro": "Agile arbejdsformer og IT-servicestyring, som ITIL har kodificeret det, fremstilles ofte som rivaler. Denne guide behandler dem som partnere: hvert emne viser, hvordan man kombinerer hastighed og forandring med stabilitet og kontrol, med forskning, praksisser, eksempler, idéer at tale om med teams, AI-skills og AI-prompts.",
+  "translations": "Oversættelser: "
+ },
  "de-001": {
   "tagline": "Ein praktisches Handbuch, um IT-Services auf agile Weise zu betreiben.",
   "intro": "Agile Arbeitsweisen und IT-Service-Management, wie ITIL es festgeschrieben hat, werden oft als Rivalen dargestellt. Dieser Leitfaden behandelt sie als Partner: Jedes Thema zeigt, wie sich Tempo und Veränderung mit Stabilität und Kontrolle verbinden lassen, mit Forschung, Praktiken, Beispielen, Ideen für Gespräche mit Teams, KI-Skills und KI-Prompts.",
@@ -162,6 +167,7 @@ export const ENDONYMS: Record<string, string> = {
  "bn-001": "বাংলা",
  "cy-001": "Cymraeg",
  "cy-gb": "Cymraeg (Prydain Fawr)",
+ "da-001": "Dansk",
  "de-001": "Deutsch",
  "en-001": "English",
  "en-gb": "English (Great Britain)",
