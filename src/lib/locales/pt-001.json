@@ -1,0 +1,121 @@
+{
+  "locale": {
+    "label": "Português (Mundo)"
+  },
+  "siteTitle": "O Agile ITIL Guide",
+  "skipToContent": "Ir para o conteúdo",
+  "nav": {
+    "contents": "Conteúdo",
+    "glossary": "Glossário",
+    "index": "Índice",
+    "skills": "Skills",
+    "source": "Código-fonte"
+  },
+  "picker": {
+    "theme": "Tema",
+    "locale": "Idioma",
+    "textSize": "Tamanho do texto",
+    "share": "Compartilhar",
+    "search": "Buscar",
+    "searchInput": "Buscar no guia",
+    "searchSubmit": "Buscar"
+  },
+  "share": {
+    "emailLink": "Enviar o link por e-mail",
+    "shareOnLinkedIn": "Compartilhar no LinkedIn",
+    "shareOnReddit": "Compartilhar no Reddit",
+    "shareOnBluesky": "Compartilhar no Bluesky",
+    "shareOnMastodon": "Compartilhar no Mastodon",
+    "copyLink": "Copiar o link",
+    "copied": "Copiado",
+    "copyFailed": "Falha ao copiar"
+  },
+  "links": {
+    "label": "Links",
+    "llms": "llms.txt (para agentes de IA)",
+    "skills": "Skills de IA no GitHub",
+    "issues": "Issues"
+  },
+  "footer": {
+    "tagline": "Gestão de serviços de TI do jeito ágil.",
+    "sourceAndContributions": "Código-fonte e contribuições:",
+    "builtWith": "Construído com:",
+    "ledBy": "Liderado por:"
+  },
+  "breadcrumb": {
+    "home": "Início",
+    "contents": "Conteúdo",
+    "skills": "Skills",
+    "label": "Trilha de navegação"
+  },
+  "contents": {
+    "pageTitle": "Conteúdo",
+    "lead": "49 tópicos em seis partes sobre ágil, ITIL, gestão de serviços de TI e gestão de ativos de TI, com perguntas para discussão, prompts de IA e skills.",
+    "readingIn": "Você está lendo em: {$language}",
+    "part": "Parte {$number}",
+    "reference": "Referência",
+    "comingSoon": "Em breve"
+  },
+  "topic": {
+    "eyebrow": "Tópico {$number}",
+    "paginationLabel": "Navegação entre tópicos",
+    "previous": "Anterior",
+    "next": "Próximo"
+  },
+  "parts": {
+    "1": {
+      "tagline": "Valores, princípios e métodos ágeis."
+    },
+    "2": {
+      "tagline": "O que é a gestão de serviços de TI e como o ITIL a organiza."
+    },
+    "3": {
+      "tagline": "Práticas do ITIL executadas de modo ágil, iterativo e colaborativo."
+    },
+    "4": {
+      "tagline": "Saber o que você possui, quanto custa e como se relaciona."
+    },
+    "5": {
+      "tagline": "Dar forma à integração, aos modelos de responsabilidade e à medição."
+    },
+    "6": {
+      "tagline": "O lado humano e o lado de IA da gestão ágil de serviços."
+    }
+  },
+  "results": {
+    "button": "Buscar",
+    "label": "Resultados da busca",
+    "heading": "Resultados para \"{$query}\"",
+    "failed": "Não foi possível carregar o índice de busca. Tente novamente mais tarde.",
+    "searching": "Buscando…",
+    "none": "Nenhum resultado para \"{$query}\".",
+    "browse": "Em vez disso, navegue pelo conteúdo.",
+    "count": "Resultados: {$count}.",
+    "limited": "Mostrando os primeiros {$count} resultados."
+  },
+  "glossary": {
+    "title": "Glossário",
+    "lead": "Definições simples de termos importantes, cada uma com uma referência ao seu tópico principal."
+  },
+  "indexPage": {
+    "title": "Índice",
+    "lead": "Termos e frameworks e os tópicos que tratam deles."
+  },
+  "jumpToLetter": "Ir para a letra",
+  "skillsPage": {
+    "title": "Skills de IA",
+    "lead": "Skills no formato do Claude Code, às quais os tópicos se referem. Cada uma é um arquivo SKILL.md que você pode copiar para o seu próprio diretório de skills.",
+    "viewSource": "Ver no GitHub",
+    "backToList": "Todas as skills"
+  },
+  "error": {
+    "label": "Erro {$status}",
+    "notFound": "Esta página não foi encontrada",
+    "generic": "Algo deu errado",
+    "unknown": "Erro desconhecido",
+    "try": "Experimente o conteúdo, o glossário ou o índice."
+  },
+  "home": {
+    "continue": "Continuar lendo o Agile ITIL Guide"
+  }
+}

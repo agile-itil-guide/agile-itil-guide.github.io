@@ -100,6 +100,11 @@ export const HERO: Record<string, Record<string, string>> = {
   "intro": "Agile werkwijzen en IT-servicemanagement, zoals ITIL dat heeft vastgelegd, worden vaak als rivalen voorgesteld. Deze gids behandelt ze als partners: elk onderwerp toont hoe je snelheid en verandering combineert met stabiliteit en beheersing, met onderzoek, praktijken, voorbeelden, ideeën om met teams te bespreken, AI-vaardigheden en AI-prompts.",
   "translations": "Vertalingen: "
  },
+ "pt-001": {
+  "tagline": "Um manual prático para operar serviços de TI do jeito ágil.",
+  "intro": "Os modos de trabalhar ágeis e a gestão de serviços de TI, como o ITIL a codificou, costumam ser apresentados como rivais. Este guia os trata como parceiros: cada tópico mostra como combinar rapidez e mudança com estabilidade e controle, com pesquisa, práticas, exemplos, ideias para conversar com as equipes, skills de IA e prompts de IA.",
+  "translations": "Traduções: "
+ },
  "ru-001": {
   "tagline": "Практическое руководство по управлению ИТ-услугами в духе agile.",
   "intro": "Гибкие способы работы и управление ИТ-услугами в том виде, как его закрепил ITIL, часто представляют соперниками. Это руководство рассматривает их как партнеров: каждая тема показывает, как сочетать скорость и перемены со стабильностью и контролем, с исследованиями, практиками, примерами, идеями для обсуждения с командами, ИИ-навыками и ИИ-промптами.",
@@ -168,6 +173,7 @@ export const ENDONYMS: Record<string, string> = {
  "ko-kr": "한국어 (대한민국)",
  "nl-001": "Nederlands",
  "nl-nl": "Nederlands (Nederland)",
+ "pt-001": "Português",
  "ru-001": "Русский",
  "sv-001": "Svenska",
  "sv-se": "Svenska (Sverige)",
