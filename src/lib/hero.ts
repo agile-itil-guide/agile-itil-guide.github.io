@@ -90,6 +90,16 @@ export const HERO: Record<string, Record<string, string>> = {
   "intro": "Гибкие способы работы и управление ИТ-услугами в том виде, как его закрепил ITIL, часто представляют соперниками. Это руководство рассматривает их как партнеров: каждая тема показывает, как сочетать скорость и перемены со стабильностью и контролем, с исследованиями, практиками, примерами, идеями для обсуждения с командами, ИИ-навыками и ИИ-промптами.",
   "translations": "Переводы: "
  },
+ "sw-001": {
+  "tagline": "Mwongozo wa vitendo wa kuendesha huduma za TEHAMA kwa njia ya agile.",
+  "intro": "Njia za kufanya kazi za agile na usimamizi wa huduma za TEHAMA, kama ITIL ulivyouweka katika kanuni, mara nyingi huwasilishwa kama washindani. Mwongozo huu unazichukulia kama washirika: kila mada inaonyesha jinsi ya kuchanganya kasi na mabadiliko na uthabiti na udhibiti, pamoja na utafiti, mazoea, mifano, mawazo ya kujadili na timu, ujuzi wa AI, na maelekezo ya AI.",
+  "translations": "Tafsiri: "
+ },
+ "sw-tz": {
+  "tagline": "Mwongozo wa vitendo wa kuendesha huduma za TEHAMA kwa njia ya agile.",
+  "intro": "Njia za kufanya kazi za agile na usimamizi wa huduma za TEHAMA, kama ITIL ulivyouweka katika kanuni, mara nyingi huwasilishwa kama washindani. Mwongozo huu unazichukulia kama washirika: kila mada inaonyesha jinsi ya kuchanganya kasi na mabadiliko na uthabiti na udhibiti, pamoja na utafiti, mazoea, mifano, mawazo ya kujadili na timu, ujuzi wa AI, na maelekezo ya AI.",
+  "translations": "Tafsiri: "
+ },
  "zh-001": {
   "tagline": "一本以敏捷方式运营IT服务的实用手册。",
   "intro": "敏捷工作方式与ITIL所规范的IT服务管理，常被视为对立。本指南把它们看作伙伴：每个主题都结合研究、实践、案例、可与团队讨论的想法、AI技能和AI提示词，说明如何把速度与变化同稳定与控制结合起来。",
@@ -121,6 +131,8 @@ export const ENDONYMS: Record<string, string> = {
  "ko-001": "한국어",
  "ko-kr": "한국어 (대한민국)",
  "ru-001": "Русский",
+ "sw-001": "Kiswahili",
+ "sw-tz": "Kiswahili (Tanzania)",
  "zh-001": "中文",
  "zh-cn": "简体中文"
 };

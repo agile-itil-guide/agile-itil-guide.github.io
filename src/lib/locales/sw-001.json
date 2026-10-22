@@ -1,0 +1,121 @@
+{
+  "locale": {
+    "label": "Kiswahili (Dunia)"
+  },
+  "siteTitle": "Mwongozo wa Agile ITIL",
+  "skipToContent": "Ruka hadi maudhui",
+  "nav": {
+    "contents": "Yaliyomo",
+    "glossary": "Faharasa",
+    "index": "Kielezo",
+    "skills": "Ujuzi",
+    "source": "Msimbo chanzo"
+  },
+  "picker": {
+    "theme": "Mandhari",
+    "locale": "Lugha",
+    "textSize": "Ukubwa wa maandishi",
+    "share": "Shiriki",
+    "search": "Tafuta",
+    "searchInput": "Tafuta katika mwongozo",
+    "searchSubmit": "Tafuta"
+  },
+  "share": {
+    "emailLink": "Tuma kiungo kwa barua pepe",
+    "shareOnLinkedIn": "Shiriki kwenye LinkedIn",
+    "shareOnReddit": "Shiriki kwenye Reddit",
+    "shareOnBluesky": "Shiriki kwenye Bluesky",
+    "shareOnMastodon": "Shiriki kwenye Mastodon",
+    "copyLink": "Nakili kiungo",
+    "copied": "Imenakiliwa",
+    "copyFailed": "Imeshindwa kunakili"
+  },
+  "links": {
+    "label": "Viungo",
+    "llms": "llms.txt (kwa mawakala wa AI)",
+    "skills": "Ujuzi wa AI kwenye GitHub",
+    "issues": "Kifuatilia masuala"
+  },
+  "footer": {
+    "tagline": "Usimamizi wa huduma za TEHAMA kwa njia ya agile.",
+    "sourceAndContributions": "Msimbo chanzo na michango:",
+    "builtWith": "Imejengwa kwa:",
+    "ledBy": "Inaongozwa na:"
+  },
+  "breadcrumb": {
+    "home": "Mwanzo",
+    "contents": "Yaliyomo",
+    "skills": "Ujuzi",
+    "label": "Njia ya kurasa"
+  },
+  "contents": {
+    "pageTitle": "Yaliyomo",
+    "lead": "Mada 49 katika sehemu sita kuhusu agile, ITIL, usimamizi wa huduma za TEHAMA, na usimamizi wa mali za TEHAMA, zikiwa na maswali ya kujadili, maelekezo ya AI, na ujuzi.",
+    "readingIn": "Unasoma kwa: {$language}",
+    "part": "Sehemu ya {$number}",
+    "reference": "Marejeo",
+    "comingSoon": "Inakuja hivi karibuni"
+  },
+  "topic": {
+    "eyebrow": "Mada {$number}",
+    "paginationLabel": "Urambazaji wa mada",
+    "previous": "Iliyotangulia",
+    "next": "Inayofuata"
+  },
+  "parts": {
+    "1": {
+      "tagline": "Maadili, kanuni, na mbinu za agile."
+    },
+    "2": {
+      "tagline": "Usimamizi wa huduma za TEHAMA ni nini na jinsi ITIL unavyoupanga."
+    },
+    "3": {
+      "tagline": "Mazoea ya ITIL yanayotekelezwa kwa njia ya agile, ya kurudiarudia, na ya ushirikiano."
+    },
+    "4": {
+      "tagline": "Kujua unachomiliki, kinagharimu nini, na kinahusianaje."
+    },
+    "5": {
+      "tagline": "Kubuni ujumuishaji, mifano ya uendeshaji, na upimaji."
+    },
+    "6": {
+      "tagline": "Upande wa binadamu na wa AI wa usimamizi wa huduma wa agile."
+    }
+  },
+  "results": {
+    "button": "Tafuta",
+    "label": "Matokeo ya utafutaji",
+    "heading": "Matokeo ya \"{$query}\"",
+    "failed": "Imeshindwa kupakia faharasa ya utafutaji. Jaribu tena baadaye.",
+    "searching": "Inatafuta…",
+    "none": "Hakuna matokeo ya \"{$query}\".",
+    "browse": "Vinjari yaliyomo badala yake.",
+    "count": "Matokeo: {$count}.",
+    "limited": "Inaonyesha matokeo {$count} ya kwanza."
+  },
+  "glossary": {
+    "title": "Faharasa",
+    "lead": "Fasili rahisi za istilahi muhimu, kila moja ikielekeza kwenye mada yake kuu."
+  },
+  "indexPage": {
+    "title": "Kielezo",
+    "lead": "Dhana na mifumo, na mada zinazoishughulikia."
+  },
+  "jumpToLetter": "Ruka hadi herufi",
+  "skillsPage": {
+    "title": "Ujuzi wa AI",
+    "lead": "Ujuzi wa muundo wa Claude Code unaorejelewa na mada. Kila mmoja ni faili ya SKILL.md unayoweza kunakili kwenye folda yako ya ujuzi.",
+    "viewSource": "Tazama kwenye GitHub",
+    "backToList": "Ujuzi wote"
+  },
+  "error": {
+    "label": "Hitilafu {$status}",
+    "notFound": "Ukurasa huu haukupatikana",
+    "generic": "Kuna tatizo limetokea",
+    "unknown": "Hitilafu isiyojulikana",
+    "try": "Jaribu yaliyomo, faharasa, au kielezo."
+  },
+  "home": {
+    "continue": "Endelea kusoma Mwongozo wa Agile ITIL"
+  }
+}
