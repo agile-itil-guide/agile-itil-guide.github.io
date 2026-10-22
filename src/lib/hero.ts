@@ -120,6 +120,16 @@ export const HERO: Record<string, Record<string, string>> = {
   "intro": "Njia za kufanya kazi za agile na usimamizi wa huduma za TEHAMA, kama ITIL ulivyouweka katika kanuni, mara nyingi huwasilishwa kama washindani. Mwongozo huu unazichukulia kama washirika: kila mada inaonyesha jinsi ya kuchanganya kasi na mabadiliko na uthabiti na udhibiti, pamoja na utafiti, mazoea, mifano, mawazo ya kujadili na timu, ujuzi wa AI, na maelekezo ya AI.",
   "translations": "Tafsiri: "
  },
+ "vi-001": {
+  "tagline": "Hướng dẫn thực hành để vận hành dịch vụ CNTT theo cách agile.",
+  "intro": "Các cách làm việc agile và quản lý dịch vụ CNTT như ITIL đã hệ thống hóa thường được giới thiệu như đối thủ. Cuốn sách này coi chúng là đối tác: mỗi chủ đề cho thấy cách kết hợp tốc độ và thay đổi với sự ổn định và kiểm soát, kèm nghiên cứu, thực hành, ví dụ, ý tưởng để trò chuyện với các nhóm, kỹ năng AI và lời nhắc AI.",
+  "translations": "Bản dịch: "
+ },
+ "vi-vn": {
+  "tagline": "Hướng dẫn thực hành để vận hành dịch vụ CNTT theo cách agile.",
+  "intro": "Các cách làm việc agile và quản lý dịch vụ CNTT như ITIL đã hệ thống hóa thường được giới thiệu như đối thủ. Cuốn sách này coi chúng là đối tác: mỗi chủ đề cho thấy cách kết hợp tốc độ và thay đổi với sự ổn định và kiểm soát, kèm nghiên cứu, thực hành, ví dụ, ý tưởng để trò chuyện với các nhóm, kỹ năng AI và lời nhắc AI.",
+  "translations": "Bản dịch: "
+ },
  "zh-001": {
   "tagline": "一本以敏捷方式运营IT服务的实用手册。",
   "intro": "敏捷工作方式与ITIL所规范的IT服务管理，常被视为对立。本指南把它们看作伙伴：每个主题都结合研究、实践、案例、可与团队讨论的想法、AI技能和AI提示词，说明如何把速度与变化同稳定与控制结合起来。",
@@ -157,6 +167,8 @@ export const ENDONYMS: Record<string, string> = {
  "sv-se": "Svenska (Sverige)",
  "sw-001": "Kiswahili",
  "sw-tz": "Kiswahili (Tanzania)",
+ "vi-001": "Tiếng Việt",
+ "vi-vn": "Tiếng Việt (Việt Nam)",
  "zh-001": "中文",
  "zh-cn": "简体中文"
 };

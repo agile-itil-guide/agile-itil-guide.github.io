@@ -1,0 +1,121 @@
+{
+  "locale": {
+    "label": "Tiếng Việt (Thế giới)"
+  },
+  "siteTitle": "Cuốn sách Agile ITIL",
+  "skipToContent": "Chuyển đến nội dung",
+  "nav": {
+    "contents": "Nội dung",
+    "glossary": "Bảng chú giải",
+    "index": "Chỉ mục",
+    "skills": "Kỹ năng",
+    "source": "Mã nguồn"
+  },
+  "picker": {
+    "theme": "Giao diện",
+    "locale": "Ngôn ngữ",
+    "textSize": "Cỡ chữ",
+    "share": "Chia sẻ",
+    "search": "Tìm kiếm",
+    "searchInput": "Tìm trong cuốn sách",
+    "searchSubmit": "Tìm"
+  },
+  "share": {
+    "emailLink": "Gửi liên kết qua email",
+    "shareOnLinkedIn": "Chia sẻ trên LinkedIn",
+    "shareOnReddit": "Chia sẻ trên Reddit",
+    "shareOnBluesky": "Chia sẻ trên Bluesky",
+    "shareOnMastodon": "Chia sẻ trên Mastodon",
+    "copyLink": "Sao chép liên kết",
+    "copied": "Đã sao chép",
+    "copyFailed": "Sao chép thất bại"
+  },
+  "links": {
+    "label": "Liên kết",
+    "llms": "llms.txt (cho tác tử AI)",
+    "skills": "Kỹ năng AI trên GitHub",
+    "issues": "Issues"
+  },
+  "footer": {
+    "tagline": "Quản lý dịch vụ CNTT theo cách agile.",
+    "sourceAndContributions": "Mã nguồn và đóng góp:",
+    "builtWith": "Được xây bằng:",
+    "ledBy": "Dẫn dắt bởi:"
+  },
+  "breadcrumb": {
+    "home": "Trang chủ",
+    "contents": "Nội dung",
+    "skills": "Kỹ năng",
+    "label": "Đường dẫn"
+  },
+  "contents": {
+    "pageTitle": "Nội dung",
+    "lead": "49 chủ đề trong sáu phần về agile, ITIL, quản lý dịch vụ CNTT và quản lý tài sản CNTT, kèm câu hỏi để thảo luận, lời nhắc AI và kỹ năng.",
+    "readingIn": "Bạn đang đọc bằng: {$language}",
+    "part": "Phần {$number}",
+    "reference": "Tham khảo",
+    "comingSoon": "Sắp có"
+  },
+  "topic": {
+    "eyebrow": "Chủ đề {$number}",
+    "paginationLabel": "Điều hướng giữa các chủ đề",
+    "previous": "Trước",
+    "next": "Tiếp"
+  },
+  "parts": {
+    "1": {
+      "tagline": "Giá trị, nguyên tắc và phương pháp agile."
+    },
+    "2": {
+      "tagline": "Quản lý dịch vụ CNTT là gì và ITIL tổ chức nó thế nào."
+    },
+    "3": {
+      "tagline": "Các thực hành ITIL được thực hiện theo cách agile, lặp lại và cộng tác."
+    },
+    "4": {
+      "tagline": "Biết bạn sở hữu gì, nó tốn bao nhiêu và chúng liên quan với nhau thế nào."
+    },
+    "5": {
+      "tagline": "Định hình tích hợp, mô hình quản lý và đo lường."
+    },
+    "6": {
+      "tagline": "Mặt con người và mặt AI của quản lý dịch vụ agile."
+    }
+  },
+  "results": {
+    "button": "Tìm",
+    "label": "Kết quả tìm kiếm",
+    "heading": "Kết quả cho \"{$query}\"",
+    "failed": "Không tải được chỉ mục tìm kiếm. Hãy thử lại sau.",
+    "searching": "Đang tìm…",
+    "none": "Không có kết quả cho \"{$query}\".",
+    "browse": "Thay vào đó, hãy duyệt qua nội dung.",
+    "count": "Số kết quả: {$count}.",
+    "limited": "Hiển thị {$count} kết quả đầu tiên."
+  },
+  "glossary": {
+    "title": "Bảng chú giải",
+    "lead": "Định nghĩa đơn giản của các thuật ngữ chính, mỗi mục chỉ đến chủ đề chính của nó."
+  },
+  "indexPage": {
+    "title": "Chỉ mục",
+    "lead": "Các khái niệm và khung, và những chủ đề bàn về chúng."
+  },
+  "jumpToLetter": "Chuyển đến chữ cái",
+  "skillsPage": {
+    "title": "Kỹ năng AI",
+    "lead": "Các kỹ năng định dạng Claude Code mà các chủ đề tham chiếu. Mỗi cái là một tệp SKILL.md bạn có thể sao chép vào thư mục kỹ năng của riêng mình.",
+    "viewSource": "Xem trên GitHub",
+    "backToList": "Tất cả kỹ năng"
+  },
+  "error": {
+    "label": "Lỗi {$status}",
+    "notFound": "Không tìm thấy trang này",
+    "generic": "Đã xảy ra sự cố",
+    "unknown": "Lỗi không rõ",
+    "try": "Hãy thử nội dung, bảng chú giải hoặc chỉ mục."
+  },
+  "home": {
+    "continue": "Tiếp tục đọc Cuốn sách Agile ITIL"
+  }
+}
