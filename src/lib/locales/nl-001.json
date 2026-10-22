@@ -1,0 +1,121 @@
+{
+  "locale": {
+    "label": "Nederlands (Wereld)"
+  },
+  "siteTitle": "De Agile ITIL-gids",
+  "skipToContent": "Naar de inhoud springen",
+  "nav": {
+    "contents": "Inhoud",
+    "glossary": "Woordenlijst",
+    "index": "Register",
+    "skills": "Vaardigheden",
+    "source": "Broncode"
+  },
+  "picker": {
+    "theme": "Thema",
+    "locale": "Taal",
+    "textSize": "Tekstgrootte",
+    "share": "Delen",
+    "search": "Zoeken",
+    "searchInput": "Zoek in de gids",
+    "searchSubmit": "Zoeken"
+  },
+  "share": {
+    "emailLink": "Link per e-mail versturen",
+    "shareOnLinkedIn": "Delen op LinkedIn",
+    "shareOnReddit": "Delen op Reddit",
+    "shareOnBluesky": "Delen op Bluesky",
+    "shareOnMastodon": "Delen op Mastodon",
+    "copyLink": "Link kopiëren",
+    "copied": "Gekopieerd",
+    "copyFailed": "Kopiëren mislukt"
+  },
+  "links": {
+    "label": "Links",
+    "llms": "llms.txt (voor AI-agents)",
+    "skills": "AI-vaardigheden op GitHub",
+    "issues": "Issues"
+  },
+  "footer": {
+    "tagline": "IT-servicemanagement op een agile manier.",
+    "sourceAndContributions": "Broncode en bijdragen:",
+    "builtWith": "Gebouwd met:",
+    "ledBy": "Geleid door:"
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "contents": "Inhoud",
+    "skills": "Vaardigheden",
+    "label": "Kruimelpad"
+  },
+  "contents": {
+    "pageTitle": "Inhoud",
+    "lead": "49 onderwerpen in zes delen over agile, ITIL, IT-servicemanagement en IT-assetmanagement, met vragen om te bespreken, AI-prompts en vaardigheden.",
+    "readingIn": "Je leest in: {$language}",
+    "part": "Deel {$number}",
+    "reference": "Referentie",
+    "comingSoon": "Binnenkort beschikbaar"
+  },
+  "topic": {
+    "eyebrow": "Onderwerp {$number}",
+    "paginationLabel": "Navigatie tussen onderwerpen",
+    "previous": "Vorige",
+    "next": "Volgende"
+  },
+  "parts": {
+    "1": {
+      "tagline": "Agile waarden, principes en methoden."
+    },
+    "2": {
+      "tagline": "Wat IT-servicemanagement is en hoe ITIL het organiseert."
+    },
+    "3": {
+      "tagline": "ITIL-praktijken uitgevoerd op een agile, iteratieve en samenwerkende manier."
+    },
+    "4": {
+      "tagline": "Weten wat je bezit, wat het kost en hoe het samenhangt."
+    },
+    "5": {
+      "tagline": "Integratie, beheermodellen en meten vormgeven."
+    },
+    "6": {
+      "tagline": "De menselijke kant en de AI-kant van agile servicemanagement."
+    }
+  },
+  "results": {
+    "button": "Zoeken",
+    "label": "Zoekresultaten",
+    "heading": "Resultaten voor \"{$query}\"",
+    "failed": "De zoekindex kon niet worden geladen. Probeer het later opnieuw.",
+    "searching": "Zoeken…",
+    "none": "Geen resultaten voor \"{$query}\".",
+    "browse": "Blader in plaats daarvan door de inhoud.",
+    "count": "Resultaten: {$count}.",
+    "limited": "De eerste {$count} resultaten worden getoond."
+  },
+  "glossary": {
+    "title": "Woordenlijst",
+    "lead": "Eenvoudige definities van sleuteltermen, elk met een verwijzing naar het bijbehorende hoofdonderwerp."
+  },
+  "indexPage": {
+    "title": "Register",
+    "lead": "Begrippen en raamwerken, en de onderwerpen die ze behandelen."
+  },
+  "jumpToLetter": "Spring naar letter",
+  "skillsPage": {
+    "title": "AI-vaardigheden",
+    "lead": "Vaardigheden in Claude Code-formaat waarnaar de onderwerpen verwijzen. Elk is een SKILL.md-bestand dat je naar je eigen skillsmap kunt kopiëren.",
+    "viewSource": "Bekijk op GitHub",
+    "backToList": "Alle vaardigheden"
+  },
+  "error": {
+    "label": "Fout {$status}",
+    "notFound": "Deze pagina is niet gevonden",
+    "generic": "Er ging iets mis",
+    "unknown": "Onbekende fout",
+    "try": "Probeer de inhoud, de woordenlijst of het register."
+  },
+  "home": {
+    "continue": "Verder lezen in de Agile ITIL-gids"
+  }
+}

@@ -85,6 +85,16 @@ export const HERO: Record<string, Record<string, string>> = {
   "intro": "애자일 업무 방식과 ITIL이 체계화한 IT 서비스 관리는 흔히 경쟁 관계로 소개됩니다. 이 가이드는 둘을 파트너로 다루며, 각 주제에서 연구, 실천 방법, 사례, 팀과 논의할 아이디어, AI 기술, AI 프롬프트와 함께 속도와 변화를 안정성과 통제와 결합하는 방법을 보여 줍니다.",
   "translations": "번역: "
  },
+ "nl-001": {
+  "tagline": "Praktische gids voor het beheren van IT-services op een agile manier.",
+  "intro": "Agile werkwijzen en IT-servicemanagement, zoals ITIL dat heeft vastgelegd, worden vaak als rivalen voorgesteld. Deze gids behandelt ze als partners: elk onderwerp toont hoe je snelheid en verandering combineert met stabiliteit en beheersing, met onderzoek, praktijken, voorbeelden, ideeën om met teams te bespreken, AI-vaardigheden en AI-prompts.",
+  "translations": "Vertalingen: "
+ },
+ "nl-nl": {
+  "tagline": "Praktische gids voor het beheren van IT-services op een agile manier.",
+  "intro": "Agile werkwijzen en IT-servicemanagement, zoals ITIL dat heeft vastgelegd, worden vaak als rivalen voorgesteld. Deze gids behandelt ze als partners: elk onderwerp toont hoe je snelheid en verandering combineert met stabiliteit en beheersing, met onderzoek, praktijken, voorbeelden, ideeën om met teams te bespreken, AI-vaardigheden en AI-prompts.",
+  "translations": "Vertalingen: "
+ },
  "ru-001": {
   "tagline": "Практическое руководство по управлению ИТ-услугами в духе agile.",
   "intro": "Гибкие способы работы и управление ИТ-услугами в том виде, как его закрепил ITIL, часто представляют соперниками. Это руководство рассматривает их как партнеров: каждая тема показывает, как сочетать скорость и перемены со стабильностью и контролем, с исследованиями, практиками, примерами, идеями для обсуждения с командами, ИИ-навыками и ИИ-промптами.",
@@ -140,6 +150,8 @@ export const ENDONYMS: Record<string, string> = {
  "ja-jp": "日本語 (日本)",
  "ko-001": "한국어",
  "ko-kr": "한국어 (대한민국)",
+ "nl-001": "Nederlands",
+ "nl-nl": "Nederlands (Nederland)",
  "ru-001": "Русский",
  "sv-001": "Svenska",
  "sv-se": "Svenska (Sverige)",
