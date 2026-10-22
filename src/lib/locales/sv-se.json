@@ -1,0 +1,121 @@
+{
+  "locale": {
+    "label": "Svenska (Sverige)"
+  },
+  "siteTitle": "Agile ITIL-guiden",
+  "skipToContent": "Hoppa till innehållet",
+  "nav": {
+    "contents": "Innehåll",
+    "glossary": "Ordlista",
+    "index": "Register",
+    "skills": "Färdigheter",
+    "source": "Källkod"
+  },
+  "picker": {
+    "theme": "Tema",
+    "locale": "Språk",
+    "textSize": "Textstorlek",
+    "share": "Dela",
+    "search": "Sök",
+    "searchInput": "Sök i guiden",
+    "searchSubmit": "Sök"
+  },
+  "share": {
+    "emailLink": "Skicka länken via e-post",
+    "shareOnLinkedIn": "Dela på LinkedIn",
+    "shareOnReddit": "Dela på Reddit",
+    "shareOnBluesky": "Dela på Bluesky",
+    "shareOnMastodon": "Dela på Mastodon",
+    "copyLink": "Kopiera länken",
+    "copied": "Kopierad",
+    "copyFailed": "Kopieringen misslyckades"
+  },
+  "links": {
+    "label": "Länkar",
+    "llms": "llms.txt (för AI-agenter)",
+    "skills": "AI-färdigheter på GitHub",
+    "issues": "Ärendehantering"
+  },
+  "footer": {
+    "tagline": "IT-tjänstehantering på ett agilt sätt.",
+    "sourceAndContributions": "Källkod och bidrag:",
+    "builtWith": "Byggd med:",
+    "ledBy": "Ledd av:"
+  },
+  "breadcrumb": {
+    "home": "Hem",
+    "contents": "Innehåll",
+    "skills": "Färdigheter",
+    "label": "Brödsmulor"
+  },
+  "contents": {
+    "pageTitle": "Innehåll",
+    "lead": "49 ämnen i sex delar om agilt, ITIL, IT-tjänstehantering och hantering av IT-tillgångar, med frågor att diskutera, AI-prompter och färdigheter.",
+    "readingIn": "Du läser på: {$language}",
+    "part": "Del {$number}",
+    "reference": "Referens",
+    "comingSoon": "Kommer snart"
+  },
+  "topic": {
+    "eyebrow": "Ämne {$number}",
+    "paginationLabel": "Ämnesnavigering",
+    "previous": "Föregående",
+    "next": "Nästa"
+  },
+  "parts": {
+    "1": {
+      "tagline": "Agila värden, principer och metoder."
+    },
+    "2": {
+      "tagline": "Vad IT-tjänstehantering är och hur ITIL organiserar den."
+    },
+    "3": {
+      "tagline": "ITIL-arbetssätt som utförs på ett agilt, iterativt och samarbetande sätt."
+    },
+    "4": {
+      "tagline": "Att veta vad man äger, vad det kostar och hur det hänger ihop."
+    },
+    "5": {
+      "tagline": "Att utforma integration, driftmodeller och mätning."
+    },
+    "6": {
+      "tagline": "Den mänskliga sidan och AI-sidan av agil tjänstehantering."
+    }
+  },
+  "results": {
+    "button": "Sök",
+    "label": "Sökresultat",
+    "heading": "Resultat för \"{$query}\"",
+    "failed": "Sökindexet kunde inte läsas in. Försök igen senare.",
+    "searching": "Söker…",
+    "none": "Inga resultat för \"{$query}\".",
+    "browse": "Bläddra bland innehållet i stället.",
+    "count": "Resultat: {$count}.",
+    "limited": "Visar de första {$count} resultaten."
+  },
+  "glossary": {
+    "title": "Ordlista",
+    "lead": "Enkla definitioner av nyckeltermer, var och en med hänvisning till sitt huvudämne."
+  },
+  "indexPage": {
+    "title": "Register",
+    "lead": "Begrepp och ramverk, och de ämnen som behandlar dem."
+  },
+  "jumpToLetter": "Hoppa till bokstav",
+  "skillsPage": {
+    "title": "AI-färdigheter",
+    "lead": "Färdigheter i Claude Code-format som ämnena hänvisar till. Var och en är en SKILL.md-fil du kan kopiera till din egen färdighetsmapp.",
+    "viewSource": "Visa på GitHub",
+    "backToList": "Alla färdigheter"
+  },
+  "error": {
+    "label": "Fel {$status}",
+    "notFound": "Den här sidan hittades inte",
+    "generic": "Något gick fel",
+    "unknown": "Okänt fel",
+    "try": "Prova innehållet, ordlistan eller registret."
+  },
+  "home": {
+    "continue": "Fortsätt läsa Agile ITIL-guiden"
+  }
+}

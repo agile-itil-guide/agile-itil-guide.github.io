@@ -90,6 +90,16 @@ export const HERO: Record<string, Record<string, string>> = {
   "intro": "Гибкие способы работы и управление ИТ-услугами в том виде, как его закрепил ITIL, часто представляют соперниками. Это руководство рассматривает их как партнеров: каждая тема показывает, как сочетать скорость и перемены со стабильностью и контролем, с исследованиями, практиками, примерами, идеями для обсуждения с командами, ИИ-навыками и ИИ-промптами.",
   "translations": "Переводы: "
  },
+ "sv-001": {
+  "tagline": "Praktisk guide för att driva IT-tjänster på ett agilt sätt.",
+  "intro": "Agila arbetssätt och IT-tjänstehantering, så som ITIL har formulerat den, framställs ofta som rivaler. Den här guiden behandlar dem som partner: varje ämne visar hur man kombinerar fart och förändring med stabilitet och kontroll, med forskning, arbetssätt, exempel, idéer att diskutera med team, AI-färdigheter och AI-prompter.",
+  "translations": "Översättningar: "
+ },
+ "sv-se": {
+  "tagline": "Praktisk guide för att driva IT-tjänster på ett agilt sätt.",
+  "intro": "Agila arbetssätt och IT-tjänstehantering, så som ITIL har formulerat den, framställs ofta som rivaler. Den här guiden behandlar dem som partner: varje ämne visar hur man kombinerar fart och förändring med stabilitet och kontroll, med forskning, arbetssätt, exempel, idéer att diskutera med team, AI-färdigheter och AI-prompter.",
+  "translations": "Översättningar: "
+ },
  "sw-001": {
   "tagline": "Mwongozo wa vitendo wa kuendesha huduma za TEHAMA kwa njia ya agile.",
   "intro": "Njia za kufanya kazi za agile na usimamizi wa huduma za TEHAMA, kama ITIL ulivyouweka katika kanuni, mara nyingi huwasilishwa kama washindani. Mwongozo huu unazichukulia kama washirika: kila mada inaonyesha jinsi ya kuchanganya kasi na mabadiliko na uthabiti na udhibiti, pamoja na utafiti, mazoea, mifano, mawazo ya kujadili na timu, ujuzi wa AI, na maelekezo ya AI.",
@@ -131,6 +141,8 @@ export const ENDONYMS: Record<string, string> = {
  "ko-001": "한국어",
  "ko-kr": "한국어 (대한민국)",
  "ru-001": "Русский",
+ "sv-001": "Svenska",
+ "sv-se": "Svenska (Sverige)",
  "sw-001": "Kiswahili",
  "sw-tz": "Kiswahili (Tanzania)",
  "zh-001": "中文",
