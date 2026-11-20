@@ -48,6 +48,12 @@ export const HERO: Record<string, Record<string, string>> = {
   "translations": "Cyfieithiadau: ",
   "language": "Iaith: "
  },
+ "cy-ar": {
+  "tagline": "Llawlyfr ymarferol ar gyfer rhedeg gwasanaethau TG yn y ffordd ystwyth.",
+  "intro": "Cyflwynir ffyrdd gweithio ystwyth a rheoli gwasanaethau TG, fel y'u codeiddir gan ITIL, yn aml fel cystadleuwyr. Mae'r canllaw hwn yn eu trin fel partneriaid: mae pob pwnc yn dangos sut i gyfuno cyflymder a newid â sefydlogrwydd a rheolaeth, gydag ymchwil, arferion, enghreifftiau, syniadau i'w trafod gyda thimau, sgiliau AI ac anogiadau AI.",
+  "translations": "Cyfieithiadau: ",
+  "language": "Iaith: "
+ },
  "da-001": {
   "tagline": "En praktisk håndbog i at drive IT-services på den agile måde.",
   "intro": "Agile arbejdsformer og IT-servicestyring, som ITIL har kodificeret det, fremstilles ofte som rivaler. Denne guide behandler dem som partnere: hvert emne viser, hvordan man kombinerer hastighed og forandring med stabilitet og kontrol, med forskning, praksisser, eksempler, idéer at tale om med teams, AI-skills og AI-prompts.",
@@ -55,6 +61,18 @@ export const HERO: Record<string, Record<string, string>> = {
   "language": "Sprog: "
  },
  "de-001": {
+  "tagline": "Ein praktisches Handbuch, um IT-Services auf agile Weise zu betreiben.",
+  "intro": "Agile Arbeitsweisen und IT-Service-Management, wie ITIL es festgeschrieben hat, werden oft als Rivalen dargestellt. Dieser Leitfaden behandelt sie als Partner: Jedes Thema zeigt, wie sich Tempo und Veränderung mit Stabilität und Kontrolle verbinden lassen, mit Forschung, Praktiken, Beispielen, Ideen für Gespräche mit Teams, KI-Skills und KI-Prompts.",
+  "translations": "Übersetzungen: ",
+  "language": "Sprache: "
+ },
+ "de-at": {
+  "tagline": "Ein praktisches Handbuch, um IT-Services auf agile Weise zu betreiben.",
+  "intro": "Agile Arbeitsweisen und IT-Service-Management, wie ITIL es festgeschrieben hat, werden oft als Rivalen dargestellt. Dieser Leitfaden behandelt sie als Partner: Jedes Thema zeigt, wie sich Tempo und Veränderung mit Stabilität und Kontrolle verbinden lassen, mit Forschung, Praktiken, Beispielen, Ideen für Gespräche mit Teams, KI-Skills und KI-Prompts.",
+  "translations": "Übersetzungen: ",
+  "language": "Sprache: "
+ },
+ "de-de": {
   "tagline": "Ein praktisches Handbuch, um IT-Services auf agile Weise zu betreiben.",
   "intro": "Agile Arbeitsweisen und IT-Service-Management, wie ITIL es festgeschrieben hat, werden oft als Rivalen dargestellt. Dieser Leitfaden behandelt sie als Partner: Jedes Thema zeigt, wie sich Tempo und Veränderung mit Stabilität und Kontrolle verbinden lassen, mit Forschung, Praktiken, Beispielen, Ideen für Gespräche mit Teams, KI-Skills und KI-Prompts.",
   "translations": "Übersetzungen: ",
@@ -127,6 +145,12 @@ export const HERO: Record<string, Record<string, string>> = {
   "language": "भाषा: "
  },
  "hi-in": {
+  "tagline": "एजाइल तरीक़े से आईटी सेवाएँ चलाने की एक व्यावहारिक पुस्तिका।",
+  "intro": "एजाइल कार्य-पद्धतियों और ITIL द्वारा संहिताबद्ध आईटी सेवा प्रबंधन को अक्सर प्रतिद्वंद्वी के रूप में पेश किया जाता है। यह मार्गदर्शिका उन्हें साझेदार मानती है: हर विषय शोध, प्रथाओं, उदाहरणों, टीमों के साथ चर्चा के विचारों, एआई कौशलों और एआई प्रॉम्प्ट के साथ दिखाता है कि गति और परिवर्तन को स्थिरता और नियंत्रण के साथ कैसे जोड़ा जाए।",
+  "translations": "अनुवाद: ",
+  "language": "भाषा: "
+ },
+ "hi-np": {
   "tagline": "एजाइल तरीक़े से आईटी सेवाएँ चलाने की एक व्यावहारिक पुस्तिका।",
   "intro": "एजाइल कार्य-पद्धतियों और ITIL द्वारा संहिताबद्ध आईटी सेवा प्रबंधन को अक्सर प्रतिद्वंद्वी के रूप में पेश किया जाता है। यह मार्गदर्शिका उन्हें साझेदार मानती है: हर विषय शोध, प्रथाओं, उदाहरणों, टीमों के साथ चर्चा के विचारों, एआई कौशलों और एआई प्रॉम्प्ट के साथ दिखाता है कि गति और परिवर्तन को स्थिरता और नियंत्रण के साथ कैसे जोड़ा जाए।",
   "translations": "अनुवाद: ",
@@ -311,7 +335,13 @@ export const HERO: Record<string, Record<string, string>> = {
   "intro": "敏捷工作方式与ITIL所规范的IT服务管理，常被视为对立。本指南把它们看作伙伴：每个主题都结合研究、实践、案例、可与团队讨论的想法、AI技能和AI提示词，说明如何把速度与变化同稳定与控制结合起来。",
   "translations": "翻译： ",
   "language": "语言："
- }
+ },
+ "zh-th": {
+  "tagline": "一本以敏捷方式运营IT服务的实用手册。",
+  "intro": "敏捷工作方式与ITIL所规范的IT服务管理，常被视为对立。本指南把它们看作伙伴：每个主题都结合研究、实践、案例、可与团队讨论的想法、AI技能和AI提示词，说明如何把速度与变化同稳定与控制结合起来。",
+  "translations": "翻译： ",
+  "language": "语言："
+ },
 };
 
 export const ENDONYMS: Record<string, string> = {
@@ -323,8 +353,11 @@ export const ENDONYMS: Record<string, string> = {
  "bn-in": "বাংলা - ভারত",
  "cy-001": "Cymraeg",
  "cy-gb": "Cymraeg (Prydain Fawr)",
+ "cy-ar": "Cymraeg (Ariannin)",
  "da-001": "Dansk",
  "de-001": "Deutsch",
+ "de-at": "Deutsch (Österreich)",
+ "de-de": "Deutsch (Deutschland)",
  "en-001": "English",
  "en-gb": "English (Great Britain)",
  "en-gb-oxendict": "English (Great Britain, Oxford)",
@@ -337,6 +370,7 @@ export const ENDONYMS: Record<string, string> = {
  "fr-ca": "Français - Canada",
  "hi-001": "हिन्दी",
  "hi-in": "हिन्दी (भारत)",
+ "hi-np": "हिन्दी (नेपाल)",
  "id-001": "Bahasa Indonesia",
  "id-id": "Bahasa Indonesia (Indonesia)",
  "id-my": "Bahasa Indonesia - Malaysia",
@@ -366,5 +400,6 @@ export const ENDONYMS: Record<string, string> = {
  "vi-001": "Tiếng Việt",
  "vi-vn": "Tiếng Việt (Việt Nam)",
  "zh-001": "中文",
- "zh-cn": "简体中文"
+ "zh-cn": "简体中文",
+ "zh-th": "简体中文 (泰国)",
 };
