@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Deliver value sooner",
+  "text": "Learn the simple values behind agile so your team ships useful work in small steps and adapts when needs change.",
+  "link": "Read about the Agile Manifesto"
+ },
+ {
+  "title": "Make sense of ITIL",
+  "text": "Get a plain-English tour of ITIL and what it offers, so you can take the useful parts without drowning in process.",
+  "link": "Read about ITIL"
+ },
+ {
+  "title": "Restore service fast when things break",
+  "text": "Handle outages calmly and quickly, get people back to work, and learn enough to stop the same problem returning.",
+  "link": "Read about incident management"
+ },
+ {
+  "title": "Ship changes safely without red tape",
+  "text": "Move changes through quickly with the right checks, so you get speed and stability instead of choosing one.",
+  "link": "Read about change enablement"
+ },
+ {
+  "title": "Bring development and operations together",
+  "text": "See how shared ownership, automation and fast feedback cut handoffs and make releases less stressful.",
+  "link": "Read about DevOps"
+ },
+ {
+  "title": "Put AI to work on your service desk",
+  "text": "Find practical, careful ways to use AI to answer tickets, spot patterns and free people for harder problems.",
+  "link": "Read about AI in IT service management"
+ }
+]

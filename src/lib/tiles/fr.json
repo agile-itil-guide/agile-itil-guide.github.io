@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Livrer de la valeur plus tôt",
+  "text": "Découvrez les valeurs simples de l'agilité pour livrer du travail utile par petites étapes et vous adapter quand les besoins changent.",
+  "link": "Lire sur le Manifeste agile"
+ },
+ {
+  "title": "Comprendre ITIL",
+  "text": "Une visite claire d'ITIL et de ce qu'il apporte, pour en retenir l'utile sans vous noyer dans les processus.",
+  "link": "Lire sur ITIL"
+ },
+ {
+  "title": "Rétablir le service vite en cas de panne",
+  "text": "Gérez les pannes avec calme, remettez les gens au travail et tirez les leçons pour éviter le retour du problème.",
+  "link": "Lire sur la gestion des incidents"
+ },
+ {
+  "title": "Déployer les changements sans lourdeur",
+  "text": "Faites avancer les changements vite avec les bons contrôles, pour avoir à la fois rapidité et stabilité.",
+  "link": "Lire sur la maîtrise des changements"
+ },
+ {
+  "title": "Rapprocher développement et exploitation",
+  "text": "Responsabilité partagée, automatisation et retours rapides réduisent les passages de relais et apaisent les mises en production.",
+  "link": "Lire sur DevOps"
+ },
+ {
+  "title": "Mettre l'IA au service de votre support",
+  "text": "Des usages concrets et prudents de l'IA pour traiter les tickets, repérer les tendances et libérer du temps pour les cas difficiles.",
+  "link": "Lire sur l'IA dans la gestion des services"
+ }
+]

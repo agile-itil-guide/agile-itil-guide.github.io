@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Schneller Nutzen liefern",
+  "text": "Lernen Sie die einfachen Werte hinter Agilität kennen, damit Ihr Team in kleinen Schritten Nützliches liefert und sich Änderungen anpasst.",
+  "link": "Mehr zum Agilen Manifest"
+ },
+ {
+  "title": "ITIL verständlich erklärt",
+  "text": "Eine klare Tour durch ITIL und seinen Nutzen, damit Sie das Brauchbare übernehmen, ohne im Prozessdickicht zu versinken.",
+  "link": "Mehr zu ITIL"
+ },
+ {
+  "title": "Bei Störungen schnell wieder liefern",
+  "text": "Bewältigen Sie Ausfälle ruhig und zügig, bringen Sie Menschen zurück an die Arbeit und verhindern Sie, dass das Problem wiederkehrt.",
+  "link": "Mehr zum Incident Management"
+ },
+ {
+  "title": "Änderungen sicher ohne Bürokratie ausrollen",
+  "text": "Bringen Sie Änderungen mit den richtigen Prüfungen rasch durch, sodass Tempo und Stabilität zusammengehen.",
+  "link": "Mehr zur Change Enablement"
+ },
+ {
+  "title": "Entwicklung und Betrieb zusammenbringen",
+  "text": "Gemeinsame Verantwortung, Automatisierung und schnelles Feedback verringern Übergaben und machen Releases entspannter.",
+  "link": "Mehr zu DevOps"
+ },
+ {
+  "title": "KI im Service Desk sinnvoll einsetzen",
+  "text": "Praktische, sorgfältige Wege, KI für Tickets, Muster und Entlastung bei schwierigen Fällen zu nutzen.",
+  "link": "Mehr zu KI im IT-Servicemanagement"
+ }
+]

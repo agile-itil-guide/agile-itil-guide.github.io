@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Lever sneller waarde",
+  "text": "Leer de eenvoudige waarden achter agile kennen, zodat uw team in kleine stappen nuttig werk oplevert en meebeweegt als behoeften veranderen.",
+  "link": "Lees over het Agile Manifesto"
+ },
+ {
+  "title": "Begrijp ITIL",
+  "text": "Een heldere rondleiding door ITIL en wat het biedt, zodat u het nuttige overneemt zonder te verdrinken in processen.",
+  "link": "Lees over ITIL"
+ },
+ {
+  "title": "Herstel de dienst snel als er iets misgaat",
+  "text": "Pak storingen rustig en snel aan, krijg mensen weer aan het werk en leer genoeg om herhaling te voorkomen.",
+  "link": "Lees over incidentmanagement"
+ },
+ {
+  "title": "Voer wijzigingen veilig door zonder bureaucratie",
+  "text": "Laat wijzigingen snel door met de juiste controles, zodat u snelheid en stabiliteit tegelijk krijgt.",
+  "link": "Lees over wijzigingen mogelijk maken"
+ },
+ {
+  "title": "Breng ontwikkeling en beheer samen",
+  "text": "Gedeelde verantwoordelijkheid, automatisering en snelle feedback verminderen overdrachten en maken releases rustiger.",
+  "link": "Lees over DevOps"
+ },
+ {
+  "title": "Zet AI in op uw servicedesk",
+  "text": "Praktische, zorgvuldige manieren om AI te gebruiken voor tickets, patronen en meer tijd voor lastige zaken.",
+  "link": "Lees over AI in IT-servicemanagement"
+ }
+]

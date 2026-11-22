@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Entrega valor antes",
+  "text": "Conoce los valores sencillos de la agilidad para entregar trabajo útil en pasos pequeños y adaptarte cuando cambian las necesidades.",
+  "link": "Leer sobre el Manifiesto Ágil"
+ },
+ {
+  "title": "Entiende ITIL",
+  "text": "Un recorrido claro por ITIL y lo que ofrece, para aprovechar lo útil sin ahogarte en procesos.",
+  "link": "Leer sobre ITIL"
+ },
+ {
+  "title": "Restablece el servicio rápido cuando algo falla",
+  "text": "Gestiona las caídas con calma, devuelve a las personas al trabajo y aprende lo necesario para que el problema no vuelva.",
+  "link": "Leer sobre la gestión de incidentes"
+ },
+ {
+  "title": "Despliega cambios con seguridad y sin burocracia",
+  "text": "Haz avanzar los cambios con rapidez y los controles adecuados, para tener velocidad y estabilidad a la vez.",
+  "link": "Leer sobre la habilitación de cambios"
+ },
+ {
+  "title": "Une desarrollo y operaciones",
+  "text": "La responsabilidad compartida, la automatización y la respuesta rápida reducen traspasos y hacen las publicaciones menos estresantes.",
+  "link": "Leer sobre DevOps"
+ },
+ {
+  "title": "Usa la IA en tu mesa de servicio",
+  "text": "Formas prácticas y cuidadosas de usar la IA para responder tickets, detectar patrones y liberar tiempo para los casos difíciles.",
+  "link": "Leer sobre la IA en la gestión de servicios de TI"
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Cyflwyno gwerth yn gynt",
+  "text": "Dysgwch y gwerthoedd syml y tu ôl i ystwythder fel bod eich tîm yn cyflwyno gwaith defnyddiol mewn camau bach ac yn addasu pan fydd anghenion yn newid.",
+  "link": "Darllen am y Maniffesto Ystwyth"
+ },
+ {
+  "title": "Deall ITIL",
+  "text": "Taith glir drwy ITIL a'r hyn a gynigia, i gymryd y rhannau defnyddiol heb foddi mewn prosesau.",
+  "link": "Darllen am ITIL"
+ },
+ {
+  "title": "Adfer gwasanaeth yn gyflym pan fydd rhywbeth yn torri",
+  "text": "Ymdrinio ag methiannau'n dawel ac yn gyflym, cael pobl yn ôl i'r gwaith a dysgu digon i atal y broblem rhag dychwelyd.",
+  "link": "Darllen am reoli digwyddiadau"
+ },
+ {
+  "title": "Cyflwyno newidiadau'n ddiogel heb fiwrocratiaeth",
+  "text": "Symud newidiadau'n gyflym gyda'r gwiriadau cywir, i gael cyflymder a sefydlogrwydd gyda'i gilydd.",
+  "link": "Darllen am alluogi newid"
+ },
+ {
+  "title": "Dod â datblygu a gweithrediadau ynghyd",
+  "text": "Mae cyfrifoldeb a rennir, awtomeiddio ac adborth cyflym yn lleihau trosglwyddo ac yn gwneud datganiadau'n llai llawn straen.",
+  "link": "Darllen am DevOps"
+ },
+ {
+  "title": "Defnyddio AI ar eich desg gwasanaeth",
+  "text": "Ffyrdd ymarferol a gofalus o ddefnyddio AI i ateb tocynnau, gweld patrymau a rhyddhau amser ar gyfer problemau anoddach.",
+  "link": "Darllen am AI mewn rheoli gwasanaethau TG"
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Leverera värde tidigare",
+  "text": "Lär dig de enkla värderingarna bakom agilt arbete så att ditt team levererar nyttigt arbete i små steg och anpassar sig när behoven ändras.",
+  "link": "Läs om det agila manifestet"
+ },
+ {
+  "title": "Förstå ITIL",
+  "text": "En tydlig rundtur i ITIL och vad det erbjuder, så att du tar det användbara utan att drunkna i processer.",
+  "link": "Läs om ITIL"
+ },
+ {
+  "title": "Återställ tjänsten snabbt när något går sönder",
+  "text": "Hantera driftstopp lugnt och snabbt, få folk i arbete igen och lär dig nog för att problemet inte ska komma tillbaka.",
+  "link": "Läs om incidenthantering"
+ },
+ {
+  "title": "Inför ändringar säkert utan byråkrati",
+  "text": "Driv ändringar snabbt med rätt kontroller så att du får både fart och stabilitet.",
+  "link": "Läs om ändringshantering"
+ },
+ {
+  "title": "För samman utveckling och drift",
+  "text": "Delat ansvar, automatisering och snabb återkoppling minskar överlämningar och gör releaser lugnare.",
+  "link": "Läs om DevOps"
+ },
+ {
+  "title": "Låt AI hjälpa din servicedesk",
+  "text": "Praktiska och försiktiga sätt att använda AI för ärenden, mönster och mer tid till svåra fall.",
+  "link": "Läs om AI i IT-tjänstehantering"
+ }
+]

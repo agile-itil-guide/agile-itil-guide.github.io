@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Değeri daha erken ulaştırın",
+  "text": "Çevikliğin ardındaki basit değerleri öğrenin; ekibiniz küçük adımlarla işe yarar iş teslim etsin, ihtiyaçlar değişince uyum sağlasın.",
+  "link": "Çevik Manifesto'yu okuyun"
+ },
+ {
+  "title": "ITIL'i anlayın",
+  "text": "ITIL'e ve sunduklarına açık bir tur; süreçlerde boğulmadan işinize yarayanı alın.",
+  "link": "ITIL'i okuyun"
+ },
+ {
+  "title": "Bir şey bozulduğunda hizmeti hızla geri getirin",
+  "text": "Kesintileri sakin ve hızlı yönetin, insanları işlerine döndürün ve aynı sorunun dönmemesi için yeterince öğrenin.",
+  "link": "Olay yönetimini okuyun"
+ },
+ {
+  "title": "Değişiklikleri bürokrasisiz ve güvenle yayınlayın",
+  "text": "Doğru kontrollerle değişiklikleri hızla ilerletin; hız ve istikrarı birlikte elde edin.",
+  "link": "Değişiklik etkinleştirmeyi okuyun"
+ },
+ {
+  "title": "Geliştirme ve operasyonu birleştirin",
+  "text": "Ortak sorumluluk, otomasyon ve hızlı geri bildirim devirleri azaltır, yayınları daha az stresli kılar.",
+  "link": "DevOps'u okuyun"
+ },
+ {
+  "title": "Hizmet masanızda yapay zekâdan yararlanın",
+  "text": "Talepleri yanıtlamak, kalıpları görmek ve zor sorunlara zaman ayırmak için yapay zekâyı kullanmanın pratik ve temkinli yolları.",
+  "link": "BT hizmet yönetiminde yapay zekâyı okuyun"
+ }
+]

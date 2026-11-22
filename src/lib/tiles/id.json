@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Hadirkan nilai lebih cepat",
+  "text": "Pelajari nilai-nilai sederhana di balik agile agar tim Anda mengirim pekerjaan berguna dalam langkah kecil dan menyesuaikan diri saat kebutuhan berubah.",
+  "link": "Baca tentang Manifesto Agile"
+ },
+ {
+  "title": "Pahami ITIL",
+  "text": "Tur yang jelas tentang ITIL dan manfaatnya, agar Anda mengambil yang berguna tanpa tenggelam dalam proses.",
+  "link": "Baca tentang ITIL"
+ },
+ {
+  "title": "Pulihkan layanan dengan cepat saat ada masalah",
+  "text": "Tangani gangguan dengan tenang dan cepat, kembalikan orang bekerja, dan belajar cukup agar masalah yang sama tidak kembali.",
+  "link": "Baca tentang manajemen insiden"
+ },
+ {
+  "title": "Terapkan perubahan dengan aman tanpa birokrasi",
+  "text": "Jalankan perubahan dengan cepat dan pemeriksaan yang tepat, sehingga kecepatan dan stabilitas didapat bersamaan.",
+  "link": "Baca tentang pemberdayaan perubahan"
+ },
+ {
+  "title": "Satukan pengembangan dan operasi",
+  "text": "Tanggung jawab bersama, otomatisasi, dan umpan balik cepat mengurangi serah terima dan membuat rilis lebih tenang.",
+  "link": "Baca tentang DevOps"
+ },
+ {
+  "title": "Manfaatkan AI di meja layanan Anda",
+  "text": "Cara praktis dan hati-hati memakai AI untuk menjawab tiket, mengenali pola, dan menyisakan waktu untuk masalah sulit.",
+  "link": "Baca tentang AI dalam manajemen layanan TI"
+ }
+]

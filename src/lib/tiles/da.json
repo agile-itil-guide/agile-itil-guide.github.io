@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Levér værdi hurtigere",
+  "text": "Lær de enkle værdier bag agilt arbejde, så dit team leverer nyttigt arbejde i små skridt og tilpasser sig, når behov ændrer sig.",
+  "link": "Læs om det agile manifest"
+ },
+ {
+  "title": "Forstå ITIL",
+  "text": "En klar rundvisning i ITIL og hvad det tilbyder, så du tager det brugbare uden at drukne i processer.",
+  "link": "Læs om ITIL"
+ },
+ {
+  "title": "Genopret servicen hurtigt, når noget går i stykker",
+  "text": "Håndtér nedbrud roligt og hurtigt, få folk tilbage i arbejde og lær nok til at undgå gentagelse.",
+  "link": "Læs om incidenthåndtering"
+ },
+ {
+  "title": "Indfør ændringer sikkert uden bureaukrati",
+  "text": "Få ændringer hurtigt igennem med de rette kontroller, så du får både fart og stabilitet.",
+  "link": "Læs om ændringshåndtering"
+ },
+ {
+  "title": "Saml udvikling og drift",
+  "text": "Fælles ansvar, automatisering og hurtig feedback mindsker overdragelser og gør releases mindre stressende.",
+  "link": "Læs om DevOps"
+ },
+ {
+  "title": "Brug AI i din servicedesk",
+  "text": "Praktiske og forsigtige måder at bruge AI på til sager, mønstre og mere tid til svære problemer.",
+  "link": "Læs om AI i IT-servicestyring"
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Consegna valore prima",
+  "text": "Scopri i valori semplici dell'agilità per rilasciare lavoro utile a piccoli passi e adattarti quando le esigenze cambiano.",
+  "link": "Leggi del Manifesto Agile"
+ },
+ {
+  "title": "Capire ITIL",
+  "text": "Un giro chiaro in ITIL e in ciò che offre, per prendere l'utile senza affogare nei processi.",
+  "link": "Leggi di ITIL"
+ },
+ {
+  "title": "Ripristina il servizio in fretta quando qualcosa si rompe",
+  "text": "Gestisci i disservizi con calma, riporta le persone al lavoro e impara quanto basta per evitare che il problema ritorni.",
+  "link": "Leggi della gestione degli incidenti"
+ },
+ {
+  "title": "Rilascia modifiche in sicurezza senza burocrazia",
+  "text": "Fai avanzare le modifiche in fretta con i controlli giusti, ottenendo velocità e stabilità insieme.",
+  "link": "Leggi dell'abilitazione delle modifiche"
+ },
+ {
+  "title": "Unisci sviluppo e operations",
+  "text": "Responsabilità condivisa, automazione e feedback rapido riducono i passaggi di mano e rendono i rilasci meno stressanti.",
+  "link": "Leggi di DevOps"
+ },
+ {
+  "title": "Usa l'IA nel tuo service desk",
+  "text": "Modi pratici e prudenti per usare l'IA nel rispondere ai ticket, individuare schemi e lasciare tempo ai casi difficili.",
+  "link": "Leggi dell'IA nella gestione dei servizi IT"
+ }
+]

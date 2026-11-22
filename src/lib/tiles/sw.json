@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Fikisha thamani mapema",
+  "text": "Jifunze maadili rahisi nyuma ya wepesi (agile) ili timu yako itoe kazi yenye manufaa kwa hatua ndogo na ijirekebishe mahitaji yanapobadilika.",
+  "link": "Soma kuhusu Ilani ya Agile"
+ },
+ {
+  "title": "Elewa ITIL",
+  "text": "Ziara iliyo wazi ya ITIL na inachotoa, ili uchukue yenye manufaa bila kuzama kwenye michakato.",
+  "link": "Soma kuhusu ITIL"
+ },
+ {
+  "title": "Rudisha huduma haraka kitu kinapoharibika",
+  "text": "Shughulikia hitilafu kwa utulivu na haraka, warudishe watu kazini, na ujifunze vya kutosha ili tatizo lisirudi.",
+  "link": "Soma kuhusu usimamizi wa matukio"
+ },
+ {
+  "title": "Toa mabadiliko kwa usalama bila urasimu",
+  "text": "Peleka mabadiliko haraka kwa ukaguzi sahihi, upate kasi na uthabiti kwa pamoja.",
+  "link": "Soma kuhusu kuwezesha mabadiliko"
+ },
+ {
+  "title": "Unganisha uundaji na uendeshaji",
+  "text": "Uwajibikaji wa pamoja, otomatiki na maoni ya haraka hupunguza makabidhiano na kufanya matoleo yasiwe na mkazo.",
+  "link": "Soma kuhusu DevOps"
+ },
+ {
+  "title": "Tumia AI kwenye dawati lako la huduma",
+  "text": "Njia za vitendo na za tahadhari za kutumia AI kujibu tiketi, kuona mifumo na kuokoa muda kwa matatizo magumu.",
+  "link": "Soma kuhusu AI katika usimamizi wa huduma za TEHAMA"
+ }
+]

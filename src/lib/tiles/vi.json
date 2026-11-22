@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Mang lại giá trị sớm hơn",
+  "text": "Tìm hiểu những giá trị đơn giản đằng sau agile để nhóm của bạn giao việc hữu ích theo từng bước nhỏ và thích ứng khi nhu cầu thay đổi.",
+  "link": "Đọc về Tuyên ngôn Agile"
+ },
+ {
+  "title": "Hiểu về ITIL",
+  "text": "Một chuyến tham quan rõ ràng về ITIL và những gì nó mang lại, để bạn lấy phần hữu ích mà không chìm trong quy trình.",
+  "link": "Đọc về ITIL"
+ },
+ {
+  "title": "Khôi phục dịch vụ nhanh khi có sự cố",
+  "text": "Xử lý gián đoạn bình tĩnh và nhanh chóng, đưa mọi người trở lại làm việc và rút đủ bài học để sự cố không lặp lại.",
+  "link": "Đọc về quản lý sự cố"
+ },
+ {
+  "title": "Triển khai thay đổi an toàn mà không rườm rà",
+  "text": "Đưa thay đổi đi nhanh với các kiểm tra phù hợp để có cả tốc độ lẫn sự ổn định.",
+  "link": "Đọc về cho phép thay đổi"
+ },
+ {
+  "title": "Gắn kết phát triển và vận hành",
+  "text": "Trách nhiệm chung, tự động hóa và phản hồi nhanh giúp giảm bàn giao và làm các đợt phát hành bớt căng thẳng.",
+  "link": "Đọc về DevOps"
+ },
+ {
+  "title": "Dùng AI cho bàn dịch vụ của bạn",
+  "text": "Những cách dùng AI thiết thực và thận trọng để trả lời phiếu, nhận ra quy luật và dành thời gian cho vấn đề khó hơn.",
+  "link": "Đọc về AI trong quản lý dịch vụ CNTT"
+ }
+]
